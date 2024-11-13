@@ -1,0 +1,4046 @@
+[
+  {
+    "title": "The Elder Scrolls V: Skyrim",
+    "rankings": {
+      "RPS": 100,
+      "IGN": 41
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 72850,
+    "user_score": 0.9252921124706902,
+    "total_reviews": 101502,
+    "price": "CDN$ 21.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/72850/header.jpg?t=1721923139"
+  },
+  {
+    "title": "The Stanley Parable",
+    "rankings": {
+      "RPS": 99
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 221910,
+    "user_score": 0.9235822835072014,
+    "total_reviews": 27703,
+    "price": "CDN$ 19.49",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221910/header.jpg?t=1728164340"
+  },
+  {
+    "title": "Blood",
+    "rankings": {
+      "RPS": 98
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Stardew Valley",
+    "rankings": {
+      "RPS": 97,
+      "PCGamer": 9
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 413150,
+    "user_score": 0.9888639559027551,
+    "total_reviews": 322197,
+    "price": "CDN$ 16.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1711128146"
+  },
+  {
+    "title": "QWOP",
+    "rankings": {
+      "RPS": 96
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Quake",
+    "rankings": {
+      "RPS": 95
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 2310,
+    "user_score": 0.9650452488687783,
+    "total_reviews": 8840,
+    "price": "CDN$ 13.49",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310/header.jpg?t=1691683243"
+  },
+  {
+    "title": "Prison Architect",
+    "rankings": {
+      "RPS": 94
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold"
+    },
+    "steam_id": 233450,
+    "user_score": 0.8919483070878227,
+    "total_reviews": 32577,
+    "price": "CDN$ 39.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/header.jpg?t=1727783873"
+  },
+  {
+    "title": "Undertale",
+    "rankings": {
+      "RPS": 93,
+      "IGN": 20
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 391540,
+    "user_score": 0.9649611929745625,
+    "total_reviews": 124462,
+    "price": "CDN$ 10.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/header.jpg?t=1579096091"
+  },
+  {
+    "title": "DOOM Eternal",
+    "rankings": {
+      "RPS": 92,
+      "PCGamer": 48
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 782330,
+    "user_score": 0.9125520042412099,
+    "total_reviews": 111289,
+    "price": "$23.99 USD",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/header.jpg?t=1702308063"
+  },
+  {
+    "title": "Dead Cells",
+    "rankings": {
+      "RPS": 91,
+      "PCGamer": 91
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 588650,
+    "user_score": 0.9651894701969879,
+    "total_reviews": 39241,
+    "price": "CDN$ 29.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/header.jpg?t=1727254520"
+  },
+  {
+    "title": "Against The Storm",
+    "rankings": {
+      "RPS": 90
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 1336490,
+    "user_score": 0.954463040446304,
+    "total_reviews": 14340,
+    "price": "CDN$ 19.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1336490/header.jpg?t=1728907231"
+  },
+  {
+    "title": "Resident Evil 2 Remake",
+    "rankings": {
+      "RPS": 89
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Cities: Skylines",
+    "rankings": {
+      "RPS": 88
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold"
+    },
+    "steam_id": 255710,
+    "user_score": 0.9314436885865457,
+    "total_reviews": 92610,
+    "price": "CDN$ 39.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg?t=1730278697"
+  },
+  {
+    "title": "BioShock",
+    "rankings": {
+      "RPS": 87,
+      "IGN": 18
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Hi-Fi Rush",
+    "rankings": {
+      "RPS": 86
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 1817230,
+    "user_score": 0.979486500794071,
+    "total_reviews": 15112,
+    "price": "CDN$ 38.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/header.jpg?t=1721834594"
+  },
+  {
+    "title": "Doom",
+    "rankings": {
+      "RPS": 85,
+      "IGN": 29
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 379720,
+    "user_score": 0.9556895998288037,
+    "total_reviews": 74768,
+    "price": "CDN$ 24.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg?t=1692892793"
+  },
+  {
+    "title": "Counter-Strike 2",
+    "rankings": {
+      "RPS": 84,
+      "PCGamer": 35
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": true,
+      "steamdeck": "gold"
+    },
+    "steam_id": 730,
+    "user_score": 0.8663184408128082,
+    "total_reviews": 1264505,
+    "price": "N/A",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/header.jpg?t=1729703045"
+  },
+  {
+    "title": "Total War: Warhammer III",
+    "rankings": {
+      "RPS": 83
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold"
+    },
+    "steam_id": 1142710,
+    "user_score": 0.7227670753064799,
+    "total_reviews": 45680,
+    "price": "$59.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg?t=1719611574"
+  },
+  {
+    "title": "Legacy of Kain: Soul Reaver",
+    "rankings": {
+      "RPS": 82
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Tetris Effect",
+    "rankings": {
+      "RPS": 81
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Left 4 Dead 2",
+    "rankings": {
+      "RPS": 80,
+      "IGN": 51,
+      "PCGamer": 93
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": true,
+      "steamdeck": "gold"
+    },
+    "steam_id": 550,
+    "user_score": 0.9749374320600652,
+    "total_reviews": 197785,
+    "price": "CDN$ 12.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg?t=1731457037"
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "rankings": {
+      "RPS": 79,
+      "IGN": 8,
+      "PCGamer": 15
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 1174180,
+    "user_score": 0.9098154183329301,
+    "total_reviews": 210801,
+    "price": "$59.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1720558643"
+  },
+  {
+    "title": "Plants vs. Zombies",
+    "rankings": {
+      "RPS": 78
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Fallout 2",
+    "rankings": {
+      "RPS": 77,
+      "IGN": 94
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 38410,
+    "user_score": 0.9428684523024146,
+    "total_reviews": 7579,
+    "price": "CDN$ 10.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38410/header.jpg?t=1572025546"
+  },
+  {
+    "title": "Tekken 7",
+    "rankings": {
+      "RPS": 76
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 389730,
+    "user_score": 0.909380399065009,
+    "total_reviews": 29519,
+    "price": "CDN$ 53.49",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/header.jpg?t=1703657219"
+  },
+  {
+    "title": "Roadwarden",
+    "rankings": {
+      "RPS": 75
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 1155970,
+    "user_score": 0.953416149068323,
+    "total_reviews": 2898,
+    "price": "CDN$ 12.49",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155970/header.jpg?t=1730298317"
+  },
+  {
+    "title": "Portal 2",
+    "rankings": {
+      "RPS": 74,
+      "IGN": 3
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 620,
+    "user_score": 0.9884832911694195,
+    "total_reviews": 150998,
+    "price": "CDN$ 12.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg?t=1725487730"
+  },
+  {
+    "title": "Far Cry 4",
+    "rankings": {
+      "RPS": 73
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 298110,
+    "user_score": 0.8079476810943038,
+    "total_reviews": 20031,
+    "price": "CDN$ 7.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/header.jpg?t=1694554696"
+  },
+  {
+    "title": "Grand Theft Auto V",
+    "rankings": {
+      "RPS": 72,
+      "IGN": 12
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 271590,
+    "user_score": 0.8319438382750327,
+    "total_reviews": 538445,
+    "price": "N/A",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg?t=1726606628"
+  },
+  {
+    "title": "What Remains of Edith Finch",
+    "rankings": {
+      "RPS": 71
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 501300,
+    "user_score": 0.9415484052269214,
+    "total_reviews": 14234,
+    "price": "CDN$ 25.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/501300/header.jpg?t=1729098797"
+  },
+  {
+    "title": "The Secret of Monkey Island",
+    "rankings": {
+      "RPS": 70
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "The Last of Us Part I",
+    "rankings": {
+      "RPS": 69
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Sid Meier's Pirates! Live the Life",
+    "rankings": {
+      "RPS": 68
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Half-Life: Alyx",
+    "rankings": {
+      "RPS": 67,
+      "IGN": 26
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 546560,
+    "user_score": 0.9825623418865197,
+    "total_reviews": 55340,
+    "price": "CDN$ 77.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/546560/header.jpg?t=1673391297"
+  },
+  {
+    "title": "Heaven's Vault",
+    "rankings": {
+      "RPS": 66
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 774201,
+    "user_score": 0.8751763046544428,
+    "total_reviews": 1418,
+    "price": "CDN$ 28.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774201/header.jpg?t=1729257523"
+  },
+  {
+    "title": "Gears of War",
+    "rankings": {
+      "RPS": 65
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Forza Horizon 4",
+    "rankings": {
+      "RPS": 64
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "silver"
+    },
+    "steam_id": 1293830,
+    "user_score": 0.8880845028682712,
+    "total_reviews": 47241,
+    "price": "CDN$ 79.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg?t=1730830821"
+  },
+  {
+    "title": "Stray",
+    "rankings": {
+      "RPS": 63
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 1332010,
+    "user_score": 0.9743353244319513,
+    "total_reviews": 68304,
+    "price": "CDN$ 39.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/header.jpg?t=1729097732"
+  },
+  {
+    "title": "Dragon Age II",
+    "rankings": {
+      "RPS": 62
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 1238040,
+    "user_score": 0.8038656527249683,
+    "total_reviews": 3156,
+    "price": "CDN$ 39.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238040/header.jpg?t=1671830944"
+  },
+  {
+    "title": "Deus Ex",
+    "rankings": {
+      "RPS": 61,
+      "PCGamer": 44
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Before Your Eyes",
+    "rankings": {
+      "RPS": 60
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 1082430,
+    "user_score": 0.9814310713591289,
+    "total_reviews": 10286,
+    "price": "CDN$ 12.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1082430/header.jpg?t=1729701897"
+  },
+  {
+    "title": "Terraria",
+    "rankings": {
+      "RPS": 59
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold"
+    },
+    "steam_id": 105600,
+    "user_score": 0.9775453563312595,
+    "total_reviews": 536860,
+    "price": "CDN$ 12.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1731252354"
+  },
+  {
+    "title": "SOMA",
+    "rankings": {
+      "RPS": 58
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 282140,
+    "user_score": 0.9579044400061454,
+    "total_reviews": 19527,
+    "price": "CDN$ 38.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282140/header.jpg?t=1727954562"
+  },
+  {
+    "title": "Satisfactory",
+    "rankings": {
+      "RPS": 57
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 526870,
+    "user_score": 0.9729945049333034,
+    "total_reviews": 97906,
+    "price": "CDN$ 51.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header_alt_assets_2.jpg?t=1730110257"
+  },
+  {
+    "title": "Destiny 2",
+    "rankings": {
+      "RPS": 56,
+      "PCGamer": 85
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "borked"
+    },
+    "steam_id": 1085660,
+    "user_score": 0.8169813379897414,
+    "total_reviews": 73304,
+    "price": "N/A",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/header.jpg?t=1729011722"
+  },
+  {
+    "title": "The Sims 4",
+    "rankings": {
+      "RPS": 55
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Metal Gear Solid V: The Phantom Pain",
+    "rankings": {
+      "RPS": 54
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 287700,
+    "user_score": 0.9161987157097181,
+    "total_reviews": 37219,
+    "price": "CDN$ 29.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287700/header.jpg?t=1727849445"
+  },
+  {
+    "title": "Stellaris",
+    "rankings": {
+      "RPS": 53,
+      "PCGamer": 36
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold"
+    },
+    "steam_id": 281990,
+    "user_score": 0.8839741104184687,
+    "total_reviews": 67054,
+    "price": "CDN$ 52.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/header.jpg?t=1730707831"
+  },
+  {
+    "title": "OlliOlli World",
+    "rankings": {
+      "RPS": 52
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 1190170,
+    "user_score": 0.9357142857142857,
+    "total_reviews": 560,
+    "price": "CDN$ 25.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190170/header.jpg?t=1667405689"
+  },
+  {
+    "title": "Totally Accurate Battle Simulator",
+    "rankings": {
+      "RPS": 51
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 508440,
+    "user_score": 0.9812197536295645,
+    "total_reviews": 72736,
+    "price": "CDN$ 25.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508440/header.jpg?t=1730715415"
+  },
+  {
+    "title": "Overwatch",
+    "rankings": {
+      "RPS": 50,
+      "IGN": 56
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Half-Life 2",
+    "rankings": {
+      "RPS": 49,
+      "IGN": 9,
+      "PCGamer": 7
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 220,
+    "user_score": 0.9721945958060766,
+    "total_reviews": 71389,
+    "price": "CDN$ 12.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/header.jpg?t=1727742736"
+  },
+  {
+    "title": "Hades 2",
+    "rankings": {
+      "RPS": 48
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Dwarf Fortress",
+    "rankings": {
+      "RPS": 47,
+      "PCGamer": 16
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 975370,
+    "user_score": 0.9523924368126567,
+    "total_reviews": 20732,
+    "price": "CDN$ 38.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/975370/header.jpg?t=1728394218"
+  },
+  {
+    "title": "Tactical Breach Wizards",
+    "rankings": {
+      "RPS": 46
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 1043810,
+    "user_score": 0.9842767295597484,
+    "total_reviews": 5724,
+    "price": "CDN$ 25.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043810/header.jpg?t=1726030693"
+  },
+  {
+    "title": "Rocket League",
+    "rankings": {
+      "RPS": 45
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 252950,
+    "user_score": 0.8724373168713234,
+    "total_reviews": 223545,
+    "price": "N/A",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252950/header.jpg?t=1726856715"
+  },
+  {
+    "title": "American Truck Simulator",
+    "rankings": {
+      "RPS": 44
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 270880,
+    "user_score": 0.9732581218008983,
+    "total_reviews": 76584,
+    "price": "CDN$ 25.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/header.jpg?t=1731333409"
+  },
+  {
+    "title": "Homeworld: Cataclysm",
+    "rankings": {
+      "RPS": 43
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "RimWorld",
+    "rankings": {
+      "RPS": 42,
+      "PCGamer": 17
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 294100,
+    "user_score": 0.980486086650229,
+    "total_reviews": 99365,
+    "price": "CDN$ 39.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/header.jpg?t=1725405670"
+  },
+  {
+    "title": "Supreme Commander: Forged Alliance",
+    "rankings": {
+      "RPS": 41
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 9420,
+    "user_score": 0.964696998300925,
+    "total_reviews": 5297,
+    "price": "CDN$ 13.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9420/header.jpg?t=1592488757"
+  },
+  {
+    "title": "Hunt: Showdown",
+    "rankings": {
+      "RPS": 40
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "XCOM: Enemy Unknown",
+    "rankings": {
+      "RPS": 39
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": true,
+      "steamdeck": "gold"
+    },
+    "steam_id": 200510,
+    "user_score": 0.9422054536100154,
+    "total_reviews": 23324,
+    "price": "CDN$ 6.59",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/header.jpg?t=1587584126"
+  },
+  {
+    "title": "Dishonored 2",
+    "rankings": {
+      "RPS": 38,
+      "IGN": 60,
+      "PCGamer": 76
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 403640,
+    "user_score": 0.879397269585906,
+    "total_reviews": 17653,
+    "price": "CDN$ 39.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/403640/header.jpg?t=1726161101"
+  },
+  {
+    "title": "Chrono Trigger",
+    "rankings": {
+      "RPS": 37,
+      "IGN": 24
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 613830,
+    "user_score": 0.8788639876352395,
+    "total_reviews": 5176,
+    "price": "CDN$ 19.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/header.jpg?t=1719545360"
+  },
+  {
+    "title": "Titanfall 2",
+    "rankings": {
+      "RPS": 36,
+      "IGN": 87,
+      "PCGamer": 68
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Nidhogg",
+    "rankings": {
+      "RPS": 35
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 94400,
+    "user_score": 0.9082802547770701,
+    "total_reviews": 3925,
+    "price": "CDN$ 10.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/94400/header.jpg?t=1688162900"
+  },
+  {
+    "title": "Legend of Mana",
+    "rankings": {
+      "RPS": 34
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "bronze"
+    },
+    "steam_id": 1175830,
+    "user_score": 0.7815442561205274,
+    "total_reviews": 531,
+    "price": "$29.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1175830/header.jpg?t=1718208725"
+  },
+  {
+    "title": "God of War (2018)",
+    "rankings": {
+      "RPS": 33
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Hollow Knight",
+    "rankings": {
+      "RPS": 32,
+      "IGN": 54,
+      "PCGamer": 22
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 367520,
+    "user_score": 0.9719523817485662,
+    "total_reviews": 119618,
+    "price": "CDN$ 19.49",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg?t=1695270428"
+  },
+  {
+    "title": "Cyberpunk 2077",
+    "rankings": {
+      "RPS": 31,
+      "PCGamer": 72
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 1091500,
+    "user_score": 0.865111330152161,
+    "total_reviews": 306386,
+    "price": "CDN$ 79.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg?t=1730212296"
+  },
+  {
+    "title": "Crusader Kings III",
+    "rankings": {
+      "RPS": 30
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold"
+    },
+    "steam_id": 1158310,
+    "user_score": 0.9154136258999853,
+    "total_reviews": 40834,
+    "price": "$49.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/header_alt_assets_6.jpg?t=1730740049"
+  },
+  {
+    "title": "A Short Hike",
+    "rankings": {
+      "RPS": 29
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 1055540,
+    "user_score": 0.9921055261317078,
+    "total_reviews": 10007,
+    "price": "CDN$ 8.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1055540/header.jpg?t=1701219411"
+  },
+  {
+    "title": "Warcraft III: Reign of Chaos",
+    "rankings": {
+      "RPS": 28
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Persona 5 Royal",
+    "rankings": {
+      "RPS": 27,
+      "IGN": 81,
+      "PCGamer": 5
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 1687950,
+    "user_score": 0.9699227988754519,
+    "total_reviews": 22409,
+    "price": "CDN$ 79.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1722428154"
+  },
+  {
+    "title": "NieR: Automata",
+    "rankings": {
+      "RPS": 26,
+      "PCGamer": 62
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Factorio",
+    "rankings": {
+      "RPS": 25
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 427520,
+    "user_score": 0.9821799485861182,
+    "total_reviews": 97250,
+    "price": "CDN$ 45.00",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/header.jpg?t=1730307306"
+  },
+  {
+    "title": "Dota 2",
+    "rankings": {
+      "RPS": 24,
+      "IGN": 73
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold"
+    },
+    "steam_id": 570,
+    "user_score": 0.891615878767913,
+    "total_reviews": 6071,
+    "price": "N/A",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg?t=1731033201"
+  },
+  {
+    "title": "10 Beautiful Postcards",
+    "rankings": {
+      "RPS": 23
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Spelunky 2",
+    "rankings": {
+      "RPS": 22,
+      "IGN": 75
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 418530,
+    "user_score": 0.9352355776706578,
+    "total_reviews": 12862,
+    "price": "CDN$ 22.79",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418530/header.jpg?t=1663719294"
+  },
+  {
+    "title": "Prey (2017)",
+    "rankings": {
+      "RPS": 21,
+      "PCGamer": 42
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Outer Wilds",
+    "rankings": {
+      "RPS": 20,
+      "PCGamer": 90
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 753640,
+    "user_score": 0.9522112764619577,
+    "total_reviews": 38168,
+    "price": "CDN$ 32.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/header.jpg?t=1729097431"
+  },
+  {
+    "title": "Opus Magnum",
+    "rankings": {
+      "RPS": 19
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 558990,
+    "user_score": 0.9694656488549618,
+    "total_reviews": 2751,
+    "price": "CDN$ 25.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/558990/header.jpg?t=1667070364"
+  },
+  {
+    "title": "Inscryption",
+    "rankings": {
+      "RPS": 18
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 1092790,
+    "user_score": 0.9695717108935387,
+    "total_reviews": 66287,
+    "price": "CDN$ 22.79",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg?t=1728947770"
+  },
+  {
+    "title": "Resident Evil 4 Remake",
+    "rankings": {
+      "RPS": 17
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Disco Elysium",
+    "rankings": {
+      "RPS": 16,
+      "IGN": 10,
+      "PCGamer": 2
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 632470,
+    "user_score": 0.9309285438061272,
+    "total_reviews": 46546,
+    "price": "CDN$ 11.37",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/header.jpg?t=1727256511"
+  },
+  {
+    "title": "Halo: The Master Chief Collection",
+    "rankings": {
+      "RPS": 15,
+      "PCGamer": 30
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 976730,
+    "user_score": 0.9239632439977284,
+    "total_reviews": 146153,
+    "price": "CDN$ 49.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/header.jpg?t=1670458602"
+  },
+  {
+    "title": "Final Fantasy IX",
+    "rankings": {
+      "RPS": 14
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 377840,
+    "user_score": 0.9406501095690285,
+    "total_reviews": 5476,
+    "price": "CDN$ 23.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377840/header.jpg?t=1596707344"
+  },
+  {
+    "title": "Apex Legends",
+    "rankings": {
+      "RPS": 13,
+      "IGN": 55
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 1172470,
+    "user_score": 0.8061938061938062,
+    "total_reviews": 1001,
+    "price": "N/A",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg?t=1730895196"
+  },
+  {
+    "title": "Sekiro: Shadows Die Twice",
+    "rankings": {
+      "RPS": 12,
+      "PCGamer": 23
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Hitman World of Assassination",
+    "rankings": {
+      "RPS": 11,
+      "PCGamer": 50
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 1659040,
+    "user_score": 0.8619553732363727,
+    "total_reviews": 16089,
+    "price": "CDN$ 38.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/header.jpg?t=1726140878"
+  },
+  {
+    "title": "Team Fortress 2",
+    "rankings": {
+      "RPS": 10,
+      "PCGamer": 61
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": true,
+      "steamdeck": "gold"
+    },
+    "steam_id": 440,
+    "user_score": 0.6617770679219905,
+    "total_reviews": 23792,
+    "price": "N/A",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/header.jpg?t=1729702978"
+  },
+  {
+    "title": "Fallout: New Vegas",
+    "rankings": {
+      "RPS": 9,
+      "IGN": 45,
+      "PCGamer": 33
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Yakuza 0",
+    "rankings": {
+      "RPS": 8,
+      "PCGamer": 32
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 638970,
+    "user_score": 0.9697485902255639,
+    "total_reviews": 34048,
+    "price": "CDN$ 29.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638970/header.jpg?t=1717075546"
+  },
+  {
+    "title": "Mass Effect: Legendary Edition",
+    "rankings": {
+      "RPS": 7
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Dark Souls",
+    "rankings": {
+      "RPS": 6,
+      "IGN": 80
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Subnautica",
+    "rankings": {
+      "RPS": 5
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 264710,
+    "user_score": 0.9678177544747785,
+    "total_reviews": 149337,
+    "price": "CDN$ 39.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg?t=1729208919"
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "rankings": {
+      "RPS": 4,
+      "IGN": 16,
+      "PCGamer": 6
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 292030,
+    "user_score": 0.9685499713321616,
+    "total_reviews": 212782,
+    "price": "R 529.00",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg?t=1730212926"
+  },
+  {
+    "title": "Elden Ring",
+    "rankings": {
+      "RPS": 3,
+      "PCGamer": 3
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 1245620,
+    "user_score": 0.9413104934496327,
+    "total_reviews": 380971,
+    "price": "CDN$ 79.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1726158298"
+  },
+  {
+    "title": "Baldur's Gate 3",
+    "rankings": {
+      "RPS": 2,
+      "PCGamer": 1
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 1086940,
+    "user_score": 0.9679939454603159,
+    "total_reviews": 368649,
+    "price": "CDN$ 79.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg?t=1725654125"
+  },
+  {
+    "title": "Minecraft",
+    "rankings": {
+      "RPS": 1,
+      "IGN": 33,
+      "PCGamer": 4
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Borderlands 2",
+    "rankings": {
+      "IGN": 100
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold"
+    },
+    "steam_id": 49520,
+    "user_score": 0.9598711109907666,
+    "total_reviews": 110793,
+    "price": "CDN$ 21.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/header.jpg?t=1728608124"
+  },
+  {
+    "title": "Divinity: Original Sin 2",
+    "rankings": {
+      "IGN": 99,
+      "PCGamer": 41
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 435150,
+    "user_score": 0.9547693920335429,
+    "total_reviews": 76320,
+    "price": "₹ 989",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/header.jpg?t=1725653917"
+  },
+  {
+    "title": "Final Fantasy VII",
+    "rankings": {
+      "IGN": 98
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 39140,
+    "user_score": 0.9167930511512478,
+    "total_reviews": 14506,
+    "price": "CDN$ 16.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39140/header.jpg?t=1727788787"
+  },
+  {
+    "title": "Assassin's Creed IV: Black Flag",
+    "rankings": {
+      "IGN": 97
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Monkey Island 2: LeChuck's Revenge",
+    "rankings": {
+      "IGN": 96
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Burnout 3: Takedown",
+    "rankings": {
+      "IGN": 95
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "League of Legends",
+    "rankings": {
+      "IGN": 93
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Mega Man 3",
+    "rankings": {
+      "IGN": 92
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Animal Crossing: New Horizons",
+    "rankings": {
+      "IGN": 91
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Thief II: The Metal Age",
+    "rankings": {
+      "IGN": 90
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "SimCity 2000",
+    "rankings": {
+      "IGN": 89
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Inside",
+    "rankings": {
+      "IGN": 88,
+      "PCGamer": 84
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": 2596760,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2596760/header.jpg?t=1694724147"
+  },
+  {
+    "title": "Tony Hawk's Pro Skater 2",
+    "rankings": {
+      "IGN": 86
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Monster Hunter: World",
+    "rankings": {
+      "IGN": 85,
+      "PCGamer": 67
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 582010,
+    "user_score": 0.9209159629921714,
+    "total_reviews": 103978,
+    "price": "CDN$ 13.19",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg?t=1730268377"
+  },
+  {
+    "title": "Resident Evil 2 (Remake)",
+    "rankings": {
+      "IGN": 84
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "System Shock 2",
+    "rankings": {
+      "IGN": 83
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 238210,
+    "user_score": 0.950769898069833,
+    "total_reviews": 4611,
+    "price": "CDN$ 10.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238210/header.jpg?t=1645843384"
+  },
+  {
+    "title": "Mortal Kombat 11",
+    "rankings": {
+      "IGN": 82
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 976310,
+    "user_score": 0.8686040521978022,
+    "total_reviews": 23296,
+    "price": "CDN$ 69.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/header.jpg?t=1699983920"
+  },
+  {
+    "title": "Fortnite",
+    "rankings": {
+      "IGN": 79,
+      "PCGamer": 58
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Fable 2",
+    "rankings": {
+      "IGN": 78
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "GoldenEye 007",
+    "rankings": {
+      "IGN": 77
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Super Smash Bros. Ultimate",
+    "rankings": {
+      "IGN": 76
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Return of the Obra Dinn",
+    "rankings": {
+      "IGN": 74,
+      "PCGamer": 39
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 653530,
+    "user_score": 0.9656004828002414,
+    "total_reviews": 14913,
+    "price": "CDN$ 25.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/header.jpg?t=1686697594"
+  },
+  {
+    "title": "Mario Kart 8 Deluxe",
+    "rankings": {
+      "IGN": 72
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Donkey Kong",
+    "rankings": {
+      "IGN": 71
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "The Sims 3",
+    "rankings": {
+      "IGN": 70
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Splinter Cell: Chaos Theory",
+    "rankings": {
+      "IGN": 69
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Super Mario World 2: Yoshi's Island",
+    "rankings": {
+      "IGN": 68
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Silent Hill 2",
+    "rankings": {
+      "IGN": 67
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 2124490,
+    "user_score": 0.9563442768411713,
+    "total_reviews": 11270,
+    "price": "CDN$ 93.49",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/header.jpg?t=1728470029"
+  },
+  {
+    "title": "Grand Theft Auto: San Andreas",
+    "rankings": {
+      "IGN": 66
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "XCOM 2",
+    "rankings": {
+      "IGN": 65,
+      "PCGamer": 13
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold"
+    },
+    "steam_id": 268500,
+    "user_score": 0.8547206453540483,
+    "total_reviews": 40164,
+    "price": "CDN$ 3.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/header.jpg?t=1646157374"
+  },
+  {
+    "title": "Control",
+    "rankings": {
+      "IGN": 64,
+      "PCGamer": 53
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Call of Duty 4: Modern Warfare",
+    "rankings": {
+      "IGN": 63
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Rise of the Tomb Raider",
+    "rankings": {
+      "IGN": 62
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 391220,
+    "user_score": 0.9231881301122313,
+    "total_reviews": 26285,
+    "price": "CDN$ 38.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/header.jpg?t=1729011444"
+  },
+  {
+    "title": "Batman: Arkham City",
+    "rankings": {
+      "IGN": 61
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "The Witness",
+    "rankings": {
+      "IGN": 59
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 210970,
+    "user_score": 0.832884787902089,
+    "total_reviews": 7803,
+    "price": "CDN$ 43.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210970/header.jpg?t=1720810823"
+  },
+  {
+    "title": "Journey",
+    "rankings": {
+      "IGN": 58
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 638230,
+    "user_score": 0.9261872973488461,
+    "total_reviews": 10486,
+    "price": "CDN$ 19.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/header.jpg?t=1729099361"
+  },
+  {
+    "title": "Uncharted 2: Among Thieves",
+    "rankings": {
+      "IGN": 57
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Ms. Pac-Man",
+    "rankings": {
+      "IGN": 53
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Counter-Strike 1.6",
+    "rankings": {
+      "IGN": 52
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "EarthBound",
+    "rankings": {
+      "IGN": 50
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Diablo II",
+    "rankings": {
+      "IGN": 49
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "StarCraft",
+    "rankings": {
+      "IGN": 48
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "World of Warcraft",
+    "rankings": {
+      "IGN": 47,
+      "PCGamer": 38
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Star Wars: Knights of the Old Republic",
+    "rankings": {
+      "IGN": 46
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Final Fantasy VI",
+    "rankings": {
+      "IGN": 44
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 1173820,
+    "user_score": 0.929784304726939,
+    "total_reviews": 2179,
+    "price": "CDN$ 23.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173820/header.jpg?t=1706631181"
+  },
+  {
+    "title": "Pokémon Yellow",
+    "rankings": {
+      "IGN": 43
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Metroid Prime",
+    "rankings": {
+      "IGN": 42
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Resident Evil 4",
+    "rankings": {
+      "IGN": 40
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 2050650,
+    "user_score": 0.9693628322781058,
+    "total_reviews": 42171,
+    "price": "CDN$ 52.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1731387968"
+  },
+  {
+    "title": "Shadow of the Colossus",
+    "rankings": {
+      "IGN": 39
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "The Last of Us Part 2",
+    "rankings": {
+      "IGN": 38
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Red Dead Redemption",
+    "rankings": {
+      "IGN": 37
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 2668510,
+    "user_score": 0.925893635571055,
+    "total_reviews": 2294,
+    "price": "CDN$ 69.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1731017882"
+  },
+  {
+    "title": "Metal Gear Solid",
+    "rankings": {
+      "IGN": 36
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Sid Meier's Civilization IV",
+    "rankings": {
+      "IGN": 35
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 3900,
+    "user_score": 0.932285368802902,
+    "total_reviews": 1654,
+    "price": "CDN$ 21.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900/header.jpg?t=1724341287"
+  },
+  {
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "rankings": {
+      "IGN": 34
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Halo: Combat Evolved",
+    "rankings": {
+      "IGN": 32
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Half-Life",
+    "rankings": {
+      "IGN": 31
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 70,
+    "user_score": 0.9646166117849181,
+    "total_reviews": 48893,
+    "price": "CDN$ 11.49",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/header.jpg?t=1729702360"
+  },
+  {
+    "title": "Final Fantasy XIV",
+    "rankings": {
+      "IGN": 30
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Tetris",
+    "rankings": {
+      "IGN": 28
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Metal Gear Solid 3: Snake Eater",
+    "rankings": {
+      "IGN": 27
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "God of War",
+    "rankings": {
+      "IGN": 25
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 1593500,
+    "user_score": 0.9680209008425146,
+    "total_reviews": 49376,
+    "price": "A$ 74.95",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1729030762"
+  },
+  {
+    "title": "Portal",
+    "rankings": {
+      "IGN": 23,
+      "PCGamer": 24
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 400,
+    "user_score": 0.9863400915443444,
+    "total_reviews": 69693,
+    "price": "CDN$ 12.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/header.jpg?t=1726252771"
+  },
+  {
+    "title": "Street Fighter II",
+    "rankings": {
+      "IGN": 22
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Super Mario Bros.",
+    "rankings": {
+      "IGN": 21
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Bloodborne",
+    "rankings": {
+      "IGN": 19
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "The Last of Us",
+    "rankings": {
+      "IGN": 17
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Halo 2",
+    "rankings": {
+      "IGN": 15
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Castlevania: Symphony of the Night",
+    "rankings": {
+      "IGN": 14
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Hades",
+    "rankings": {
+      "IGN": 13,
+      "PCGamer": 20
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 1145360,
+    "user_score": 0.9859492015691247,
+    "total_reviews": 126185,
+    "price": "CDN$ 32.50",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1715722799"
+  },
+  {
+    "title": "Super Mario Bros. 3",
+    "rankings": {
+      "IGN": 11
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Super Mario 64",
+    "rankings": {
+      "IGN": 7
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Mass Effect 2",
+    "rankings": {
+      "IGN": 6
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Super Metroid",
+    "rankings": {
+      "IGN": 5
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "The Legend of Zelda: A Link to the Past",
+    "rankings": {
+      "IGN": 4
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Super Mario World",
+    "rankings": {
+      "IGN": 2
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "rankings": {
+      "IGN": 1
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Valheim",
+    "rankings": {
+      "PCGamer": 100
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 892970,
+    "user_score": 0.9503056411653528,
+    "total_reviews": 234916,
+    "price": "CDN$ 22.79",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/header_alt_assets_4.jpg?t=1730188784"
+  },
+  {
+    "title": "Guild Wars 2",
+    "rankings": {
+      "PCGamer": 99
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 1284210,
+    "user_score": 0.9296482412060302,
+    "total_reviews": 199,
+    "price": "N/A",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284210/header.jpg?t=1731530760"
+  },
+  {
+    "title": "City of Heroes: Homecoming",
+    "rankings": {
+      "PCGamer": 98
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Dave the Diver",
+    "rankings": {
+      "PCGamer": 97
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 1868140,
+    "user_score": 0.9725813989718025,
+    "total_reviews": 38514,
+    "price": "CDN$ 25.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/header.jpg?t=1730279362"
+  },
+  {
+    "title": "Vampire: The Masquerade – Bloodlines",
+    "rankings": {
+      "PCGamer": 96
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Star Wars: Knights of the Old Republic 2",
+    "rankings": {
+      "PCGamer": 95
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Dragon Age: Origins",
+    "rankings": {
+      "PCGamer": 94
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Ghost of Tsushima",
+    "rankings": {
+      "PCGamer": 92
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Death Stranding",
+    "rankings": {
+      "PCGamer": 89
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Pentiment",
+    "rankings": {
+      "PCGamer": 88
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 1205520,
+    "user_score": 0.9498982706002035,
+    "total_reviews": 3932,
+    "price": "CDN$ 24.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205520/header.jpg?t=1713828301"
+  },
+  {
+    "title": "The Case of the Golden Idol",
+    "rankings": {
+      "PCGamer": 87
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 1677770,
+    "user_score": 0.986376575843839,
+    "total_reviews": 4918,
+    "price": "CDN$ 12.29",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/header.jpg?t=1731435891"
+  },
+  {
+    "title": "Ultrakill",
+    "rankings": {
+      "PCGamer": 86
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 1229490,
+    "user_score": 0.9804364183596689,
+    "total_reviews": 90372,
+    "price": "CDN$ 32.50",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229490/header.jpg?t=1726657304"
+  },
+  {
+    "title": "Sid Meier's Civilization 5",
+    "rankings": {
+      "PCGamer": 83
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Hotline Miami",
+    "rankings": {
+      "PCGamer": 82
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 219150,
+    "user_score": 0.9689295113047908,
+    "total_reviews": 35339,
+    "price": "CDN$ 12.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/header.jpg?t=1686261983"
+  },
+  {
+    "title": "Kentucky Route Zero",
+    "rankings": {
+      "PCGamer": 81
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 231200,
+    "user_score": 0.8270173874275524,
+    "total_reviews": 2243,
+    "price": "CDN$ 27.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231200/header.jpg?t=1692292539"
+  },
+  {
+    "title": "Caves of Qud",
+    "rankings": {
+      "PCGamer": 80
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold"
+    },
+    "steam_id": 333640,
+    "user_score": 0.9530838935983631,
+    "total_reviews": 6842,
+    "price": "CDN$ 38.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333640/header.jpg?t=1728592706"
+  },
+  {
+    "title": "Baldur's Gate 2",
+    "rankings": {
+      "PCGamer": 79
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Armored Core 6: Fires of Rubicon",
+    "rankings": {
+      "PCGamer": 78
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Deep Rock Galactic",
+    "rankings": {
+      "PCGamer": 77
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 548430,
+    "user_score": 0.979461554285866,
+    "total_reviews": 150693,
+    "price": "CDN$ 34.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/header_alt_assets_25.jpg?t=1730465993"
+  },
+  {
+    "title": "Chivalry 2",
+    "rankings": {
+      "PCGamer": 75
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 1824220,
+    "user_score": 0.8125792237580732,
+    "total_reviews": 16567,
+    "price": "CDN$ 43.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1824220/header.jpg?t=1716390459"
+  },
+  {
+    "title": "Max Payne",
+    "rankings": {
+      "PCGamer": 74
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 12140,
+    "user_score": 0.8678467877308104,
+    "total_reviews": 6553,
+    "price": "CDN$ 10.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12140/header.jpg?t=1709651633"
+  },
+  {
+    "title": "Papers, Please",
+    "rankings": {
+      "PCGamer": 73
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 239030,
+    "user_score": 0.972887343688667,
+    "total_reviews": 35666,
+    "price": "CDN$ 12.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/header.jpg?t=1678266428"
+  },
+  {
+    "title": "Alien Isolation",
+    "rankings": {
+      "PCGamer": 71
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Strange Horticulture",
+    "rankings": {
+      "PCGamer": 70
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 1574580,
+    "user_score": 0.9578238769061684,
+    "total_reviews": 7279,
+    "price": "CDN$ 20.79",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574580/header.jpg?t=1730220519"
+  },
+  {
+    "title": "Signalis",
+    "rankings": {
+      "PCGamer": 69
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 1262350,
+    "user_score": 0.9700565366091994,
+    "total_reviews": 14327,
+    "price": "CDN$ 26.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/header.jpg?t=1704064951"
+  },
+  {
+    "title": "Kerbal Space Program",
+    "rankings": {
+      "PCGamer": 66
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold"
+    },
+    "steam_id": 220200,
+    "user_score": 0.9555898071188833,
+    "total_reviews": 69421,
+    "price": "CDN$ 43.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/header.jpg?t=1663603925"
+  },
+  {
+    "title": "Rust",
+    "rankings": {
+      "PCGamer": 65
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "bronze"
+    },
+    "steam_id": 252490,
+    "user_score": 0.8719329330385304,
+    "total_reviews": 464491,
+    "price": "CDN$ 50.49",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1727957298"
+  },
+  {
+    "title": "Diablo 2",
+    "rankings": {
+      "PCGamer": 64
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Resident Evil 4 (Remake)",
+    "rankings": {
+      "PCGamer": 63
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "System Shock (Remake)",
+    "rankings": {
+      "PCGamer": 60
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Unavowed",
+    "rankings": {
+      "PCGamer": 59
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 336140,
+    "user_score": 0.9593846153846154,
+    "total_reviews": 1625,
+    "price": "CDN$ 16.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336140/header.jpg?t=1728040693"
+  },
+  {
+    "title": "The Elder Scrolls 3: Morrowind",
+    "rankings": {
+      "PCGamer": 57
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Tom Clancy's Rainbow Six Siege",
+    "rankings": {
+      "PCGamer": 56
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "borked"
+    },
+    "steam_id": 359550,
+    "user_score": 0.850395291904429,
+    "total_reviews": 559207,
+    "price": "$19.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/header.jpg?t=1730413628"
+  },
+  {
+    "title": "The Binding of Isaac: Rebirth",
+    "rankings": {
+      "PCGamer": 55
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 250900,
+    "user_score": 0.9733296459220977,
+    "total_reviews": 115709,
+    "price": "CDN$ 16.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg?t=1722458438"
+  },
+  {
+    "title": "Warhammer: Vermintide 2",
+    "rankings": {
+      "PCGamer": 54
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "silver"
+    },
+    "steam_id": 552500,
+    "user_score": 0.8978546188793539,
+    "total_reviews": 39620,
+    "price": "CDN$ 1.94",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/header_alt_assets_7.jpg?t=1731526072"
+  },
+  {
+    "title": "Wildermyth",
+    "rankings": {
+      "PCGamer": 52
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold"
+    },
+    "steam_id": 763890,
+    "user_score": 0.9542763457509792,
+    "total_reviews": 10979,
+    "price": "CDN$ 28.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763890/header.jpg?t=1712698154"
+  },
+  {
+    "title": "Spelunky",
+    "rankings": {
+      "PCGamer": 51
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 239350,
+    "user_score": 0.9203754162882228,
+    "total_reviews": 9909,
+    "price": "CDN$ 16.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239350/header.jpg?t=1632912566"
+  },
+  {
+    "title": "Citizen Sleeper",
+    "rankings": {
+      "PCGamer": 49
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 1578650,
+    "user_score": 0.94286369894447,
+    "total_reviews": 4358,
+    "price": "CDN$ 25.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578650/header.jpg?t=1729638169"
+  },
+  {
+    "title": "Frostpunk",
+    "rankings": {
+      "PCGamer": 47
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 323190,
+    "user_score": 0.9263714551371455,
+    "total_reviews": 34416,
+    "price": "CDN$ 38.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323190/header.jpg?t=1724859064"
+  },
+  {
+    "title": "Into the Breach",
+    "rankings": {
+      "PCGamer": 46
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 590380,
+    "user_score": 0.9409381471144324,
+    "total_reviews": 11107,
+    "price": "CDN$ 17.49",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/header.jpg?t=1710347375"
+  },
+  {
+    "title": "Grand Theft Auto 5",
+    "rankings": {
+      "PCGamer": 45
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Animal Well",
+    "rankings": {
+      "PCGamer": 43
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 813230,
+    "user_score": 0.9540850033032372,
+    "total_reviews": 9082,
+    "price": "CDN$ 31.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813230/header.jpg?t=1731525669"
+  },
+  {
+    "title": "Vampire Survivors",
+    "rankings": {
+      "PCGamer": 40
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 1794680,
+    "user_score": 0.986324074315119,
+    "total_reviews": 115239,
+    "price": "$3.49 USD",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/header.jpg?t=1730983128"
+  },
+  {
+    "title": "The Elder Scrolls 5: Skyrim",
+    "rankings": {
+      "PCGamer": 37
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Final Fantasy 14",
+    "rankings": {
+      "PCGamer": 34
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "StarCraft 2",
+    "rankings": {
+      "PCGamer": 31
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Planescape: Torment",
+    "rankings": {
+      "PCGamer": 29
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Thief Gold",
+    "rankings": {
+      "PCGamer": 28
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 211600,
+    "user_score": 0.929761368752814,
+    "total_reviews": 2221,
+    "price": "CDN$ 8.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/211600/header.jpg?t=1681398290"
+  },
+  {
+    "title": "Hunt: Showdown 1896",
+    "rankings": {
+      "PCGamer": 27
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold"
+    },
+    "steam_id": 594650,
+    "user_score": 0.7673807240044052,
+    "total_reviews": 84447,
+    "price": "CDN$ 39.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/header_alt_assets_18.jpg?t=1730733611"
+  },
+  {
+    "title": "Pizza Tower",
+    "rankings": {
+      "PCGamer": 26
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 2231450,
+    "user_score": 0.9855815681902639,
+    "total_reviews": 40365,
+    "price": "CDN$ 21.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231450/header.jpg?t=1724770820"
+  },
+  {
+    "title": "Crusader Kings 3",
+    "rankings": {
+      "PCGamer": 25
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Alan Wake 2",
+    "rankings": {
+      "PCGamer": 21
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Slay the Spire",
+    "rankings": {
+      "PCGamer": 19
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 646570,
+    "user_score": 0.9784189191406956,
+    "total_reviews": 60933,
+    "price": "CDN$ 31.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646570/header.jpg?t=1728642519"
+  },
+  {
+    "title": "Mass Effect Legendary Edition",
+    "rankings": {
+      "PCGamer": 18
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Helldivers 2",
+    "rankings": {
+      "PCGamer": 14
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Total War: Warhammer 3",
+    "rankings": {
+      "PCGamer": 12
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Metal Gear Solid 3",
+    "rankings": {
+      "PCGamer": 11
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Doom (1993)",
+    "rankings": {
+      "PCGamer": 10
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown"
+    },
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
+  },
+  {
+    "title": "Balatro",
+    "rankings": {
+      "PCGamer": 8
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 2379780,
+    "user_score": 0.9802155909031155,
+    "total_reviews": 30428,
+    "price": "CDN$ 18.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/header.jpg?t=1730735362"
+  }
+]

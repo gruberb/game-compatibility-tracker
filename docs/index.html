@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Game Compatibility Tracker</title>
+        <link rel="stylesheet" href="styles.css" />
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <h1>Game Compatibility Tracker</h1>
+                <p class="subtitle">
+                    Cross-platform compatibility tracker for top-rated games
+                </p>
+                <div class="source-info">
+                    <div class="source-links">
+                        <a
+                            href="https://www.rockpapershotgun.com/the-rps-100-2024"
+                            target="_blank"
+                        >
+                            <img src="images/rps-icon.png" alt="RPS" />
+                            Rock Paper Shotgun Top 100
+                        </a>
+                        <a
+                            href="https://www.ign.com/articles/the-best-100-video-games-of-all-time"
+                            target="_blank"
+                        >
+                            <img src="images/ign-icon.png" alt="IGN" />
+                            IGN Top 100
+                        </a>
+                        <a
+                            href="https://www.pcgamer.com/games/the-top-100-pc-games-2024/"
+                            target="_blank"
+                        >
+                            <img src="images/pcgamer-icon.png" alt="PC Gamer" />
+                            PC Gamer 100
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <main class="container">
+            <!-- Filters -->
+            <div class="filters">
+                <input type="text" id="search" placeholder="Search games..." />
+
+                <div class="filter-group">
+                    <div class="filter-title">Sort by:</div>
+                    <select id="sort-by">
+                        <option value="title">Title</option>
+                        <option value="rps">RPS Ranking</option>
+                        <option value="ign">IGN Ranking</option>
+                        <option value="pcgamer">PCGamer Ranking</option>
+                        <option value="score">User Score</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <div class="filter-title">Filter by Platform:</div>
+                    <div class="filter-options">
+                        <label class="filter-option">
+                            <input type="checkbox" data-platform="steamdeck" />
+                            Steam Deck
+                        </label>
+                        <label class="filter-option">
+                            <input type="checkbox" data-platform="linux" />
+                            Linux
+                        </label>
+                        <label class="filter-option">
+                            <input type="checkbox" data-platform="macos" />
+                            macOS
+                        </label>
+                        <label class="filter-option">
+                            <input type="checkbox" data-platform="windows" />
+                            Windows
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Stats -->
+            <div class="stats">
+                Showing <span id="visible-count">0</span> of
+                <span id="total-count">0</span> games
+            </div>
+
+            <!-- Game Grid -->
+            <div class="game-grid" id="game-grid">
+                <!-- Games will be inserted here by JavaScript -->
+            </div>
+        </main>
+
+        <!-- Templates -->
+        <template id="game-card-template">
+            <div class="game-card">
+                <img class="game-image" />
+                <div class="game-title"></div>
+                <div class="game-rankings"></div>
+                <div class="platform-list">
+                    <span class="platform-tag" data-platform="windows"
+                        >Windows</span
+                    >
+                    <span class="platform-tag" data-platform="macos"
+                        >macOS</span
+                    >
+                    <span class="platform-tag" data-platform="linux"
+                        >Linux</span
+                    >
+                    <span class="platform-tag steamdeck">
+                        <span class="medal"></span>
+                    </span>
+                </div>
+                <div class="game-meta">
+                    <div class="user-score"></div>
+                    <div class="price"></div>
+                </div>
+            </div>
+        </template>
+
+        <!-- SVG Sprites for medals -->
+        <svg xmlns="http://www.w3.org/2000/svg" style="display: none">
+            <symbol id="medal-platinum" viewBox="0 0 24 24">
+                <path
+                    d="M12 2L8 8H16L12 2ZM5 10C3.34 10 2 11.34 2 13C2 14.66 3.34 16 5 16C6.66 16 8 14.66 8 13C8 11.34 6.66 10 5 10ZM19 10C17.34 10 16 11.34 16 13C16 14.66 17.34 16 19 16C20.66 16 22 14.66 22 13C22 11.34 20.66 10 19 10Z"
+                />
+            </symbol>
+            <symbol id="medal-gold" viewBox="0 0 24 24">
+                <path
+                    d="M12 2L8 8H16L12 2ZM5 10C3.34 10 2 11.34 2 13C2 14.66 3.34 16 5 16C6.66 16 8 14.66 8 13C8 11.34 6.66 10 5 10Z"
+                />
+            </symbol>
+            <symbol id="medal-bronze" viewBox="0 0 24 24">
+                <path d="M12 2L8 8H16L12 2Z" />
+            </symbol>
+            <symbol id="medal-borked" viewBox="0 0 24 24">
+                <path
+                    d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+                />
+            </symbol>
+            <symbol id="medal-unknown" viewBox="0 0 24 24">
+                <path
+                    d="M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z"
+                />
+            </symbol>
+        </svg>
+
+        <!-- Scripts -->
+        <script type="module" src="js/main.js"></script>
+    </body>
+</html>
