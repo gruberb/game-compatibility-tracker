@@ -25,10 +25,13 @@ jobs:
       - name: Run scraper
         run: python scraper.py
 
-      - name: Commit and push if changed
+      - name: Copy and commit changes
         run: |
           git config --global user.name 'Bastian Gruber'
           git config --global user.email 'foreach@me.com'
+          git status
           git add docs/data/*.json
-          git commit -m "Update game data [skip ci]" || exit 0
-          git push
+          git status
+          git commit -m "Update game data [skip ci]"
+          git log -1
+          git push origin main --force
