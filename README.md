@@ -1,6 +1,6 @@
-# 🎮 Game Compatibility Tracker
+# 🎮 Top 100 Games 2024 - Across different websites
 
-A web application that aggregates top-rated games from major gaming websites and shows their compatibility across different platforms.
+This site tracks the Top 100 Games of 2024 for three different websites: RockPaperShotgun, PCGamer and IGN.
 
 ![Game Compatibility Tracker Screenshot](docs/images/screenshot.png)
 

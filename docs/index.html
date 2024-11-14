@@ -3,15 +3,16 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Game Compatibility Tracker</title>
+        <title>Top 100 Games 2024 - Across different websites</title>
         <link rel="stylesheet" href="css/styles.css" />
     </head>
     <body>
         <header>
             <div class="container">
-                <h1>Game Compatibility Tracker</h1>
+                <h1>Top 100 Games 2024 - Across different websites</h1>
                 <p class="subtitle">
-                    Cross-platform compatibility tracker for top-rated games
+                    This site tracks the Top 100 Games of 2024 for three
+                    different websites: RockPaperShotgun, PCGamer and IGN.
                 </p>
                 <div class="source-info">
                     <div class="source-links">
@@ -89,12 +90,15 @@
             </div>
         </main>
 
-        <!-- Templates -->
         <template id="game-card-template">
             <div class="game-card">
-                <img class="game-image" />
-                <div class="game-title"></div>
+                <div class="game-title-section">
+                    <img class="game-image" />
+                    <div class="game-title"></div>
+                </div>
+
                 <div class="game-rankings"></div>
+
                 <div class="platform-list">
                     <span class="platform-tag" data-platform="windows"
                         >Windows</span
@@ -109,9 +113,12 @@
                         <span class="medal"></span>
                     </span>
                 </div>
+
                 <div class="game-meta">
-                    <div class="user-score"></div>
-                    <div class="price"></div>
+                    <div class="meta-info">
+                        <div class="user-score"></div>
+                        <div class="price"></div>
+                    </div>
                 </div>
             </div>
         </template>
