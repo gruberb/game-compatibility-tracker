@@ -32,5 +32,3 @@ jobs:
           git add docs/data/*.json
           git commit -m "Update game data [skip ci]" || exit 0
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
