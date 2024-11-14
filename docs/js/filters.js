@@ -38,6 +38,14 @@ class GameFilters {
     });
   }
 
+  calculatePoints(game) {
+    let points = 0;
+    if (game.rankings.RPS) points += 101 - game.rankings.RPS;
+    if (game.rankings.IGN) points += 101 - game.rankings.IGN;
+    if (game.rankings.PCGamer) points += 101 - game.rankings.PCGamer;
+    return points;
+  }
+
   filterGames(games) {
     return games.filter((game) => {
       // Platform filters
@@ -73,6 +81,8 @@ class GameFilters {
           return (a.rankings.PCGamer || 999) - (b.rankings.PCGamer || 999);
         case "score":
           return (b.user_score || 0) - (a.user_score || 0);
+        case "points":
+          return this.calculatePoints(b) - this.calculatePoints(a);
         default:
           return 0;
       }

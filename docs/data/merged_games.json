@@ -44,11 +44,11 @@
       "linux": false,
       "steamdeck": "unknown"
     },
-    "steam_id": null,
+    "steam_id": 1116750,
     "user_score": null,
     "total_reviews": 0,
     "price": "N/A",
-    "header_image": ""
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1116750/header.jpg?t=1690202384"
   },
   {
     "title": "Stardew Valley",
@@ -63,9 +63,9 @@
       "steamdeck": "platinum"
     },
     "steam_id": 413150,
-    "user_score": 0.9888647162333692,
-    "total_reviews": 322219,
-    "price": "CDN$ 16.99",
+    "user_score": 0.9888650272477872,
+    "total_reviews": 322228,
+    "price": "₩ 16,000",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1711128146"
   },
   {
@@ -150,8 +150,8 @@
       "steamdeck": "gold"
     },
     "steam_id": 782330,
-    "user_score": 0.912552790008087,
-    "total_reviews": 111290,
+    "user_score": 0.9125535757608432,
+    "total_reviews": 111291,
     "price": "CDN$ 53.49",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/header.jpg?t=1702308063"
   },
@@ -185,8 +185,8 @@
       "steamdeck": "platinum"
     },
     "steam_id": 1336490,
-    "user_score": 0.9544757389849414,
-    "total_reviews": 14344,
+    "user_score": 0.9544789125130707,
+    "total_reviews": 14345,
     "price": "CDN$ 19.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1336490/header.jpg?t=1728907231"
   },
@@ -219,8 +219,8 @@
       "steamdeck": "gold"
     },
     "steam_id": 255710,
-    "user_score": 0.9314436885865457,
-    "total_reviews": 92610,
+    "user_score": 0.9314444288475451,
+    "total_reviews": 92611,
     "price": "CDN$ 39.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg?t=1730278697"
   },
@@ -360,8 +360,8 @@
       "steamdeck": "gold"
     },
     "steam_id": 550,
-    "user_score": 0.974942868121423,
-    "total_reviews": 197788,
+    "user_score": 0.974938065625158,
+    "total_reviews": 197790,
     "price": "CDN$ 12.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg?t=1731457037"
   },
@@ -379,8 +379,8 @@
       "steamdeck": "gold"
     },
     "steam_id": 1174180,
-    "user_score": 0.9098196963156572,
-    "total_reviews": 210811,
+    "user_score": 0.9098192305320627,
+    "total_reviews": 210821,
     "price": "CDN$ 79.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1720558643"
   },
@@ -500,8 +500,8 @@
       "steamdeck": "gold"
     },
     "steam_id": 271590,
-    "user_score": 0.8319587265092663,
-    "total_reviews": 538457,
+    "user_score": 0.831957508844586,
+    "total_reviews": 538465,
     "price": "N/A",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg?t=1726606628"
   },
@@ -654,8 +654,8 @@
       "steamdeck": "platinum"
     },
     "steam_id": 1332010,
-    "user_score": 0.9743368273115887,
-    "total_reviews": 68308,
+    "user_score": 0.9743372030039965,
+    "total_reviews": 68309,
     "price": "CDN$ 39.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/header.jpg?t=1729097732"
   },
@@ -668,13 +668,13 @@
       "windows": true,
       "macos": false,
       "linux": false,
-      "steamdeck": "gold"
+      "steamdeck": "unknown"
     },
-    "steam_id": 1238040,
-    "user_score": 0.8038656527249683,
-    "total_reviews": 3156,
-    "price": "CDN$ 39.99",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238040/header.jpg?t=1671830944"
+    "steam_id": 99809,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99809/header.jpg?t=1447353842"
   },
   {
     "title": "Deus Ex",
@@ -706,8 +706,8 @@
       "steamdeck": "gold"
     },
     "steam_id": 1082430,
-    "user_score": 0.9814328764459999,
-    "total_reviews": 10287,
+    "user_score": 0.9814346811819595,
+    "total_reviews": 10288,
     "price": "CDN$ 12.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1082430/header.jpg?t=1729701897"
   },
@@ -723,8 +723,8 @@
       "steamdeck": "gold"
     },
     "steam_id": 105600,
-    "user_score": 0.9775441210710129,
-    "total_reviews": 536875,
+    "user_score": 0.9775406468100007,
+    "total_reviews": 536881,
     "price": "CDN$ 12.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1731252354"
   },
@@ -757,8 +757,8 @@
       "steamdeck": "platinum"
     },
     "steam_id": 526870,
-    "user_score": 0.972988705296052,
-    "total_reviews": 97922,
+    "user_score": 0.9729900844506623,
+    "total_reviews": 97927,
     "price": "CDN$ 51.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header_alt_assets_2.jpg?t=1730110257"
   },
@@ -950,8 +950,8 @@
       "steamdeck": "platinum"
     },
     "steam_id": 1043810,
-    "user_score": 0.9842849659507595,
-    "total_reviews": 5727,
+    "user_score": 0.9842877094972067,
+    "total_reviews": 5728,
     "price": "CDN$ 25.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043810/header.jpg?t=1726030693"
   },
@@ -967,7 +967,7 @@
       "steamdeck": "platinum"
     },
     "steam_id": 252950,
-    "user_score": 0.8724328434990718,
+    "user_score": 0.8724373168713234,
     "total_reviews": 223545,
     "price": "N/A",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252950/header.jpg?t=1726856715"
@@ -1019,8 +1019,8 @@
       "steamdeck": "platinum"
     },
     "steam_id": 294100,
-    "user_score": 0.9804866757909991,
-    "total_reviews": 99368,
+    "user_score": 0.9804969356640401,
+    "total_reviews": 99369,
     "price": "CDN$ 39.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/header.jpg?t=1725405670"
   },
@@ -1091,7 +1091,7 @@
     "steam_id": 403640,
     "user_score": 0.8794245908138415,
     "total_reviews": 17657,
-    "price": "CDN$ 39.99",
+    "price": "29,99€",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/403640/header.jpg?t=1726161101"
   },
   {
@@ -1125,8 +1125,8 @@
       "steamdeck": "gold"
     },
     "steam_id": 1237970,
-    "user_score": 0.9529116745611591,
-    "total_reviews": 78958,
+    "user_score": 0.9529104817873246,
+    "total_reviews": 78956,
     "price": "CDN$ 39.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg?t=1726160226"
   },
@@ -1197,7 +1197,7 @@
     "steam_id": 367520,
     "user_score": 0.9719477740441681,
     "total_reviews": 119634,
-    "price": "$14.99",
+    "price": "CDN$ 19.49",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg?t=1695270428"
   },
   {
@@ -1215,7 +1215,7 @@
     "steam_id": 1091500,
     "user_score": 0.8651180095034202,
     "total_reviews": 306416,
-    "price": "59,99€",
+    "price": "HK$ 399.00",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg?t=1730212296"
   },
   {
@@ -1230,8 +1230,8 @@
       "steamdeck": "gold"
     },
     "steam_id": 1158310,
-    "user_score": 0.9154219109652775,
-    "total_reviews": 40838,
+    "user_score": 0.9154546790069047,
+    "total_reviews": 40842,
     "price": "CDN$ 66.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/header_alt_assets_6.jpg?t=1730740049"
   },
@@ -1298,13 +1298,13 @@
       "windows": true,
       "macos": false,
       "linux": false,
-      "steamdeck": "unknown"
+      "steamdeck": "platinum"
     },
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": ""
+    "steam_id": 524220,
+    "user_score": 0.8984496664574763,
+    "total_reviews": 43023,
+    "price": "CDN$ 53.50",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg?t=1727790045"
   },
   {
     "title": "Factorio",
@@ -1388,11 +1388,11 @@
       "linux": false,
       "steamdeck": "platinum"
     },
-    "steam_id": 480490,
-    "user_score": 0.9148783977110158,
-    "total_reviews": 19572,
-    "price": "$29.99",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/header.jpg?t=1726161299"
+    "steam_id": 3970,
+    "user_score": 0.9333333333333333,
+    "total_reviews": 15,
+    "price": "N/A",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3970/header.jpg?t=1447350945"
   },
   {
     "title": "Outer Wilds",
@@ -1497,7 +1497,7 @@
     "steam_id": 976730,
     "user_score": 0.9239532019704434,
     "total_reviews": 146160,
-    "price": "$39.99",
+    "price": "CDN$ 49.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/header.jpg?t=1670458602"
   },
   {
@@ -1548,8 +1548,8 @@
       "steamdeck": "platinum"
     },
     "steam_id": 814380,
-    "user_score": 0.9375331078603154,
-    "total_reviews": 73623,
+    "user_score": 0.9375339563185917,
+    "total_reviews": 73624,
     "price": "CDN$ 79.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1726158438"
   },
@@ -1638,28 +1638,27 @@
       "steamdeck": "gold"
     },
     "steam_id": 1328670,
-    "user_score": 0.913728432108027,
-    "total_reviews": 31992,
+    "user_score": 0.9137311286843998,
+    "total_reviews": 31993,
     "price": "CDN$ 79.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/header.jpg?t=1725576882"
   },
   {
     "title": "Dark Souls",
     "rankings": {
-      "RPS": 6,
-      "IGN": 80
+      "RPS": 6
     },
     "platforms": {
       "windows": true,
       "macos": false,
       "linux": false,
-      "steamdeck": "unknown"
+      "steamdeck": "platinum"
     },
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": ""
+    "steam_id": 570940,
+    "user_score": 0.9097027925882912,
+    "total_reviews": 37886,
+    "price": "CDN$ 53.49",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg?t=1726158603"
   },
   {
     "title": "Subnautica",
@@ -1692,8 +1691,8 @@
       "steamdeck": "platinum"
     },
     "steam_id": 292030,
-    "user_score": 0.9685601094051798,
-    "total_reviews": 212787,
+    "user_score": 0.9685602571573585,
+    "total_reviews": 212788,
     "price": "CDN$ 55.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg?t=1730212926"
   },
@@ -1710,8 +1709,8 @@
       "steamdeck": "gold"
     },
     "steam_id": 1245620,
-    "user_score": 0.9413151208449698,
-    "total_reviews": 380984,
+    "user_score": 0.9413106415145844,
+    "total_reviews": 380989,
     "price": "CDN$ 79.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1726158298"
   },
@@ -1728,8 +1727,8 @@
       "steamdeck": "gold"
     },
     "steam_id": 1086940,
-    "user_score": 0.9679993490289682,
-    "total_reviews": 368680,
+    "user_score": 0.9679999566027552,
+    "total_reviews": 368687,
     "price": "CDN$ 79.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg?t=1725654125"
   },
@@ -1764,8 +1763,8 @@
       "steamdeck": "gold"
     },
     "steam_id": 49520,
-    "user_score": 0.9598732840549102,
-    "total_reviews": 110799,
+    "user_score": 0.9598736462093863,
+    "total_reviews": 110800,
     "price": "CDN$ 21.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/header.jpg?t=1728608124"
   },
@@ -1950,13 +1949,13 @@
       "windows": true,
       "macos": false,
       "linux": false,
-      "steamdeck": "unknown"
+      "steamdeck": "platinum"
     },
-    "steam_id": 2596760,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2596760/header.jpg?t=1694724147"
+    "steam_id": 304430,
+    "user_score": 0.9612274719922065,
+    "total_reviews": 20530,
+    "price": "CDN$ 25.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/header.jpg?t=1729847839"
   },
   {
     "title": "titanfall® 2",
@@ -1970,8 +1969,8 @@
       "steamdeck": "gold"
     },
     "steam_id": 1237970,
-    "user_score": 0.9529116745611591,
-    "total_reviews": 78958,
+    "user_score": 0.9529104817873246,
+    "total_reviews": 78956,
     "price": "CDN$ 39.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg?t=1726160226"
   },
@@ -1984,13 +1983,13 @@
       "windows": true,
       "macos": false,
       "linux": false,
-      "steamdeck": "unknown"
+      "steamdeck": "platinum"
     },
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": ""
+    "steam_id": 2395210,
+    "user_score": 0.8818763326226012,
+    "total_reviews": 2345,
+    "price": "CDN$ 59.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/header.jpg?t=1696374771"
   },
   {
     "title": "Monster Hunter: World",
@@ -2002,13 +2001,13 @@
       "windows": true,
       "macos": false,
       "linux": false,
-      "steamdeck": "gold"
+      "steamdeck": "unknown"
     },
-    "steam_id": 582010,
-    "user_score": 0.9209109093706724,
-    "total_reviews": 103984,
-    "price": "CDN$ 13.19",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg?t=1730268377"
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": ""
   },
   {
     "title": "Resident Evil 2",
@@ -2060,6 +2059,23 @@
     "total_reviews": 23296,
     "price": "CDN$ 69.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/header.jpg?t=1699983920"
+  },
+  {
+    "title": "DARK SOULS™: REMASTERED",
+    "rankings": {
+      "IGN": 80
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum"
+    },
+    "steam_id": 570940,
+    "user_score": 0.9097027925882912,
+    "total_reviews": 37886,
+    "price": "CDN$ 53.49",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg?t=1726158603"
   },
   {
     "title": "Fortnite",
@@ -2242,13 +2258,13 @@
       "windows": true,
       "macos": false,
       "linux": false,
-      "steamdeck": "unknown"
+      "steamdeck": "platinum"
     },
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": ""
+    "steam_id": 2124490,
+    "user_score": 0.9564216120460585,
+    "total_reviews": 11290,
+    "price": "CDN$ 93.49",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/header.jpg?t=1728470029"
   },
   {
     "title": "Grand Theft Auto: San Andreas",
@@ -2587,13 +2603,13 @@
       "windows": true,
       "macos": false,
       "linux": false,
-      "steamdeck": "unknown"
+      "steamdeck": "gold"
     },
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": ""
+    "steam_id": 72850,
+    "user_score": 0.9252921124706902,
+    "total_reviews": 101502,
+    "price": "CDN$ 21.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/72850/header.jpg?t=1721923139"
   },
   {
     "title": "Resident Evil 4",
@@ -2657,11 +2673,11 @@
       "linux": false,
       "steamdeck": "gold"
     },
-    "steam_id": 2668510,
-    "user_score": 0.9256198347107438,
-    "total_reviews": 2299,
-    "price": "CDN$ 69.99",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1731017882"
+    "steam_id": 1174180,
+    "user_score": 0.9098192305320627,
+    "total_reviews": 210821,
+    "price": "CDN$ 79.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1720558643"
   },
   {
     "title": "Metal Gear Solid",
@@ -2687,15 +2703,15 @@
     },
     "platforms": {
       "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "unknown"
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold"
     },
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": ""
+    "steam_id": 8930,
+    "user_score": 0.9599095339382354,
+    "total_reviews": 74282,
+    "price": "CDN$ 32.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/header.jpg?t=1724341158"
   },
   {
     "title": "The Legend of Zelda: Ocarina of Time",
@@ -2743,8 +2759,8 @@
       "steamdeck": "platinum"
     },
     "steam_id": 70,
-    "user_score": 0.9646166117849181,
-    "total_reviews": 48893,
+    "user_score": 0.9646173354603836,
+    "total_reviews": 48894,
     "price": "CDN$ 11.49",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/header.jpg?t=1729702360"
   },
@@ -2776,11 +2792,11 @@
       "linux": false,
       "steamdeck": "unknown"
     },
-    "steam_id": 1931760,
+    "steam_id": null,
     "user_score": null,
     "total_reviews": 0,
-    "price": "CDN$ 8.99",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1931760/header.jpg?t=1652861058"
+    "price": "N/A",
+    "header_image": ""
   },
   {
     "title": "Metal Gear Solid 3: Snake Eater",
@@ -2793,11 +2809,11 @@
       "linux": false,
       "steamdeck": "unknown"
     },
-    "steam_id": null,
+    "steam_id": 2417610,
     "user_score": null,
     "total_reviews": 0,
     "price": "N/A",
-    "header_image": ""
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/header.jpg?t=1727404668"
   },
   {
     "title": "God of War",
@@ -2829,8 +2845,8 @@
       "steamdeck": "platinum"
     },
     "steam_id": 400,
-    "user_score": 0.9863414634146341,
-    "total_reviews": 69700,
+    "user_score": 0.9863418553269634,
+    "total_reviews": 69702,
     "price": "CDN$ 12.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/header.jpg?t=1726252771"
   },
@@ -3123,7 +3139,7 @@
     "user_score": 0.9296482412060302,
     "total_reviews": 199,
     "price": "N/A",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284210/header.jpg?t=1731530760"
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284210/header.jpg?t=1731549758"
   },
   {
     "title": "City of Heroes: Homecoming",
@@ -3183,15 +3199,15 @@
     },
     "platforms": {
       "windows": true,
-      "macos": false,
+      "macos": true,
       "linux": false,
-      "steamdeck": "unknown"
+      "steamdeck": "gold"
     },
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": ""
+    "steam_id": 32370,
+    "user_score": 0.9113478643338873,
+    "total_reviews": 20462,
+    "price": "CDN$ 12.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32370/header.jpg?t=1681144833"
   },
   {
     "title": "Dragon Age: Origins",
@@ -3290,8 +3306,8 @@
       "steamdeck": "platinum"
     },
     "steam_id": 1229490,
-    "user_score": 0.9804377171435527,
-    "total_reviews": 90378,
+    "user_score": 0.9804385829036755,
+    "total_reviews": 90382,
     "price": "CDN$ 32.50",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229490/header.jpg?t=1726657304"
   },
@@ -3302,15 +3318,15 @@
     },
     "platforms": {
       "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "unknown"
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold"
     },
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": ""
+    "steam_id": 8930,
+    "user_score": 0.9599095339382354,
+    "total_reviews": 74282,
+    "price": "CDN$ 32.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/header.jpg?t=1724341158"
   },
   {
     "title": "Hotline Miami",
@@ -3324,8 +3340,8 @@
       "steamdeck": "platinum"
     },
     "steam_id": 219150,
-    "user_score": 0.9689295113047908,
-    "total_reviews": 35339,
+    "user_score": 0.9689312696301746,
+    "total_reviews": 35341,
     "price": "CDN$ 12.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/header.jpg?t=1686261983"
   },
@@ -3389,13 +3405,13 @@
       "windows": true,
       "macos": false,
       "linux": false,
-      "steamdeck": "unknown"
+      "steamdeck": "platinum"
     },
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": ""
+    "steam_id": 1888160,
+    "user_score": 0.9359093012494215,
+    "total_reviews": 34576,
+    "price": "CDN$ 79.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/header.jpg?t=1726158706"
   },
   {
     "title": "Deep Rock Galactic",
@@ -3511,8 +3527,8 @@
       "steamdeck": "platinum"
     },
     "steam_id": 1262350,
-    "user_score": 0.9700607160304278,
-    "total_reviews": 14329,
+    "user_score": 0.9700648942851162,
+    "total_reviews": 14331,
     "price": "CDN$ 26.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/header.jpg?t=1704064951"
   },
@@ -3530,7 +3546,7 @@
     "steam_id": 220200,
     "user_score": 0.9555910865275197,
     "total_reviews": 69423,
-    "price": "$39.99",
+    "price": "CDN$ 43.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/header.jpg?t=1663603925"
   },
   {
@@ -3541,14 +3557,14 @@
     "platforms": {
       "windows": true,
       "macos": true,
-      "linux": false,
-      "steamdeck": "bronze"
+      "linux": true,
+      "steamdeck": "unknown"
     },
-    "steam_id": 252490,
-    "user_score": 0.8719318186710755,
-    "total_reviews": 464526,
-    "price": "CDN$ 50.49",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1727957298"
+    "steam_id": 980030,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/980030/header.jpg?t=1551828966"
   },
   {
     "title": "Resident Evil 4 (Remake)",
@@ -3717,7 +3733,7 @@
     "steam_id": 1578650,
     "user_score": 0.9428899082568807,
     "total_reviews": 4360,
-    "price": "$19.99",
+    "price": "CDN$ 25.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578650/header.jpg?t=1729638169"
   },
   {
@@ -3882,13 +3898,13 @@
       "windows": true,
       "macos": false,
       "linux": false,
-      "steamdeck": "unknown"
+      "steamdeck": "platinum"
     },
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": ""
+    "steam_id": 2231450,
+    "user_score": 0.9855819253827478,
+    "total_reviews": 40366,
+    "price": "CDN$ 21.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231450/header.jpg?t=1724770820"
   },
   {
     "title": "Crusader Kings 3",
@@ -3970,8 +3986,8 @@
       "steamdeck": "gold"
     },
     "steam_id": 553850,
-    "user_score": 0.7964528130741262,
-    "total_reviews": 520356,
+    "user_score": 0.7964643776147713,
+    "total_reviews": 520361,
     "price": "CDN$ 49.99",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/header.jpg?t=1730884635"
   },
@@ -3982,15 +3998,15 @@
     },
     "platforms": {
       "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "unknown"
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold"
     },
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": ""
+    "steam_id": 364360,
+    "user_score": 0.8218475073313783,
+    "total_reviews": 17732,
+    "price": "CDN$ 71.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/header.jpg?t=1668768531"
   },
   {
     "title": "Metal Gear Solid 3",
@@ -4033,14 +4049,14 @@
     },
     "platforms": {
       "windows": true,
-      "macos": false,
+      "macos": true,
       "linux": false,
-      "steamdeck": "unknown"
+      "steamdeck": "platinum"
     },
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": ""
+    "steam_id": 2379780,
+    "user_score": 0.980192490884604,
+    "total_reviews": 30443,
+    "price": "CDN$ 18.99",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/header.jpg?t=1730735362"
   }
 ]

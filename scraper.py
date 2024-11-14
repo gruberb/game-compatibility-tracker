@@ -5,6 +5,7 @@ from pathlib import Path
 import re
 import time
 import os
+from difflib import SequenceMatcher
 
 class GameScraper:
     def __init__(self):
@@ -15,6 +16,7 @@ class GameScraper:
         self.cache_dir = Path('cache')
         self.data_dir.mkdir(exist_ok=True)
         self.cache_dir.mkdir(exist_ok=True)
+        self.FUZZY_MATCH_THRESHOLD = 0.91
 
         # Roman numeral mapping
         self.roman_to_arabic = {
@@ -105,7 +107,7 @@ class GameScraper:
                 return json.load(f)
 
         print("Fetching complete Steam games list...")
-        api = 'http://api.steampowered.com/ISteamApps/GetAppList/v0002/'
+        api = 'https://api.steampowered.com/ISteamApps/GetAppList/v2/'
         response = requests.get(url=api)
         games_dict = {}
 
@@ -117,6 +119,22 @@ class GameScraper:
             json.dump(games_dict, f)
 
         return games_dict
+
+    def clean_title_for_matching(self, title):
+        """Clean title for better matching"""
+        # Remove special characters and extra spaces
+        clean = re.sub(r'[^\w\s]', '', title)
+        # Remove common words that might interfere with matching
+        stop_words = ['the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to']
+        clean = ' '.join(word for word in clean.lower().split()
+                        if word not in stop_words)
+        return clean
+
+    def title_similarity(self, title1, title2):
+        """Calculate similarity ratio between two titles"""
+        clean1 = self.clean_title_for_matching(title1)
+        clean2 = self.clean_title_for_matching(title2)
+        return SequenceMatcher(None, clean1, clean2).ratio()
 
     def get_game_score(self, app_id):
         """Get game score from Steam reviews"""
@@ -130,9 +148,24 @@ class GameScraper:
             print(f"Error getting score for {app_id}: {e}")
             return None, 0
 
+
+    def find_best_match(self, title, steam_titles):
+        """Find the best matching Steam title"""
+        best_ratio = 0
+        best_match = None
+        clean_search = self.clean_title_for_matching(title)
+
+        for steam_title in steam_titles:
+            ratio = self.title_similarity(title, steam_title)
+            if ratio > best_ratio:
+                best_ratio = ratio
+                best_match = steam_title
+
+        return best_match if best_ratio >= self.FUZZY_MATCH_THRESHOLD else None
+
+
     def get_steam_info(self, game_title):
         """Get Steam game information including platform availability"""
-        # Try exact match first
         cache_file = self.cache_dir / f"{game_title.lower().replace(' ', '_')}_steam.json"
 
         # Check cache first with original title
@@ -152,31 +185,24 @@ class GameScraper:
                 return json.load(f)
 
         try:
-            # Try to find game with original title
-            app_id = self.steam_games.get(game_title.lower())
+            print(f"\nTrying to find Steam match for: {game_title}")
+            print(f"Normalized as: {normalized_title}")
 
-            # If not found, try with normalized title
+            # Try exact matches first
+            app_id = self.steam_games.get(game_title.lower()) or \
+                    self.steam_games.get(normalized_title.lower())
+
+            # If no exact match, try fuzzy matching
             if not app_id:
-                app_id = self.steam_games.get(normalized_title.lower())
+                print(f"Trying fuzzy match...")
+                best_match = self.find_best_match(normalized_title, self.steam_games.keys())
 
-            # If still not found, try fuzzy matching
-            if not app_id:
-                # Print debug info
-                print(f"Trying to find match for: {game_title}")
-                print(f"Normalized as: {normalized_title}")
-
-                # Try matching without special characters
-                clean_title = re.sub(r'[^a-zA-Z0-9\s]', '', normalized_title.lower())
-                for steam_title, steam_id in self.steam_games.items():
-                    clean_steam_title = re.sub(r'[^a-zA-Z0-9\s]', '', steam_title.lower())
-                    if clean_title == clean_steam_title:
-                        print(f"Found fuzzy match: {steam_title}")
-                        app_id = steam_id
-                        break
-
-            if not app_id:
-                print(f"Could not find Steam ID for: {game_title} (normalized: {normalized_title})")
-                return None
+                if best_match:
+                    print(f"Found fuzzy match: {best_match} (similarity: {self.title_similarity(normalized_title, best_match):.2f})")
+                    app_id = self.steam_games[best_match]
+                else:
+                    print(f"No good matches found for: {game_title}")
+                    return None
 
             print(f"Querying Steam store for app_id: {app_id} ({game_title})")
             # Get store API data
