@@ -1,6 +1,6 @@
 # 🎮 Game Compatibility Tracker
 
-A web application that aggregates top-rated games from major gaming websites and shows their compatibility across different platforms. Built with modern web technologies and powered by Steam's API.
+A web application that aggregates top-rated games from major gaming websites and shows their compatibility across different platforms.
 
 ![Game Compatibility Tracker Screenshot](docs/images/screenshot.png)
 
@@ -102,7 +102,7 @@ game_compatibility_tracker/
 
 ### Adding New Gaming Websites
 
-1. Add a new scraping method in `scraper/scraper.py`
+1. Add a new scraping method in `scraper.py`
 2. Update the `run()` method to include your new source
 3. Modify the HTML template to display the new source
 
