@@ -53,11 +53,12 @@ class GameScraper:
         # Additional game-specific normalizations
         special_cases = {
             'god of war (2018)': 'god of war',
-            'the sims 4': 'the sims™ 4',  # Steam uses trademark symbol
-            'hunt: showdown': 'hunt showdown',  # Steam doesn't use colon
+            'the sims 4': 'the sims™ 4',
+            'hunt: showdown': 'hunt showdown',
             'homeworld: cataclysm': 'homeworld cataclysm',
-            'titanfall 2': 'titanfall® 2',  # Steam uses registered trademark
-            'hades 2': 'hades ii',  # Early Access games might use roman numerals
+            'titanfall 2': 'titanfall® 2',
+            'hades 2': 'hades ii',
+            'elden ring': 'ELDEN RING',  # Steam uses all caps
         }
 
         # Check special cases (case insensitive)
@@ -251,29 +252,36 @@ class GameScraper:
 
     def scrape_ign(self):
         print("Scraping IGN...")
-        url = 'https://www.ign.com/articles/the-best-reviewed-games-of-2024'
+        url = 'https://www.ign.com/articles/the-best-100-video-games-of-all-time'
         response = requests.get(url, headers=self.headers)
         soup = BeautifulSoup(response.text, 'html.parser')
 
         games = []
-        game_entries = soup.find_all('h3', {'class': 'title3', 'data-cy': 'title3'})
+        # Find all h2 tags with the specific class and data-cy attribute
+        game_entries = soup.find_all('h2', {'class': 'title2', 'data-cy': 'title2'})
 
-        rank = 1
         for entry in game_entries:
-            original_title = entry.text.strip()
-            normalized_title = self.normalize_title(original_title)
+            # Extract the text from the strong tag
+            strong_tag = entry.find('strong')
+            if strong_tag:
+                text = strong_tag.text.strip()
+                # Looking for pattern like "100. Borderlands 2"
+                match = re.match(r'(\d+)\.\s+(.+)', text)
+                if match:
+                    rank = int(match.group(1))
+                    original_title = match.group(2)
+                    normalized_title = self.normalize_title(original_title)
 
-            games.append({
-                'rank': rank,
-                'title': normalized_title,
-                'original_title': original_title,
-                'source': 'IGN'
-            })
-            rank += 1
+                    games.append({
+                        'rank': rank,
+                        'title': normalized_title,
+                        'original_title': original_title,
+                        'source': 'IGN'
+                    })
 
-            # Debug output for title changes
-            if original_title != normalized_title:
-                print(f"Normalized title: {original_title} -> {normalized_title}")
+                    # Debug output for title changes
+                    if original_title != normalized_title:
+                        print(f"Normalized IGN title: {original_title} -> {normalized_title}")
 
         return games
 
