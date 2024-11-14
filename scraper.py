@@ -37,6 +37,7 @@ class GameScraper:
             'episodes': 'ep',
             'part': '',
             'chapter': 'ch',
+            '®': '',
         }
 
         # Load Steam games list
@@ -58,7 +59,10 @@ class GameScraper:
             'homeworld: cataclysm': 'homeworld cataclysm',
             'titanfall 2': 'titanfall® 2',
             'hades 2': 'hades ii',
-            'elden ring': 'ELDEN RING',  # Steam uses all caps
+            'elden ring': 'ELDEN RING',
+            'dark souls': 'DARK SOULS™: REMASTERED',
+            'dark souls 2': 'DARK SOULS™ II',
+            'dark souls 3': 'DARK SOULS™ III',
         }
 
         # Check special cases (case insensitive)
@@ -101,7 +105,7 @@ class GameScraper:
                 return json.load(f)
 
         print("Fetching complete Steam games list...")
-        api = 'https://api.steampowered.com/ISteamApps/GetAppList/v2/'
+        api = 'http://api.steampowered.com/ISteamApps/GetAppList/v0002/'
         response = requests.get(url=api)
         games_dict = {}
 
