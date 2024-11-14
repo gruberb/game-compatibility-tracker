@@ -25,10 +25,23 @@ jobs:
       - name: Run scraper
         run: python scraper.py
 
+      - name: Debug directory structure
+        run: |
+          pwd
+          ls -R
+
+      - name: Create docs/data directory if it doesn't exist
+        run: mkdir -p docs/data
+
+      - name: Copy data files
+        run: |
+          cp -f data/merged_games.json docs/data/
+          cp -f data/raw_games.json docs/data/
+
       - name: Commit and push if changed
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
-          git add docs/data/merged_games.json
-          git commit -m "Update game data" || exit 0
+          git add docs/data/*.json
+          git commit -m "Update game data [skip ci]" || exit 0
           git push
