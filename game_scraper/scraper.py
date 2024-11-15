@@ -32,6 +32,9 @@ class GameScraper:
         # Load Steam games list
         self.steam_games: Dict[str, int] = self.get_steam_games_list()
 
+        # Collect all games which couldn't be found
+        self.unmatched_games: List[str] = []
+
         # Load all scrapers
         self.scrapers: List[BaseScraper] = [scraper() for scraper in get_all_scrapers()]
 
@@ -193,6 +196,7 @@ class GameScraper:
                     app_id = self.steam_games[best_match]
                 else:
                     print(f"No good matches found for: {game_title}")
+                    self.unmatched_games.append(game_title)
                     return None
 
             print(f"Querying Steam store for app_id: {app_id} ({game_title})")
@@ -309,6 +313,14 @@ class GameScraper:
             json.dump(all_games, f, indent=2, ensure_ascii=False)
         with open(self.data_dir / 'merged_games.json', 'w', encoding='utf-8') as f:
             json.dump(merged_games, f, indent=2, ensure_ascii=False)
+
+        # Write unmatched games to a file
+        if self.unmatched_games:
+            unmatched_file = self.data_dir / 'unmatched_games.txt'
+            with open(unmatched_file, 'w', encoding='utf-8') as f:
+                for game in self.unmatched_games:
+                    f.write(game + '\n')
+            print(f"Unmatched games written to {unmatched_file}")
 
         print(f"Scraped {len(all_games)} total entries")
         print(f"Found {len(merged_games)} unique games")
