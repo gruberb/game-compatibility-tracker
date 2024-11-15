@@ -10,13 +10,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           ref: main
-          fetch-depth: 0 # Fetch full history
+          fetch-depth: 0
+          lfs: false
+          clean: false
+
+      - name: Disable Line Ending Conversion
+        run: git config --global core.autocrlf false
+
+      - name: Update Local Main Branch
+        run: |
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: "3.12"
 
@@ -30,18 +41,19 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.name 'Bastian Gruber'
-          git config --global user.email 'foreach@me.com'
+          git config user.name 'Bastian Gruber'
+          git config user.email 'foreach@me.com'
 
-      - name: Verify Branch
+      - name: Debug - Check for Changes in Workflow Files
         run: |
-          git branch
           git status
+          git diff --name-only HEAD
 
       - name: Commit and Push Changes
         run: |
           git add docs/data/*.json
-          if git diff-index --quiet HEAD; then
+          git status
+          if git diff --cached --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Update game data [skip ci]"
