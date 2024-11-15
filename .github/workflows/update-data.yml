@@ -11,6 +11,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: main
+          fetch-depth: 0 # Fetch full history
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -25,13 +28,22 @@ jobs:
       - name: Run scraper
         run: python scraper.py
 
-      - name: Copy and commit changes
+      - name: Configure Git
         run: |
           git config --global user.name 'Bastian Gruber'
           git config --global user.email 'foreach@me.com'
+
+      - name: Verify Branch
+        run: |
+          git branch
           git status
+
+      - name: Commit and Push Changes
+        run: |
           git add docs/data/*.json
-          git status
-          git commit -m "Update game data [skip ci]"
-          git log -1
-          git push origin main --force
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update game data [skip ci]"
+            git push origin main
+          fi
