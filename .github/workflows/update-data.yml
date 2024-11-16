@@ -39,7 +39,7 @@ jobs:
       - name: Run scraper
         env:
           GAME_SCRAPER_RAWG_API_KEY: ${{ secrets.GAME_SCRAPER_RAWG_API_KEY }}
-        run: python run_scraper.py
+        run: python main.py
 
       - name: Configure Git
         run: |
