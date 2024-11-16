@@ -22,7 +22,7 @@
     "steam_id": 49520,
     "user_score": 0.9598743988378283,
     "total_reviews": 110827,
-    "price": "CDN$ 21.99",
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
     "metacritic": 89,
     "release_date": "2012-09-18"
@@ -47,7 +47,7 @@
     "steam_id": 435150,
     "user_score": 0.954745500746601,
     "total_reviews": 76346,
-    "price": "CDN$ 54.99",
+    "price": "$44.99",
     "header_image": "https://media.rawg.io/media/games/424/424facd40f4eb1f2794fe4b4bb28a277.jpg",
     "metacritic": 95,
     "release_date": "2017-09-14"
@@ -72,7 +72,7 @@
     "steam_id": 39140,
     "user_score": 0.916821721452691,
     "total_reviews": 14511,
-    "price": "CDN$ 16.99",
+    "price": "$11.99",
     "header_image": "https://media.rawg.io/media/games/d89/d89bd0cf4fcdc10820892980cbba0f49.jpg",
     "metacritic": 87,
     "release_date": "2020-04-10"
@@ -99,7 +99,7 @@
     "steam_id": 242050,
     "user_score": 0.8653704350525866,
     "total_reviews": 25767,
-    "price": "CDN$ 49.99",
+    "price": "Rp 409 000",
     "header_image": "https://media.rawg.io/media/games/849/849414b978db37d4563ff9e4b0d3a787.jpg",
     "metacritic": 85,
     "release_date": "2013-10-29"
@@ -122,7 +122,7 @@
     "steam_id": 32460,
     "user_score": 0.9431314623338257,
     "total_reviews": 1354,
-    "price": "CDN$ 12.99",
+    "price": "$9.99",
     "header_image": "",
     "metacritic": null,
     "release_date": null
@@ -169,9 +169,9 @@
       "Epic Games"
     ],
     "steam_id": 38410,
-    "user_score": 0.9430304628774892,
-    "total_reviews": 7583,
-    "price": "CDN$ 10.99",
+    "user_score": 0.9430229490899499,
+    "total_reviews": 7582,
+    "price": "$9.99",
     "header_image": "https://media.rawg.io/media/games/218/218167ff4011acc825c844d0070940a0.jpg",
     "metacritic": 86,
     "release_date": "1998-09-30"
@@ -263,7 +263,7 @@
     "steam_id": 211740,
     "user_score": 0.9496459480723839,
     "total_reviews": 1271,
-    "price": "CDN$ 8.99",
+    "price": "$6.99",
     "header_image": "https://media.rawg.io/media/games/f04/f04030abc433df09da4bb70a74bdf339.jpg",
     "metacritic": 87,
     "release_date": "2000-02-29"
@@ -301,7 +301,7 @@
       "windows": true,
       "macos": false,
       "linux": false,
-      "steamdeck": "platinum",
+      "steamdeck": "unknown",
       "switch": true
     },
     "stores": [
@@ -313,10 +313,10 @@
       "Nintendo Store",
       "Epic Games"
     ],
-    "steam_id": 304430,
-    "user_score": 0.9612874951305025,
-    "total_reviews": 20536,
-    "price": "CDN$ 25.99",
+    "steam_id": 2596760,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
     "header_image": "https://media.rawg.io/media/games/d5a/d5a24f9f71315427fa6e966fdd98dfa6.jpg",
     "metacritic": 87,
     "release_date": "2016-06-28"
@@ -341,8 +341,8 @@
       "Xbox Store"
     ],
     "steam_id": 1237970,
-    "user_score": 0.952930008859638,
-    "total_reviews": 79010,
+    "user_score": 0.9529306045993596,
+    "total_reviews": 79011,
     "price": "CDN$ 39.99",
     "header_image": "https://media.rawg.io/media/games/569/56978b5a77f13aa2ec5d09ec81d01cad.jpg",
     "metacritic": 87,
@@ -388,9 +388,9 @@
       "Xbox Store"
     ],
     "steam_id": 582010,
-    "user_score": 0.9209267477378825,
-    "total_reviews": 104106,
-    "price": "CDN$ 13.19",
+    "user_score": 0.9209179017741362,
+    "total_reviews": 104107,
+    "price": "₩ 11,480",
     "header_image": "https://media.rawg.io/media/games/21c/21cc15d233117c6809ec86870559e105.jpg",
     "metacritic": 89,
     "release_date": "2018-01-26"
@@ -415,7 +415,7 @@
     "steam_id": 304240,
     "user_score": 0.9079136690647482,
     "total_reviews": 9035,
-    "price": "CDN$ 19.99",
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/053/053fc543bf488349610f1ae2d0c1b51b.jpg",
     "metacritic": 91,
     "release_date": "2019-01-25"
@@ -439,7 +439,7 @@
     "steam_id": 238210,
     "user_score": 0.9507912421417732,
     "total_reviews": 4613,
-    "price": "CDN$ 10.99",
+    "price": "$9.99",
     "header_image": "https://media.rawg.io/media/games/65f/65f661f1487395055ba05e0a95fc0330.jpg",
     "metacritic": 92,
     "release_date": "1999-08-11"
@@ -463,9 +463,9 @@
       "Nintendo Store"
     ],
     "steam_id": 976310,
-    "user_score": 0.8686977043552886,
-    "total_reviews": 23305,
-    "price": "CDN$ 69.99",
+    "user_score": 0.868692070030896,
+    "total_reviews": 23304,
+    "price": "49,99€",
     "header_image": "https://media.rawg.io/media/games/eb5/eb514db62d397c64288160d5bd8fd67a.jpg",
     "metacritic": 82,
     "release_date": "2019-04-22"
@@ -490,8 +490,8 @@
       "Nintendo Store"
     ],
     "steam_id": 1687950,
-    "user_score": 0.9699331848552338,
-    "total_reviews": 22450,
+    "user_score": 0.9699345240746514,
+    "total_reviews": 22451,
     "price": "CDN$ 79.99",
     "header_image": "https://media.rawg.io/media/games/a9c/a9c789951de65da545d51f664b4f2ce0.jpg",
     "metacritic": 94,
@@ -517,9 +517,9 @@
       "Nintendo Store"
     ],
     "steam_id": 570940,
-    "user_score": 0.9096784404758764,
-    "total_reviews": 37909,
-    "price": "HK$ 259.00",
+    "user_score": 0.909685587676725,
+    "total_reviews": 37912,
+    "price": "$39.99",
     "header_image": "https://media.rawg.io/media/games/29c/29c6c21cc0c78cff6f45d23631cc82f4.jpg",
     "metacritic": 84,
     "release_date": "2018-05-23"
@@ -640,7 +640,7 @@
     "steam_id": 418530,
     "user_score": 0.9353009708737864,
     "total_reviews": 12875,
-    "price": "CDN$ 22.79",
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/686/68625f8bef120a2a6074c394baf27f77.jpg",
     "metacritic": 90,
     "release_date": "2020-09-15"
@@ -764,7 +764,7 @@
     "steam_id": 47890,
     "user_score": 0.8746708794102159,
     "total_reviews": 18990,
-    "price": "CDN$ 26.99",
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/369/36914d895c20e35f273286145c267764.jpg",
     "metacritic": 86,
     "release_date": "2009-06-02"
@@ -792,7 +792,7 @@
     "steam_id": 13570,
     "user_score": 0.9300254452926209,
     "total_reviews": 3144,
-    "price": "CDN$ 2.49",
+    "price": "$2.49",
     "header_image": "https://media.rawg.io/media/games/83b/83b59a9d512bec8bc8bda6b539b215b2.jpg",
     "metacritic": 92,
     "release_date": "2005-03-21"
@@ -835,9 +835,9 @@
       "PlayStation Store"
     ],
     "steam_id": 2124490,
-    "user_score": 0.9564797753794858,
-    "total_reviews": 11397,
-    "price": "CDN$ 93.49",
+    "user_score": 0.9564950442943602,
+    "total_reviews": 11401,
+    "price": "$32.99 USD",
     "header_image": "https://media.rawg.io/media/games/09b/09b41c1a2c5761c5b1772a4ae238bb0e.jpg",
     "metacritic": null,
     "release_date": "2024-10-08"
@@ -866,7 +866,7 @@
     "steam_id": 1547000,
     "user_score": 0.7257341961174714,
     "total_reviews": 2009,
-    "price": "CDN$ 79.99",
+    "price": "$59.99",
     "header_image": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg",
     "metacritic": 93,
     "release_date": "2004-10-26"
@@ -893,9 +893,9 @@
       "Epic Games"
     ],
     "steam_id": 268500,
-    "user_score": 0.8545409305797462,
-    "total_reviews": 40190,
-    "price": "CDN$ 3.99",
+    "user_score": 0.8545481687898089,
+    "total_reviews": 40192,
+    "price": "$2.99",
     "header_image": "https://media.rawg.io/media/games/9bf/9bfac18ff678f41a4674250fa0e04a52.jpg",
     "metacritic": 88,
     "release_date": "2016-02-04"
@@ -950,7 +950,7 @@
     "steam_id": 7940,
     "user_score": 0.9199877061776457,
     "total_reviews": 9761,
-    "price": "CDN$ 26.79",
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/9fb/9fbaea2168caea1f806546dfdaaeb1da.jpg",
     "metacritic": 92,
     "release_date": "2007-11-05"
@@ -975,9 +975,9 @@
       "Epic Games"
     ],
     "steam_id": 391220,
-    "user_score": 0.923278713454739,
-    "total_reviews": 26303,
-    "price": "CDN$ 38.99",
+    "user_score": 0.9232845466641323,
+    "total_reviews": 26305,
+    "price": "$29.99",
     "header_image": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg",
     "metacritic": 86,
     "release_date": "2015-11-10"
@@ -1031,7 +1031,7 @@
     "steam_id": 403640,
     "user_score": 0.8795494424633498,
     "total_reviews": 17667,
-    "price": "CDN$ 39.99",
+    "price": "$29.99",
     "header_image": "https://media.rawg.io/media/games/f6b/f6bed028b02369d4cab548f4f9337e81.jpg",
     "metacritic": 86,
     "release_date": "2016-11-10"
@@ -1060,7 +1060,7 @@
     "steam_id": 210970,
     "user_score": 0.8329918032786885,
     "total_reviews": 7808,
-    "price": "CDN$ 43.99",
+    "price": "$39.99",
     "header_image": "https://media.rawg.io/media/games/00b/00b164224ebaf381104d0b215a37afb3.jpg",
     "metacritic": 87,
     "release_date": "2016-01-25"
@@ -1084,9 +1084,9 @@
       "Epic Games"
     ],
     "steam_id": 638230,
-    "user_score": 0.9262084088092287,
-    "total_reviews": 10489,
-    "price": "CDN$ 19.99",
+    "user_score": 0.9262154432793136,
+    "total_reviews": 10490,
+    "price": "$14.99",
     "header_image": "https://media.rawg.io/media/games/baf/baf9905270314e07e6850cffdb51df41.jpg",
     "metacritic": 92,
     "release_date": "2012-03-13"
@@ -1189,9 +1189,9 @@
       "Nintendo Store"
     ],
     "steam_id": 367520,
-    "user_score": 0.971956138665954,
-    "total_reviews": 119741,
-    "price": "CDN$ 19.49",
+    "user_score": 0.9719573096387353,
+    "total_reviews": 119746,
+    "price": "$14.99",
     "header_image": "https://media.rawg.io/media/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg",
     "metacritic": 88,
     "release_date": "2017-02-23"
@@ -1259,9 +1259,9 @@
       "Xbox 360 Store"
     ],
     "steam_id": 550,
-    "user_score": 0.9749277879895772,
-    "total_reviews": 198028,
-    "price": "1,95€",
+    "user_score": 0.9749293072106645,
+    "total_reviews": 198040,
+    "price": "$2.00",
     "header_image": "https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg",
     "metacritic": 89,
     "release_date": "2009-11-17"
@@ -1284,7 +1284,7 @@
     "steam_id": 1277130,
     "user_score": 0.72,
     "total_reviews": 50,
-    "price": "CDN$ 38.99",
+    "price": "$29.99",
     "header_image": "",
     "metacritic": null,
     "release_date": null
@@ -1378,7 +1378,7 @@
     "steam_id": 32370,
     "user_score": 0.9113781816405295,
     "total_reviews": 20469,
-    "price": "CDN$ 12.99",
+    "price": "9,75€",
     "header_image": "https://media.rawg.io/media/games/6e0/6e0c19bb111bd4fa20cf0eb72a049519.jpg",
     "metacritic": 88,
     "release_date": "2003-07-15"
@@ -1503,7 +1503,7 @@
     "steam_id": 72850,
     "user_score": 0.9252837326607818,
     "total_reviews": 101504,
-    "price": "CDN$ 21.99",
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
     "metacritic": 94,
     "release_date": "2011-11-11"
@@ -1525,9 +1525,9 @@
       "PlayStation Store"
     ],
     "steam_id": 2050650,
-    "user_score": 0.9694145476049675,
-    "total_reviews": 42275,
-    "price": "CDN$ 52.99",
+    "user_score": 0.9694159945123826,
+    "total_reviews": 42277,
+    "price": "$39.99",
     "header_image": "https://media.rawg.io/media/games/51a/51a404b9918a0b19fc704a3ca248c69f.jpg",
     "metacritic": null,
     "release_date": "2023-03-24"
@@ -1597,9 +1597,9 @@
       "Xbox 360 Store"
     ],
     "steam_id": 2668510,
-    "user_score": 0.9261603375527426,
-    "total_reviews": 2370,
-    "price": "CDN$ 69.99",
+    "user_score": 0.9258322798145807,
+    "total_reviews": 2373,
+    "price": "$49.99",
     "header_image": "https://media.rawg.io/media/games/686/686909717c3aa01518bc42ae2bf4259e.jpg",
     "metacritic": 95,
     "release_date": "2010-05-18"
@@ -1646,7 +1646,7 @@
     "steam_id": 3900,
     "user_score": 0.9328899637243047,
     "total_reviews": 1654,
-    "price": "CDN$ 21.99",
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/screenshots/85c/85c91c5064d2cdd56a949c8008868318.jpg",
     "metacritic": 94,
     "release_date": "2005-10-25"
@@ -1742,9 +1742,9 @@
       "Steam"
     ],
     "steam_id": 70,
-    "user_score": 0.9646032167746419,
-    "total_reviews": 48931,
-    "price": "0,81€",
+    "user_score": 0.9646061101461122,
+    "total_reviews": 48935,
+    "price": "$0.99",
     "header_image": "https://media.rawg.io/media/games/6c5/6c55e22185876626881b76c11922b073.jpg",
     "metacritic": 96,
     "release_date": "1998-11-08"
@@ -1791,9 +1791,9 @@
       "Nintendo Store"
     ],
     "steam_id": 379720,
-    "user_score": 0.9557154126943802,
-    "total_reviews": 74789,
-    "price": "CDN$ 24.99",
+    "user_score": 0.9557165969167413,
+    "total_reviews": 74791,
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg",
     "metacritic": 85,
     "release_date": "2016-05-13"
@@ -1816,7 +1816,7 @@
     "steam_id": 1931760,
     "user_score": null,
     "total_reviews": 0,
-    "price": "CDN$ 8.99",
+    "price": "$7.99",
     "header_image": "",
     "metacritic": null,
     "release_date": null
@@ -1862,8 +1862,8 @@
       "Steam"
     ],
     "steam_id": 546560,
-    "user_score": 0.9826113649085426,
-    "total_reviews": 55381,
+    "user_score": 0.9825951938180439,
+    "total_reviews": 55387,
     "price": "CDN$ 26.51",
     "header_image": "https://media.rawg.io/media/games/855/8552c056d729f34c951c30f3cfef9da8.jpg",
     "metacritic": 93,
@@ -1887,9 +1887,9 @@
       "PlayStation Store"
     ],
     "steam_id": 1593500,
-    "user_score": 0.9679391167064729,
-    "total_reviews": 49406,
-    "price": "CDN$ 64.99",
+    "user_score": 0.9679397656202562,
+    "total_reviews": 49407,
+    "price": "$49.99",
     "header_image": "https://media.rawg.io/media/games/1aa/1aa4ca34a8a6bb57a2e065c8332dc230.jpg",
     "metacritic": 94,
     "release_date": "2005-03-22"
@@ -1917,7 +1917,7 @@
     "steam_id": 613830,
     "user_score": 0.8788112697800077,
     "total_reviews": 5182,
-    "price": "CDN$ 19.99",
+    "price": "$14.99",
     "header_image": "https://media.rawg.io/media/games/ae4/ae404f4e0f504131199703c09111bb78.jpg",
     "metacritic": 82,
     "release_date": "1995-03-11"
@@ -1940,8 +1940,8 @@
       "Google Play"
     ],
     "steam_id": 400,
-    "user_score": 0.9863646139508209,
-    "total_reviews": 69745,
+    "user_score": 0.9863652004358547,
+    "total_reviews": 69748,
     "price": "CDN$ 12.99",
     "header_image": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg",
     "metacritic": 90,
@@ -2016,9 +2016,9 @@
       "Nintendo Store"
     ],
     "steam_id": 391540,
-    "user_score": 0.9649718602728068,
-    "total_reviews": 124557,
-    "price": "CDN$ 10.99",
+    "user_score": 0.9649649569287337,
+    "total_reviews": 124561,
+    "price": "$9.99",
     "header_image": "https://media.rawg.io/media/games/ffe/ffed87105b14f5beff72ff44a7793fd5.jpg",
     "metacritic": 92,
     "release_date": "2015-09-14"
@@ -2096,7 +2096,7 @@
     "steam_id": 1888930,
     "user_score": 0.755893797207599,
     "total_reviews": 17476,
-    "price": "CDN$ 79.99",
+    "price": "$59.99",
     "header_image": "https://media.rawg.io/media/games/71d/71df9e759b2246f9769126c98ac997fc.jpg",
     "metacritic": null,
     "release_date": "2022-09-02"
@@ -2123,9 +2123,9 @@
       "Nintendo Store"
     ],
     "steam_id": 292030,
-    "user_score": 0.96854299968994,
-    "total_reviews": 212862,
-    "price": "Rp 359 999",
+    "user_score": 0.9685479930847866,
+    "total_reviews": 212864,
+    "price": "CDN$ 55.99",
     "header_image": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg",
     "metacritic": 92,
     "release_date": "2015-05-18"
@@ -2199,9 +2199,9 @@
       "Epic Games"
     ],
     "steam_id": 1145360,
-    "user_score": 0.9859615765498119,
-    "total_reviews": 126225,
-    "price": "CDN$ 32.50",
+    "user_score": 0.9859538767458627,
+    "total_reviews": 126227,
+    "price": "$24.99",
     "header_image": "https://media.rawg.io/media/games/1f4/1f47a270b8f241e4676b14d39ec620f7.jpg",
     "metacritic": 93,
     "release_date": "2020-09-17"
@@ -2228,8 +2228,8 @@
       "Epic Games"
     ],
     "steam_id": 271590,
-    "user_score": 0.8320208902094774,
-    "total_reviews": 538817,
+    "user_score": 0.8320230870589982,
+    "total_reviews": 538830,
     "price": "N/A",
     "header_image": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
     "metacritic": 92,
@@ -2281,9 +2281,9 @@
       "Nintendo Store"
     ],
     "steam_id": 632470,
-    "user_score": 0.9309116656296265,
-    "total_reviews": 46607,
-    "price": "9,99€",
+    "user_score": 0.930914630221631,
+    "total_reviews": 46609,
+    "price": "CDN$ 11.37",
     "header_image": "https://media.rawg.io/media/games/0af/0afe9e8ace196123d8c7cf22172cec63.jpg",
     "metacritic": 90,
     "release_date": "2021-03-30"
@@ -2307,8 +2307,8 @@
       "Google Play"
     ],
     "steam_id": 220,
-    "user_score": 0.9723453925103256,
-    "total_reviews": 72393,
+    "user_score": 0.9723840017665406,
+    "total_reviews": 72458,
     "price": "Free",
     "header_image": "https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg",
     "metacritic": 96,
@@ -2335,9 +2335,9 @@
       "Epic Games"
     ],
     "steam_id": 1174180,
-    "user_score": 0.9098679908645508,
-    "total_reviews": 211046,
-    "price": "CDN$ 79.99",
+    "user_score": 0.9098705125957652,
+    "total_reviews": 211063,
+    "price": "$59.99",
     "header_image": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
     "metacritic": 96,
     "release_date": "2018-10-26"
@@ -2457,9 +2457,9 @@
       "Xbox 360 Store"
     ],
     "steam_id": 620,
-    "user_score": 0.9884808643323867,
-    "total_reviews": 151053,
-    "price": "9,75€",
+    "user_score": 0.9884745493423013,
+    "total_reviews": 151057,
+    "price": "$9.99",
     "header_image": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg",
     "metacritic": 95,
     "release_date": "2011-04-18"
@@ -2527,9 +2527,9 @@
       "Epic Games"
     ],
     "steam_id": 221910,
-    "user_score": 0.9235878000360945,
-    "total_reviews": 27705,
-    "price": "CDN$ 19.49",
+    "user_score": 0.9235905580018768,
+    "total_reviews": 27706,
+    "price": "$14.99",
     "header_image": "https://media.rawg.io/media/screenshots/8f0/8f0b94922ad5e59968852649697b2643.jpg",
     "metacritic": 88,
     "release_date": "2013-10-17"
@@ -2633,7 +2633,7 @@
     "steam_id": 2310,
     "user_score": 0.9650729060698542,
     "total_reviews": 8847,
-    "price": "CDN$ 13.49",
+    "price": "$9.99",
     "header_image": "https://media.rawg.io/media/games/3a8/3a82d7f5c90ab082fe475e28d58bee8b.jpg",
     "metacritic": 94,
     "release_date": "1996-06-22"
@@ -2659,9 +2659,9 @@
       "Epic Games"
     ],
     "steam_id": 233450,
-    "user_score": 0.8919582565991406,
-    "total_reviews": 32580,
-    "price": "CDN$ 39.99",
+    "user_score": 0.8919549402989656,
+    "total_reviews": 32579,
+    "price": "$29.99",
     "header_image": "https://media.rawg.io/media/games/6bc/6bc79f5bc023b1e6938f6eaf9926f073.jpg",
     "metacritic": 83,
     "release_date": "2015-10-05"
@@ -2686,9 +2686,9 @@
       "Nintendo Store"
     ],
     "steam_id": 782330,
-    "user_score": 0.9125060634914931,
-    "total_reviews": 111322,
-    "price": "CDN$ 53.49",
+    "user_score": 0.9125068494381215,
+    "total_reviews": 111323,
+    "price": "$39.99",
     "header_image": "https://media.rawg.io/media/games/3ea/3ea3c9bbd940b6cb7f2139e42d3d443f.jpg",
     "metacritic": 86,
     "release_date": "2020-03-20"
@@ -2717,8 +2717,8 @@
       "Epic Games"
     ],
     "steam_id": 588650,
-    "user_score": 0.9651509361864731,
-    "total_reviews": 39255,
+    "user_score": 0.9651518239250051,
+    "total_reviews": 39256,
     "price": "CDN$ 29.99",
     "header_image": "https://media.rawg.io/media/games/f90/f90ee1a4239247a822771c40488e68c5.jpg",
     "metacritic": 88,
@@ -2742,9 +2742,9 @@
       "Epic Games"
     ],
     "steam_id": 1336490,
-    "user_score": 0.9543493389004871,
-    "total_reviews": 14370,
-    "price": "CDN$ 19.99",
+    "user_score": 0.9542924725198275,
+    "total_reviews": 14374,
+    "price": "$14.99",
     "header_image": "https://media.rawg.io/media/screenshots/c7d/c7df14c2f6efd2bb035aa89f7c7ca30a.jpg",
     "metacritic": null,
     "release_date": "2023-12-08"
@@ -2796,7 +2796,7 @@
     "steam_id": 255710,
     "user_score": 0.9314629301783324,
     "total_reviews": 92636,
-    "price": "CDN$ 39.99",
+    "price": "$29.99",
     "header_image": "https://media.rawg.io/media/games/25c/25c4776ab5723d5d735d8bf617ca12d9.jpg",
     "metacritic": 85,
     "release_date": "2015-03-10"
@@ -2819,7 +2819,7 @@
     "steam_id": 1817230,
     "user_score": 0.9794878581353801,
     "total_reviews": 15113,
-    "price": "CDN$ 38.99",
+    "price": "$29.99",
     "header_image": "https://media.rawg.io/media/games/62f/62f71917e64e913f2a893e7373319c60.jpg",
     "metacritic": null,
     "release_date": "2023-01-25"
@@ -2841,8 +2841,8 @@
       "Steam"
     ],
     "steam_id": 730,
-    "user_score": 0.8662838813607955,
-    "total_reviews": 1265113,
+    "user_score": 0.86628256699151,
+    "total_reviews": 1265123,
     "price": "N/A",
     "header_image": "https://media.rawg.io/media/games/ec4/ec4b02bdb3eb5c6212992c19bc05697e.jpg",
     "metacritic": null,
@@ -2867,7 +2867,7 @@
     "steam_id": 1142710,
     "user_score": 0.7232734670662613,
     "total_reviews": 45713,
-    "price": "CDN$ 79.99",
+    "price": "$59.99",
     "header_image": "https://media.rawg.io/media/games/0fc/0fcb485572f6074c611521984a033a5c.jpg",
     "metacritic": 85,
     "release_date": "2022-02-17"
@@ -2892,7 +2892,7 @@
     "steam_id": 224940,
     "user_score": 0.6335540838852097,
     "total_reviews": 453,
-    "price": "CDN$ 8.99",
+    "price": "$6.99",
     "header_image": "https://media.rawg.io/media/games/84d/84da5a0c948592becea7a022e151a8b0.jpg",
     "metacritic": 91,
     "release_date": "1999-08-16"
@@ -2968,7 +2968,7 @@
     "steam_id": 389730,
     "user_score": 0.9094204125876495,
     "total_reviews": 29521,
-    "price": "CDN$ 53.49",
+    "price": "RM139.00",
     "header_image": "https://media.rawg.io/media/games/62b/62b035add7205737540d66e082b85930.jpg",
     "metacritic": 82,
     "release_date": "2015-03-18"
@@ -2992,7 +2992,7 @@
     "steam_id": 1155970,
     "user_score": 0.953464322647363,
     "total_reviews": 2901,
-    "price": "CDN$ 12.49",
+    "price": "$10.99",
     "header_image": "https://media.rawg.io/media/screenshots/216/216b292b866abcd42afde82f759c3ac3.jpg",
     "metacritic": null,
     "release_date": "2022-09-08"
@@ -3016,9 +3016,9 @@
       "Xbox 360 Store"
     ],
     "steam_id": 298110,
-    "user_score": 0.8079417340117729,
-    "total_reviews": 20046,
-    "price": "CDN$ 7.99",
+    "user_score": 0.8078707167439773,
+    "total_reviews": 20049,
+    "price": "$5.99",
     "header_image": "https://media.rawg.io/media/games/b39/b396dac1f3e0f538841aa0355dd066d3.jpg",
     "metacritic": 80,
     "release_date": "2014-11-18"
@@ -3047,7 +3047,7 @@
     "steam_id": 501300,
     "user_score": 0.9415894411682112,
     "total_reviews": 14244,
-    "price": "18,49€",
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/34e/34e100b1f648de99f32d477065f04653.jpg",
     "metacritic": 89,
     "release_date": "2017-04-23"
@@ -3072,7 +3072,7 @@
     "steam_id": 32360,
     "user_score": 0.9594594594594594,
     "total_reviews": 2812,
-    "price": "CDN$ 12.99",
+    "price": "$9.99",
     "header_image": "https://media.rawg.io/media/screenshots/656/65654f69256420c0126eb506c1a72d7f.jpg",
     "metacritic": 86,
     "release_date": "2009-07-15"
@@ -3125,7 +3125,7 @@
     "steam_id": 774201,
     "user_score": 0.8739436619718309,
     "total_reviews": 1420,
-    "price": "CDN$ 28.99",
+    "price": "$24.99",
     "header_image": "https://media.rawg.io/media/games/df6/df60abe956af265beb549507464df2f7.jpg",
     "metacritic": 75,
     "release_date": "2019-04-15"
@@ -3170,8 +3170,8 @@
       "Xbox Store"
     ],
     "steam_id": 1293830,
-    "user_score": 0.8882428803991628,
-    "total_reviews": 47299,
+    "user_score": 0.8882335531878911,
+    "total_reviews": 47304,
     "price": "CDN$ 79.99",
     "header_image": "https://media.rawg.io/media/games/786/7863e587bac630de82fca50d799236a9.jpg",
     "metacritic": 90,
@@ -3196,8 +3196,8 @@
       "App Store"
     ],
     "steam_id": 1332010,
-    "user_score": 0.9743597248646275,
-    "total_reviews": 68330,
+    "user_score": 0.9743608505407343,
+    "total_reviews": 68333,
     "price": "CDN$ 39.99",
     "header_image": "https://media.rawg.io/media/games/cd3/cd3c9c7d3e95cb1608fd6250f1b90b7a.jpg",
     "metacritic": 82,
@@ -3212,7 +3212,7 @@
       "windows": true,
       "macos": false,
       "linux": false,
-      "steamdeck": "gold",
+      "steamdeck": "unknown",
       "switch": false
     },
     "stores": [
@@ -3221,10 +3221,10 @@
       "Xbox Store",
       "Xbox 360 Store"
     ],
-    "steam_id": 1238040,
-    "user_score": 0.8041758937045239,
-    "total_reviews": 3161,
-    "price": "CDN$ 39.99",
+    "steam_id": 99809,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
     "header_image": "https://media.rawg.io/media/games/974/974d08635981db7677630327ce1fe4bb.jpg",
     "metacritic": 81,
     "release_date": "2011-03-08"
@@ -3251,7 +3251,7 @@
     "steam_id": 337000,
     "user_score": 0.7461210240496509,
     "total_reviews": 15468,
-    "price": "CDN$ 38.99",
+    "price": "$29.99",
     "header_image": "https://media.rawg.io/media/games/00d/00d374f12a3ab5f96c500a2cfa901e15.jpg",
     "metacritic": 83,
     "release_date": "2016-08-22"
@@ -3277,7 +3277,7 @@
     "steam_id": 1082430,
     "user_score": 0.9814491064491064,
     "total_reviews": 10296,
-    "price": "CDN$ 12.99",
+    "price": "$9.99",
     "header_image": "https://media.rawg.io/media/games/05a/05addb2c6604db3f6d667ec7f3b637ea.jpg",
     "metacritic": null,
     "release_date": "2021-04-07"
@@ -3304,9 +3304,9 @@
       "Google Play"
     ],
     "steam_id": 105600,
-    "user_score": 0.9775417101147028,
-    "total_reviews": 537040,
-    "price": "$5.79 USD",
+    "user_score": 0.9775420446589504,
+    "total_reviews": 537048,
+    "price": "9,75€",
     "header_image": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
     "metacritic": 81,
     "release_date": "2011-05-16"
@@ -3331,9 +3331,9 @@
       "Epic Games"
     ],
     "steam_id": 282140,
-    "user_score": 0.9579518133919893,
-    "total_reviews": 19549,
-    "price": "CDN$ 38.99",
+    "user_score": 0.9579496623695519,
+    "total_reviews": 19548,
+    "price": "$29.99",
     "header_image": "https://media.rawg.io/media/games/149/149bbed9d90dc09328ba79bbacfda3c8.jpg",
     "metacritic": 84,
     "release_date": "2015-09-21"
@@ -3355,9 +3355,9 @@
       "Epic Games"
     ],
     "steam_id": 526870,
-    "user_score": 0.9730142877524816,
-    "total_reviews": 98126,
-    "price": "Rp 299 999",
+    "user_score": 0.9730057473606978,
+    "total_reviews": 98132,
+    "price": "$39.99",
     "header_image": "https://media.rawg.io/media/games/9b0/9b03581c1ba7df63e221eb0828f8bb52.jpg",
     "metacritic": null,
     "release_date": "2024-09-11"
@@ -3382,8 +3382,8 @@
       "Epic Games"
     ],
     "steam_id": 1085660,
-    "user_score": 0.8169206214959008,
-    "total_reviews": 73307,
+    "user_score": 0.8169231188956185,
+    "total_reviews": 73308,
     "price": "N/A",
     "header_image": "https://media.rawg.io/media/games/34b/34b1f1850a1c06fd971bc6ab3ac0ce0e.jpg",
     "metacritic": 82,
@@ -3433,9 +3433,9 @@
       "Xbox 360 Store"
     ],
     "steam_id": 287700,
-    "user_score": 0.91624147376336,
-    "total_reviews": 37238,
-    "price": "CDN$ 29.99",
+    "user_score": 0.9162459720730397,
+    "total_reviews": 37240,
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg",
     "metacritic": 91,
     "release_date": "2015-09-01"
@@ -3458,9 +3458,9 @@
       "GOG"
     ],
     "steam_id": 281990,
-    "user_score": 0.8839864653360562,
-    "total_reviews": 67087,
-    "price": "CDN$ 52.99",
+    "user_score": 0.8839881946100644,
+    "total_reviews": 67088,
+    "price": "$39.99",
     "header_image": "https://media.rawg.io/media/games/92b/92bbf8a451e2742ab812a580546e593a.jpg",
     "metacritic": 78,
     "release_date": "2016-05-08"
@@ -3484,7 +3484,7 @@
     "steam_id": 1190170,
     "user_score": 0.9357142857142857,
     "total_reviews": 560,
-    "price": "CDN$ 25.99",
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/6c4/6c44f016aa1293cf9fb60cb1812dc687.jpg",
     "metacritic": null,
     "release_date": "2022-02-07"
@@ -3507,9 +3507,9 @@
       "Epic Games"
     ],
     "steam_id": 508440,
-    "user_score": 0.9811898873316846,
-    "total_reviews": 72780,
-    "price": "399₴",
+    "user_score": 0.9811916963193977,
+    "total_reviews": 72787,
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/screenshots/c76/c7664fff1b8665c1be4c665950d85878.jpg",
     "metacritic": null,
     "release_date": "2021-04-01"
@@ -3530,9 +3530,9 @@
       "Steam"
     ],
     "steam_id": 1145350,
-    "user_score": 0.9689407540394973,
+    "user_score": 0.9689048473967684,
     "total_reviews": 27850,
-    "price": "CDN$ 38.99",
+    "price": "£24.99",
     "header_image": "",
     "metacritic": null,
     "release_date": null
@@ -3557,7 +3557,7 @@
     "steam_id": 975370,
     "user_score": 0.9524567240464825,
     "total_reviews": 20739,
-    "price": "CDN$ 38.99",
+    "price": "$29.99",
     "header_image": "https://media.rawg.io/media/screenshots/b20/b20a30ae9d910d948a24ca234eb4553d.jpg",
     "metacritic": 93,
     "release_date": "2006-08-08"
@@ -3580,7 +3580,7 @@
     "steam_id": 1043810,
     "user_score": 0.9841739130434782,
     "total_reviews": 5750,
-    "price": "CDN$ 25.99",
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/screenshots/0ce/0ce263ed58e30ecf3085c61dd865b4a6.jpg",
     "metacritic": null,
     "release_date": null
@@ -3630,7 +3630,7 @@
     "steam_id": 270880,
     "user_score": 0.9732378193585428,
     "total_reviews": 76638,
-    "price": "CDN$ 25.99",
+    "price": "79,99zł",
     "header_image": "https://media.rawg.io/media/screenshots/135/135a00cf33b0c860fcb366747e95b89b.jpg",
     "metacritic": 76,
     "release_date": "2016-02-02"
@@ -3674,9 +3674,9 @@
       "GOG"
     ],
     "steam_id": 294100,
-    "user_score": 0.9805173905171893,
-    "total_reviews": 99422,
-    "price": "Rp 219 999",
+    "user_score": 0.9805175864739547,
+    "total_reviews": 99423,
+    "price": "$34.99",
     "header_image": "https://media.rawg.io/media/screenshots/4d8/4d85fbe90066fdbef295a618640c4a82.jpg",
     "metacritic": 87,
     "release_date": "2016-07-15"
@@ -3699,7 +3699,7 @@
     "steam_id": 9420,
     "user_score": 0.9647169811320755,
     "total_reviews": 5300,
-    "price": "CDN$ 13.99",
+    "price": "$12.99",
     "header_image": "https://media.rawg.io/media/screenshots/bb4/bb41da0fc0e3839f426ba476a9d644ef.jpg",
     "metacritic": 81,
     "release_date": "2007-11-06"
@@ -3749,9 +3749,9 @@
       "Google Play"
     ],
     "steam_id": 200510,
-    "user_score": 0.9422582304526749,
-    "total_reviews": 23328,
-    "price": "CDN$ 6.59",
+    "user_score": 0.9421749753525654,
+    "total_reviews": 23329,
+    "price": "$5.99",
     "header_image": "https://media.rawg.io/media/games/238/2383a172b4d50a7b44e07980eb7141ea.jpg",
     "metacritic": 89,
     "release_date": "2012-10-09"
@@ -3775,7 +3775,7 @@
     "steam_id": 94400,
     "user_score": 0.908256880733945,
     "total_reviews": 3924,
-    "price": "CDN$ 10.99",
+    "price": "$9.99",
     "header_image": "https://media.rawg.io/media/screenshots/b5f/b5f4e96a5db76ae039b88eefc1370a1b.jpg",
     "metacritic": 81,
     "release_date": "2014-01-13"
@@ -3800,7 +3800,7 @@
     "steam_id": 1175830,
     "user_score": 0.7815442561205274,
     "total_reviews": 531,
-    "price": "CDN$ 39.99",
+    "price": "$29.99",
     "header_image": "https://media.rawg.io/media/screenshots/ad9/ad9ffcc4613206996ace65f150d006f5.jpg",
     "metacritic": 71,
     "release_date": "2021-06-24"
@@ -3826,9 +3826,9 @@
       "Epic Games"
     ],
     "steam_id": 1091500,
-    "user_score": 0.8652408719132783,
-    "total_reviews": 306636,
-    "price": "$59.99",
+    "user_score": 0.8652417508593194,
+    "total_reviews": 306638,
+    "price": "CDN$ 79.99",
     "header_image": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
     "metacritic": 73,
     "release_date": "2020-12-10"
@@ -3850,9 +3850,9 @@
       "Steam"
     ],
     "steam_id": 1158310,
-    "user_score": 0.915583938926815,
-    "total_reviews": 40869,
-    "price": "$49.99",
+    "user_score": 0.9155860044042085,
+    "total_reviews": 40870,
+    "price": "£41.99",
     "header_image": "https://media.rawg.io/media/games/77e/77e8a4a7b377a081aabd0dbf688417e1.jpg",
     "metacritic": 86,
     "release_date": "2020-09-01"
@@ -3923,8 +3923,8 @@
       "Xbox Store"
     ],
     "steam_id": 524220,
-    "user_score": 0.8984244283324038,
-    "total_reviews": 43032,
+    "user_score": 0.8984267887435224,
+    "total_reviews": 43033,
     "price": "CDN$ 53.50",
     "header_image": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg",
     "metacritic": 86,
@@ -3948,9 +3948,9 @@
       "Nintendo Store"
     ],
     "steam_id": 427520,
-    "user_score": 0.9821793358312375,
-    "total_reviews": 97415,
-    "price": "CDN$ 45.00",
+    "user_score": 0.9821802504619175,
+    "total_reviews": 97420,
+    "price": "32,--€",
     "header_image": "https://media.rawg.io/media/games/7e4/7e4e22b76da131e9690d5757555093c2.jpg",
     "metacritic": 83,
     "release_date": "2020-08-14"
@@ -4027,9 +4027,9 @@
       "Epic Games"
     ],
     "steam_id": 753640,
-    "user_score": 0.9522351340033501,
-    "total_reviews": 38208,
-    "price": "CDN$ 32.99",
+    "user_score": 0.9522363840979874,
+    "total_reviews": 38209,
+    "price": "$24.99",
     "header_image": "https://media.rawg.io/media/games/9f4/9f418898f5415668ca47b5f4ab1ecfeb.jpg",
     "metacritic": 84,
     "release_date": "2019-05-29"
@@ -4054,7 +4054,7 @@
     "steam_id": 558990,
     "user_score": 0.9694656488549618,
     "total_reviews": 2751,
-    "price": "CDN$ 25.99",
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/dda/dda32189c8a4a0231fa9bd8012f72df1.jpg",
     "metacritic": null,
     "release_date": "2017-10-19"
@@ -4077,9 +4077,9 @@
       "Nintendo Store"
     ],
     "steam_id": 1092790,
-    "user_score": 0.9695682304377956,
-    "total_reviews": 66378,
-    "price": "CDN$ 22.79",
+    "user_score": 0.9695686888925714,
+    "total_reviews": 66379,
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/73e/73efc5c0ac6f354271dae610276f617c.jpg",
     "metacritic": 86,
     "release_date": "2021-10-19"
@@ -4126,9 +4126,9 @@
       "Xbox Store"
     ],
     "steam_id": 976730,
-    "user_score": 0.9239850076603195,
-    "total_reviews": 146208,
-    "price": "CDN$ 49.99",
+    "user_score": 0.9239860474659736,
+    "total_reviews": 146210,
+    "price": "$39.99",
     "header_image": "https://media.rawg.io/media/games/c24/c24f4434882ae9c2c8d9d38de82cb7a5.jpg",
     "metacritic": 85,
     "release_date": "2014-11-11"
@@ -4156,7 +4156,7 @@
     "steam_id": 377840,
     "user_score": 0.940682606315021,
     "total_reviews": 5479,
-    "price": "CDN$ 23.99",
+    "price": "$20.99",
     "header_image": "https://media.rawg.io/media/games/826/82626e2d7ee7d96656fb9838c2ef7302.jpg",
     "metacritic": 84,
     "release_date": "2000-07-07"
@@ -4180,9 +4180,9 @@
       "Xbox Store"
     ],
     "steam_id": 814380,
-    "user_score": 0.9375212131908712,
-    "total_reviews": 73657,
-    "price": "$59.99",
+    "user_score": 0.9375220614189904,
+    "total_reviews": 73658,
+    "price": "CDN$ 79.99",
     "header_image": "https://media.rawg.io/media/games/67f/67f62d1f062a6164f57575e0604ee9f6.jpg",
     "metacritic": 90,
     "release_date": "2019-03-22"
@@ -4209,7 +4209,7 @@
     "steam_id": 1659040,
     "user_score": 0.861987723975448,
     "total_reviews": 16129,
-    "price": "CDN$ 38.99",
+    "price": "$29.99",
     "header_image": "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg",
     "metacritic": 83,
     "release_date": "2016-03-11"
@@ -4231,8 +4231,8 @@
       "Steam"
     ],
     "steam_id": 440,
-    "user_score": 0.6629293692785756,
-    "total_reviews": 23814,
+    "user_score": 0.6629010582899378,
+    "total_reviews": 23812,
     "price": "N/A",
     "header_image": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
     "metacritic": 92,
@@ -4258,9 +4258,9 @@
       "GOG"
     ],
     "steam_id": 638970,
-    "user_score": 0.9697334429309535,
-    "total_reviews": 34064,
-    "price": "CDN$ 29.99",
+    "user_score": 0.9697343314252165,
+    "total_reviews": 34065,
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/ca1/ca16da30f86d8f4d36261de45fb35430.jpg",
     "metacritic": 85,
     "release_date": "2015-03-12"
@@ -4284,9 +4284,9 @@
       "Xbox Store"
     ],
     "steam_id": 1328670,
-    "user_score": 0.9136176323676324,
-    "total_reviews": 32032,
-    "price": "CDN$ 79.99",
+    "user_score": 0.9136203290356819,
+    "total_reviews": 32033,
+    "price": "$59.99",
     "header_image": "https://media.rawg.io/media/games/64e/64e2a77f37ddc48d102127234af99886.jpg",
     "metacritic": 88,
     "release_date": "2021-05-14"
@@ -4311,9 +4311,9 @@
       "Epic Games"
     ],
     "steam_id": 264710,
-    "user_score": 0.9678660057926809,
-    "total_reviews": 149499,
-    "price": "CDN$ 39.99",
+    "user_score": 0.967867080479452,
+    "total_reviews": 149504,
+    "price": "$29.99",
     "header_image": "https://media.rawg.io/media/games/739/73990e3ec9f43a9e8ecafe207fa4f368.jpg",
     "metacritic": 83,
     "release_date": "2018-01-23"
@@ -4337,9 +4337,9 @@
       "Xbox Store"
     ],
     "steam_id": 1245620,
-    "user_score": 0.9413339000795019,
-    "total_reviews": 381123,
-    "price": "CDN$ 79.99",
+    "user_score": 0.9413323537900454,
+    "total_reviews": 381130,
+    "price": "$59.99",
     "header_image": "https://media.rawg.io/media/games/b29/b294fdd866dcdb643e7bab370a552855.jpg",
     "metacritic": 95,
     "release_date": "2022-02-25"
@@ -4363,9 +4363,9 @@
       "GOG"
     ],
     "steam_id": 1086940,
-    "user_score": 0.9679972470750172,
-    "total_reviews": 369062,
-    "price": "1999 руб.",
+    "user_score": 0.9680008236875189,
+    "total_reviews": 369072,
+    "price": "$59.99",
     "header_image": "https://media.rawg.io/media/games/699/69907ecf13f172e9e144069769c3be73.jpg",
     "metacritic": 97,
     "release_date": "2023-08-03"
@@ -4386,9 +4386,9 @@
       "Steam"
     ],
     "steam_id": 892970,
-    "user_score": 0.9503055111141369,
-    "total_reviews": 235016,
-    "price": "CDN$ 22.79",
+    "user_score": 0.9503057225647507,
+    "total_reviews": 235017,
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/adb/adb59be81367b19c2544457424bcf086.jpg",
     "metacritic": null,
     "release_date": "2021-02-02"
@@ -4457,9 +4457,9 @@
       "Steam"
     ],
     "steam_id": 1868140,
-    "user_score": 0.9725060953467863,
-    "total_reviews": 38554,
-    "price": "CDN$ 25.99",
+    "user_score": 0.9725075215271294,
+    "total_reviews": 38556,
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/1ee/1eec43616e3ff00a674124d746926b23.jpg",
     "metacritic": null,
     "release_date": "2023-06-28"
@@ -4483,7 +4483,7 @@
     "steam_id": 2600,
     "user_score": 0.9479889807162535,
     "total_reviews": 9075,
-    "price": "CDN$ 21.99",
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/6f0/6f0a69db053bce957d8328a7253fbb29.jpg",
     "metacritic": 80,
     "release_date": "2004-11-15"
@@ -4512,7 +4512,7 @@
     "steam_id": 32370,
     "user_score": 0.9113781816405295,
     "total_reviews": 20469,
-    "price": "CDN$ 12.99",
+    "price": "$9.99",
     "header_image": "https://media.rawg.io/media/games/6e0/6e0c19bb111bd4fa20cf0eb72a049519.jpg",
     "metacritic": 88,
     "release_date": "2003-07-15"
@@ -4561,8 +4561,8 @@
       "Epic Games"
     ],
     "steam_id": 2215430,
-    "user_score": 0.9313402584241196,
-    "total_reviews": 19735,
+    "user_score": 0.9313506940926133,
+    "total_reviews": 19738,
     "price": "CDN$ 79.99",
     "header_image": "https://media.rawg.io/media/games/193/193c9fe23ca026914fdf41d551ff3df9.jpg",
     "metacritic": null,
@@ -4587,9 +4587,9 @@
       "Epic Games"
     ],
     "steam_id": 1850570,
-    "user_score": 0.9190110826939472,
-    "total_reviews": 9384,
-    "price": "CDN$ 54.99",
+    "user_score": 0.9190197123068726,
+    "total_reviews": 9385,
+    "price": "$39.99",
     "header_image": "https://media.rawg.io/media/games/b6f/b6fa0cde8a1204c7d6edc2ec3c753df9.jpg",
     "metacritic": null,
     "release_date": "2021-09-24"
@@ -4612,7 +4612,7 @@
     "steam_id": 1205520,
     "user_score": 0.9499364675984753,
     "total_reviews": 3935,
-    "price": "CDN$ 12.49",
+    "price": "$9.99",
     "header_image": "https://media.rawg.io/media/games/f1d/f1d25c007b9b45c98b57ff9ebbca9692.jpg",
     "metacritic": null,
     "release_date": "2022-11-14"
@@ -4636,7 +4636,7 @@
     "steam_id": 1677770,
     "user_score": 0.9860182370820668,
     "total_reviews": 4935,
-    "price": "CDN$ 12.29",
+    "price": "$10.79",
     "header_image": "https://media.rawg.io/media/games/a0b/a0bccdd3b0bf8f6a18757f46e74c214a.jpg",
     "metacritic": null,
     "release_date": "2022-10-13"
@@ -4658,9 +4658,9 @@
       "GOG"
     ],
     "steam_id": 1229490,
-    "user_score": 0.9804239993813454,
-    "total_reviews": 90519,
-    "price": "CDN$ 32.50",
+    "user_score": 0.980424864399103,
+    "total_reviews": 90523,
+    "price": "$24.99",
     "header_image": "https://media.rawg.io/media/games/096/096856c7b8b790cdf35c327652e4055e.jpg",
     "metacritic": null,
     "release_date": "2020-09-02"
@@ -4682,9 +4682,9 @@
       "App Store"
     ],
     "steam_id": 8930,
-    "user_score": 0.9599041684051846,
-    "total_reviews": 74297,
-    "price": "CDN$ 32.99",
+    "user_score": 0.9599036287283299,
+    "total_reviews": 74296,
+    "price": "$29.99",
     "header_image": "https://media.rawg.io/media/games/55e/55ee6432ac2bf224610fa17e4c652107.jpg",
     "metacritic": 90,
     "release_date": "2010-09-21"
@@ -4708,8 +4708,8 @@
       "Google Play"
     ],
     "steam_id": 219150,
-    "user_score": 0.9688914027149321,
-    "total_reviews": 35360,
+    "user_score": 0.9688922824580752,
+    "total_reviews": 35361,
     "price": "CDN$ 12.99",
     "header_image": "https://media.rawg.io/media/games/9fa/9fa63622543e5d4f6d99aa9d73b043de.jpg",
     "metacritic": 85,
@@ -4734,9 +4734,9 @@
       "itch.io"
     ],
     "steam_id": 231200,
-    "user_score": 0.8271714922048998,
-    "total_reviews": 2245,
-    "price": "CDN$ 27.99",
+    "user_score": 0.8272484416740873,
+    "total_reviews": 2246,
+    "price": "$24.99",
     "header_image": "https://media.rawg.io/media/games/177/1775aacedb915b0e0880476530dc87b4.jpg",
     "metacritic": 81,
     "release_date": "2020-01-28"
@@ -4760,7 +4760,7 @@
     "steam_id": 333640,
     "user_score": 0.9531796966161027,
     "total_reviews": 6856,
-    "price": "CDN$ 38.99",
+    "price": "$29.99",
     "header_image": "https://media.rawg.io/media/screenshots/e6e/e6e4a23d51a5fe13c8bb155371516436.jpg",
     "metacritic": null,
     "release_date": "2015-07-15"
@@ -4785,7 +4785,7 @@
     "steam_id": 257350,
     "user_score": 0.9175014731879788,
     "total_reviews": 5091,
-    "price": "CDN$ 25.99",
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/c16/c160077f8977cb22f14e56408c1560ef.jpg",
     "metacritic": 95,
     "release_date": "2000-09-21"
@@ -4807,8 +4807,8 @@
       "PlayStation Store"
     ],
     "steam_id": 1888160,
-    "user_score": 0.9359482036014684,
-    "total_reviews": 34597,
+    "user_score": 0.9359500549164692,
+    "total_reviews": 34598,
     "price": "CDN$ 79.99",
     "header_image": "https://media.rawg.io/media/games/c97/c97aba78a97038867d4b32a81fe48567.jpg",
     "metacritic": null,
@@ -4830,9 +4830,9 @@
       "Steam"
     ],
     "steam_id": 548430,
-    "user_score": 0.9794563696527211,
-    "total_reviews": 150801,
-    "price": "CDN$ 34.99",
+    "user_score": 0.9794566421092419,
+    "total_reviews": 150803,
+    "price": "$29.99",
     "header_image": "https://media.rawg.io/media/games/c92/c9207a31f0eeb9904a840fc26eae6afb.jpg",
     "metacritic": 84,
     "release_date": "2020-05-13"
@@ -4856,9 +4856,9 @@
       "Epic Games"
     ],
     "steam_id": 1824220,
-    "user_score": 0.812733630772941,
-    "total_reviews": 16586,
-    "price": "CDN$ 43.99",
+    "user_score": 0.8127562093079335,
+    "total_reviews": 16588,
+    "price": "$39.99",
     "header_image": "https://media.rawg.io/media/screenshots/d3e/d3ed3ab5f11f8f6294dd561c16dccdf8.jpg",
     "metacritic": 78,
     "release_date": "2021-06-08"
@@ -4883,7 +4883,7 @@
     "steam_id": 12140,
     "user_score": 0.8678871090770405,
     "total_reviews": 6555,
-    "price": "CDN$ 10.99",
+    "price": "$9.99",
     "header_image": "https://media.rawg.io/media/games/2f5/2f5eb72fe45540e93ac2726877551a20.jpg",
     "metacritic": 89,
     "release_date": "2001-07-25"
@@ -4909,9 +4909,9 @@
       "itch.io"
     ],
     "steam_id": 239030,
-    "user_score": 0.9728699551569506,
-    "total_reviews": 35680,
-    "price": "CDN$ 12.99",
+    "user_score": 0.9728707155068523,
+    "total_reviews": 35681,
+    "price": "$9.99",
     "header_image": "https://media.rawg.io/media/games/6d3/6d33014a4ed48a19c30a77ead5a0f62e.jpg",
     "metacritic": 85,
     "release_date": "2013-08-08"
@@ -4942,7 +4942,7 @@
     "steam_id": 214490,
     "user_score": 0.9217264081931237,
     "total_reviews": 23239,
-    "price": "CDN$ 43.99",
+    "price": "$39.99",
     "header_image": "https://media.rawg.io/media/games/daa/daaee07fcb40744d90cf8142f94a241f.jpg",
     "metacritic": 81,
     "release_date": "2014-10-05"
@@ -4967,7 +4967,7 @@
     "steam_id": 1574580,
     "user_score": 0.9578643974746088,
     "total_reviews": 7286,
-    "price": "CDN$ 20.79",
+    "price": "$15.99",
     "header_image": "https://media.rawg.io/media/games/add/add2aecd96e74df7e27082328039957e.jpg",
     "metacritic": null,
     "release_date": "2022-01-20"
@@ -4990,7 +4990,7 @@
     "steam_id": 1262350,
     "user_score": 0.9701107782345154,
     "total_reviews": 14353,
-    "price": "CDN$ 26.99",
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/480/480295ba922318bb052d169174ec88aa.jpg",
     "metacritic": 82,
     "release_date": "2022-10-27"
@@ -5016,7 +5016,7 @@
     "steam_id": 220200,
     "user_score": 0.9556176377408485,
     "total_reviews": 69442,
-    "price": "CDN$ 43.99",
+    "price": "$39.99",
     "header_image": "https://media.rawg.io/media/games/bda/bdab2603c0dc67268d0610449bc7df16.jpg",
     "metacritic": 88,
     "release_date": "2015-04-26"
@@ -5086,9 +5086,9 @@
       "Epic Games"
     ],
     "steam_id": 482400,
-    "user_score": 0.9150622876557192,
-    "total_reviews": 6181,
-    "price": "CDN$ 54.99",
+    "user_score": 0.9150760271756713,
+    "total_reviews": 6182,
+    "price": "$39.99",
     "header_image": "https://media.rawg.io/media/games/e98/e98c259aeac26d1ef5c1affc670eec83.jpg",
     "metacritic": 78,
     "release_date": "2023-05-30"
@@ -5113,7 +5113,7 @@
     "steam_id": 336140,
     "user_score": 0.9593846153846154,
     "total_reviews": 1625,
-    "price": "CDN$ 16.99",
+    "price": "$14.99",
     "header_image": "https://media.rawg.io/media/games/75f/75fe2c0e03a03d703c97ee238725bd5d.jpg",
     "metacritic": null,
     "release_date": "2018-08-07"
@@ -5139,7 +5139,7 @@
     "steam_id": 22320,
     "user_score": 0.9556945698439314,
     "total_reviews": 15506,
-    "price": "CDN$ 19.99",
+    "price": "$14.99",
     "header_image": "https://media.rawg.io/media/games/ccf/ccf26f6e3d553a04f0033a8107a521b8.jpg",
     "metacritic": 89,
     "release_date": "2002-05-01"
@@ -5165,7 +5165,7 @@
     "steam_id": 359550,
     "user_score": 0.8503379350657011,
     "total_reviews": 559427,
-    "price": "CDN$ 24.99",
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/b34/b3419c2706f8f8dbe40d08e23642ad06.jpg",
     "metacritic": 75,
     "release_date": "2015-12-01"
@@ -5191,9 +5191,9 @@
       "Nintendo Store"
     ],
     "steam_id": 250900,
-    "user_score": 0.973335864556547,
-    "total_reviews": 115886,
-    "price": "CDN$ 16.99",
+    "user_score": 0.9733202177870968,
+    "total_reviews": 115893,
+    "price": "$14.99",
     "header_image": "https://media.rawg.io/media/games/926/926928beb8a9f9b31cf202965aa4cbbc.jpg",
     "metacritic": 86,
     "release_date": "2014-11-03"
@@ -5216,9 +5216,9 @@
       "Xbox Store"
     ],
     "steam_id": 552500,
-    "user_score": 0.8976691445130401,
-    "total_reviews": 39685,
-    "price": "CDN$ 1.94",
+    "user_score": 0.8976969208285037,
+    "total_reviews": 39686,
+    "price": "1,39€",
     "header_image": "https://media.rawg.io/media/games/5be/5bec14622f6faf804a592176577c1347.jpg",
     "metacritic": 82,
     "release_date": "2018-03-08"
@@ -5243,7 +5243,7 @@
     "steam_id": 763890,
     "user_score": 0.9542061179898034,
     "total_reviews": 10984,
-    "price": "CDN$ 28.99",
+    "price": "$24.99",
     "header_image": "https://media.rawg.io/media/screenshots/103/10353ba4b9cdc6b67fed15f478f27640.jpg",
     "metacritic": null,
     "release_date": "2019-11-13"
@@ -5269,7 +5269,7 @@
     "steam_id": 239350,
     "user_score": 0.9203914842094643,
     "total_reviews": 9911,
-    "price": "CDN$ 16.99",
+    "price": "$14.99",
     "header_image": "https://media.rawg.io/media/games/fad/fadc4be043ed07904012d47cd02671e4.jpg",
     "metacritic": 90,
     "release_date": "2012-07-04"
@@ -5295,7 +5295,7 @@
     "steam_id": 1578650,
     "user_score": 0.9429553264604811,
     "total_reviews": 4365,
-    "price": "CDN$ 25.99",
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/391/391954934d459b8fe78d87a8a68c71c6.jpg",
     "metacritic": null,
     "release_date": "2022-05-05"
@@ -5319,9 +5319,9 @@
       "GOG"
     ],
     "steam_id": 323190,
-    "user_score": 0.926362554081129,
-    "total_reviews": 34439,
-    "price": "CDN$ 38.99",
+    "user_score": 0.9263646922183507,
+    "total_reviews": 34440,
+    "price": "¥ 108.00",
     "header_image": "https://media.rawg.io/media/games/a88/a886c37bf112d009e318b106db9d420a.jpg",
     "metacritic": 85,
     "release_date": "2018-04-24"
@@ -5394,8 +5394,8 @@
       "itch.io"
     ],
     "steam_id": 1794680,
-    "user_score": 0.9863095650967608,
-    "total_reviews": 115336,
+    "user_score": 0.9863096837961799,
+    "total_reviews": 115337,
     "price": "CDN$ 5.99",
     "header_image": "https://media.rawg.io/media/games/501/501e7019925a3c692bf1c8062f07abe6.jpg",
     "metacritic": null,
@@ -5422,7 +5422,7 @@
     "steam_id": 72850,
     "user_score": 0.9252837326607818,
     "total_reviews": 101504,
-    "price": "CDN$ 21.99",
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
     "metacritic": 94,
     "release_date": "2011-11-11"
@@ -5511,7 +5511,7 @@
     "steam_id": 211600,
     "user_score": 0.9293429342934293,
     "total_reviews": 2222,
-    "price": "CDN$ 8.99",
+    "price": "$6.99",
     "header_image": "https://media.rawg.io/media/games/934/934db575e66d63f2a6e86a2c688c141b.jpeg",
     "metacritic": 92,
     "release_date": "1999-10-29"
@@ -5532,9 +5532,9 @@
       "Steam"
     ],
     "steam_id": 2231450,
-    "user_score": 0.9855650193126672,
-    "total_reviews": 40388,
-    "price": "CDN$ 21.99",
+    "user_score": 0.9855653767114808,
+    "total_reviews": 40389,
+    "price": "$19.99",
     "header_image": "https://media.rawg.io/media/games/2d0/2d02bcfc07f4b5ed8623599ff999ee91.jpg",
     "metacritic": null,
     "release_date": "2023-01-26"
@@ -5587,7 +5587,7 @@
     "steam_id": 646570,
     "user_score": 0.9784226922446303,
     "total_reviews": 60990,
-    "price": "CDN$ 31.99",
+    "price": "$24.99",
     "header_image": "https://media.rawg.io/media/games/f52/f5206d55f918edf8ee07803101106fa6.jpg",
     "metacritic": 86,
     "release_date": "2019-01-22"
@@ -5608,9 +5608,9 @@
       "Steam"
     ],
     "steam_id": 553850,
-    "user_score": 0.7963271029832684,
-    "total_reviews": 520570,
-    "price": "CDN$ 49.99",
+    "user_score": 0.79634218493077,
+    "total_reviews": 520584,
+    "price": "$39.99",
     "header_image": "https://media.rawg.io/media/screenshots/d58/d58b2e611e69b02757ffc4fccda8ee74.jpg",
     "metacritic": null,
     "release_date": "2024-02-08"
@@ -5634,7 +5634,7 @@
     "steam_id": 1142710,
     "user_score": 0.7232734670662613,
     "total_reviews": 45713,
-    "price": "CDN$ 79.99",
+    "price": "$59.99",
     "header_image": "https://media.rawg.io/media/games/0fc/0fcb485572f6074c611521984a033a5c.jpg",
     "metacritic": 85,
     "release_date": "2022-02-17"
@@ -5681,7 +5681,7 @@
     "steam_id": 2379780,
     "user_score": 0.9801461193198572,
     "total_reviews": 30523,
-    "price": "CDN$ 18.99",
+    "price": "$14.99",
     "header_image": "https://media.rawg.io/media/games/821/821a40bd0cc0ac7dfb3fe97a7878dc1f.jpg",
     "metacritic": null,
     "release_date": "2024-02-20"
