@@ -13,10 +13,15 @@ from .utils import (
     numeral_to_number,
 )
 from .scrapers import BaseScraper, get_all_scrapers
-
+from .config import ConfigHandler
 
 class GameScraper:
     def __init__(self):
+        self.config = ConfigHandler()
+        self.rawg_api_key = self.config.get_api_key('RAWG')
+        if not self.rawg_api_key:
+            raise ValueError("RAWG API key not found in environment variables or config file")
+
         self.headers: Dict[str, str] = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         }
@@ -84,6 +89,57 @@ class GameScraper:
 
         normalized_title = ' '.join(words)
         return normalized_title
+
+    def get_rawg_info(self, game_title: str) -> Optional[Dict[str, Any]]:
+        """Get game information from RAWG API"""
+        cache_file = self.cache_dir / f"{game_title.lower().replace(' ', '_')}_rawg.json"
+
+        if cache_file.exists():
+            with open(cache_file, 'r', encoding='utf-8') as f:
+                return json.load(f)
+
+        try:
+            url = "https://api.rawg.io/api/games"
+            params = {
+                "key": self.rawg_api_key,
+                "search": game_title,
+                "page_size": 1
+            }
+
+            response = requests.get(url, params=params)
+            if response.status_code != 200:
+                return None
+
+            data = response.json()
+            if not data['results']:
+                return None
+
+            game = data['results'][0]
+
+            # Extract platforms and stores
+            platforms = [platform['platform']['name'] for platform in game['platforms']]
+            stores = [store['store']['name'] for store in game.get('stores', [])]
+
+            rawg_info = {
+                'name': game['name'],
+                'background_image': game['background_image'],
+                'platforms': platforms,
+                'stores': stores,
+                'rating': game.get('rating'),
+                'metacritic': game.get('metacritic'),
+                'released': game.get('released')
+            }
+
+            # Cache the results
+            with open(cache_file, 'w', encoding='utf-8') as f:
+                json.dump(rawg_info, f)
+
+            time.sleep(1)  # Rate limiting
+            return rawg_info
+
+        except Exception as e:
+            print(f"Error getting RAWG info for {game_title}: {e}")
+            return None
 
     def get_steam_games_list(self) -> Dict[str, int]:
         """Get complete list of Steam games"""
@@ -234,8 +290,10 @@ class GameScraper:
                     'windows': platforms.get('windows', False),
                     'macos': platforms.get('mac', False),
                     'linux': platforms.get('linux', False),
-                    'steamdeck': proton_tier
+                    'steamdeck': proton_tier,
+                    'switch': False  # Default value for Switch
                 },
+                'stores': ['Steam'],  # Initialize with Steam store
                 'user_score': user_score,
                 'total_reviews': total_reviews,
                 'price': app_data['data'].get('price_overview', {}).get('final_formatted', 'N/A'),
@@ -259,9 +317,12 @@ class GameScraper:
         for game in all_games:
             normalized_title = self.normalize_title(game['title'])
             title_key = normalized_title.lower()
+
             if title_key not in unique_games:
                 # Get Steam and platform info
                 steam_info = self.get_steam_info(normalized_title)
+                # Get RAWG info
+                rawg_info = self.get_rawg_info(normalized_title)
 
                 game_data = {
                     'title': normalized_title,
@@ -270,24 +331,46 @@ class GameScraper:
                         'windows': True,
                         'macos': False,
                         'linux': False,
-                        'steamdeck': 'unknown'
+                        'steamdeck': 'unknown',
+                        'switch': False
                     },
+                    'stores': [],
                     'steam_id': None,
                     'user_score': None,
                     'total_reviews': 0,
                     'price': 'N/A',
-                    'header_image': ''
+                    'header_image': '',
+                    'metacritic': None,
+                    'release_date': None
                 }
 
                 if steam_info:
                     game_data.update({
-                        'platforms': steam_info['platforms'],
-                        'steam_id': steam_info['app_id'],
-                        'user_score': steam_info['user_score'],
-                        'total_reviews': steam_info['total_reviews'],
-                        'price': steam_info['price'],
-                        'header_image': steam_info['header_image']
+                        'platforms': steam_info.get('platforms', game_data['platforms']),
+                        'steam_id': steam_info.get('app_id'),
+                        'user_score': steam_info.get('user_score'),
+                        'total_reviews': steam_info.get('total_reviews', 0),
+                        'price': steam_info.get('price', 'N/A'),
                     })
+                    # Add Steam to stores if it's not already there
+                    if 'Steam' not in game_data['stores']:
+                        game_data['stores'].append('Steam')
+
+                if rawg_info:
+                    # Update platforms with Switch availability
+                    if 'Nintendo Switch' in rawg_info.get('platforms', []):
+                        game_data['platforms']['switch'] = True
+                    # Update stores
+                    game_data['stores'].extend([
+                        store for store in rawg_info.get('stores', [])
+                        if store not in game_data['stores']
+                    ])
+                    # Use RAWG image if we don't have one from Steam
+                    if not game_data['header_image'] and rawg_info.get('background_image'):
+                        game_data['header_image'] = rawg_info['background_image']
+                    # Add additional RAWG data
+                    game_data['metacritic'] = rawg_info.get('metacritic')
+                    game_data['release_date'] = rawg_info.get('released')
 
                 unique_games[title_key] = game_data
 

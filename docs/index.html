@@ -52,6 +52,8 @@
                         <option value="ign">IGN Ranking</option>
                         <option value="pcgamer">PCGamer Ranking</option>
                         <option value="score">User Score</option>
+                        <option value="metacritic">Metacritic Score</option>
+                        <option value="release">Release Date</option>
                         <option value="points">Most Points</option>
                     </select>
                 </div>
@@ -60,22 +62,59 @@
                     <div class="filter-title">Filter by Platform:</div>
                     <div class="filter-options">
                         <label class="filter-option">
-                            <input type="checkbox" data-platform="steamdeck" />
-                            Steam Deck
-                        </label>
-                        <label class="filter-option">
-                            <input type="checkbox" data-platform="linux" />
-                            Linux
+                            <input type="checkbox" data-platform="windows" />
+                            Windows
                         </label>
                         <label class="filter-option">
                             <input type="checkbox" data-platform="macos" />
                             macOS
                         </label>
                         <label class="filter-option">
-                            <input type="checkbox" data-platform="windows" />
-                            Windows
+                            <input type="checkbox" data-platform="linux" />
+                            Linux
+                        </label>
+                        <label class="filter-option">
+                            <input type="checkbox" data-platform="switch" />
+                            Switch
+                        </label>
+                        <label class="filter-option">
+                            <input type="checkbox" data-platform="steamdeck" />
+                            Steam Deck (Verified/Gold)
                         </label>
                     </div>
+                </div>
+
+                <div class="filter-group">
+                    <div class="filter-title">Filter by Store:</div>
+                    <div class="filter-options">
+                        <label class="filter-option">
+                            <input type="checkbox" data-store="steam" />
+                            Steam
+                        </label>
+                        <label class="filter-option">
+                            <input type="checkbox" data-store="nintendo" />
+                            Nintendo Store
+                        </label>
+                        <label class="filter-option">
+                            <input type="checkbox" data-store="gog" />
+                            GOG
+                        </label>
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <div class="filter-title">
+                        Minimum Metacritic Score:
+                        <span id="metacritic-value">0</span>
+                    </div>
+                    <input
+                        type="range"
+                        id="metacritic-filter"
+                        min="0"
+                        max="100"
+                        value="0"
+                        class="metacritic-slider"
+                    />
                 </div>
             </div>
 
@@ -110,14 +149,24 @@
                     <span class="platform-tag" data-platform="linux"
                         >Linux</span
                     >
+                    <span class="platform-tag" data-platform="switch"
+                        >Switch</span
+                    >
                     <span class="platform-tag steamdeck">
                         <span class="medal"></span>
                     </span>
                 </div>
 
+                <div class="store-list">
+                    Available on:
+                    <div class="store-tags"></div>
+                </div>
+
                 <div class="game-meta">
                     <div class="meta-info">
                         <div class="user-score"></div>
+                        <div class="metacritic"></div>
+                        <div class="release-date"></div>
                         <div class="price"></div>
                     </div>
                 </div>

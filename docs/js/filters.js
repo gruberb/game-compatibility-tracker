@@ -2,7 +2,9 @@ class GameFilters {
   constructor(updateCallback) {
     this.filters = {
       platforms: [],
+      stores: [],
       search: "",
+      minMetacritic: 0,
     };
     this.sortBy = "title";
     this.updateCallback = updateCallback;
@@ -36,6 +38,30 @@ class GameFilters {
         this.updateCallback();
       });
     });
+
+    // Store filters
+    document.querySelectorAll("[data-store]").forEach((checkbox) => {
+      checkbox.addEventListener("change", (e) => {
+        const store = e.target.dataset.store;
+        if (e.target.checked) {
+          this.filters.stores.push(store);
+        } else {
+          this.filters.stores = this.filters.stores.filter((s) => s !== store);
+        }
+        this.updateCallback();
+      });
+    });
+
+    // Metacritic filter
+    const metacriticSlider = document.getElementById("metacritic-filter");
+    if (metacriticSlider) {
+      metacriticSlider.addEventListener("input", (e) => {
+        this.filters.minMetacritic = parseInt(e.target.value);
+        document.getElementById("metacritic-value").textContent =
+          this.filters.minMetacritic;
+        this.updateCallback();
+      });
+    }
   }
 
   calculatePoints(game) {
@@ -43,6 +69,7 @@ class GameFilters {
     if (game.rankings.RPS) points += 101 - game.rankings.RPS;
     if (game.rankings.IGN) points += 101 - game.rankings.IGN;
     if (game.rankings.PCGamer) points += 101 - game.rankings.PCGamer;
+    if (game.metacritic) points += game.metacritic;
     return points;
   }
 
@@ -59,12 +86,26 @@ class GameFilters {
           return game.platforms[platform];
         });
 
+      // Store filters
+      const storeMatch =
+        this.filters.stores.length === 0 ||
+        this.filters.stores.every((store) =>
+          game.stores.some((gameStore) =>
+            gameStore.toLowerCase().includes(store.toLowerCase()),
+          ),
+        );
+
+      // Metacritic filter
+      const metacriticMatch =
+        !this.filters.minMetacritic ||
+        (game.metacritic && game.metacritic >= this.filters.minMetacritic);
+
       // Search filter
       const searchMatch =
         this.filters.search === "" ||
         game.title.toLowerCase().includes(this.filters.search.toLowerCase());
 
-      return platformMatch && searchMatch;
+      return platformMatch && searchMatch && storeMatch && metacriticMatch;
     });
   }
 
@@ -81,6 +122,10 @@ class GameFilters {
           return (a.rankings.PCGamer || 999) - (b.rankings.PCGamer || 999);
         case "score":
           return (b.user_score || 0) - (a.user_score || 0);
+        case "metacritic":
+          return (b.metacritic || 0) - (a.metacritic || 0);
+        case "release":
+          return new Date(b.release_date || 0) - new Date(a.release_date || 0);
         case "points":
           return this.calculatePoints(b) - this.calculatePoints(a);
         default:

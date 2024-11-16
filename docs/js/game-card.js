@@ -16,7 +16,7 @@ class GameCard {
     const card = this.template.content.cloneNode(true);
     const container = card.querySelector(".game-card");
 
-    // Image section - always show container with same dimensions
+    // Image section
     const img = card.querySelector(".game-image");
     if (this.data.header_image) {
       img.src = this.data.header_image;
@@ -43,36 +43,25 @@ class GameCard {
     this.setPlatformTag(card, "windows");
     this.setPlatformTag(card, "macos");
     this.setPlatformTag(card, "linux");
+    this.setPlatformTag(card, "switch");
     this.setSteamDeckTag(card);
 
-    // Meta information with links
-    const priceElement = card.querySelector(".price");
-    const userScoreElement = card.querySelector(".user-score");
+    // Stores
+    this.setStores(card);
 
-    if (this.data.steam_id) {
-      // Make price a Steam link
-      const priceLink = document.createElement("a");
-      priceLink.href = `https://store.steampowered.com/app/${this.data.steam_id}`;
-      priceLink.target = "_blank";
-      priceLink.className = "steam-link";
-      priceLink.textContent = this.data.price || "View on Steam";
-      priceElement.appendChild(priceLink);
-    } else {
-      priceElement.textContent = this.data.price || "N/A";
-    }
-
-    if (this.data.user_score) {
-      userScoreElement.textContent = `${(this.data.user_score * 100).toFixed(0)}% positive`;
-    }
+    // Meta information
+    this.setMetaInformation(card);
 
     return container;
   }
 
   setPlatformTag(card, platform) {
     const tag = card.querySelector(`[data-platform="${platform}"]`);
-    tag.classList.add(
-      this.data.platforms[platform] ? "available" : "unavailable",
-    );
+    if (tag) {
+      tag.classList.add(
+        this.data.platforms[platform] ? "available" : "unavailable",
+      );
+    }
   }
 
   setSteamDeckTag(card) {
@@ -80,7 +69,6 @@ class GameCard {
     const compat = this.getSteamDeckCompat();
     const medal = card.querySelector(".medal");
 
-    // If we have a Steam ID and it's not unknown, make it a link to ProtonDB
     if (this.data.steam_id && this.data.platforms.steamdeck !== "unknown") {
       const protonLink = document.createElement("a");
       protonLink.href = `https://www.protondb.com/app/${this.data.steam_id}`;
@@ -101,6 +89,52 @@ class GameCard {
                 </svg>
                 Steam Deck: ${compat.text}
             `;
+    }
+  }
+
+  setStores(card) {
+    const storeList = card.querySelector(".store-tags");
+    if (storeList && this.data.stores && this.data.stores.length > 0) {
+      this.data.stores.forEach((store) => {
+        const storeTag = document.createElement("span");
+        storeTag.className = "store-tag";
+        storeTag.textContent = store;
+        storeList.appendChild(storeTag);
+      });
+    }
+  }
+
+  setMetaInformation(card) {
+    // Price
+    const priceElement = card.querySelector(".price");
+    if (this.data.steam_id) {
+      const priceLink = document.createElement("a");
+      priceLink.href = `https://store.steampowered.com/app/${this.data.steam_id}`;
+      priceLink.target = "_blank";
+      priceLink.className = "steam-link";
+      priceLink.textContent = this.data.price || "View on Steam";
+      priceElement.appendChild(priceLink);
+    } else {
+      priceElement.textContent = this.data.price || "N/A";
+    }
+
+    // User Score
+    const userScoreElement = card.querySelector(".user-score");
+    if (this.data.user_score) {
+      userScoreElement.textContent = `${(this.data.user_score * 100).toFixed(0)}% positive`;
+    }
+
+    // Metacritic Score
+    const metacriticElement = card.querySelector(".metacritic");
+    if (metacriticElement && this.data.metacritic) {
+      metacriticElement.textContent = `Metacritic: ${this.data.metacritic}`;
+    }
+
+    // Release Date
+    const releaseDateElement = card.querySelector(".release-date");
+    if (releaseDateElement && this.data.release_date) {
+      const date = new Date(this.data.release_date);
+      releaseDateElement.textContent = date.toLocaleDateString();
     }
   }
 }
