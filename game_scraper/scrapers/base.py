@@ -7,3 +7,6 @@ class BaseScraper(ABC):
     @abstractmethod
     def scrape(self, headers: Dict[str, str]) -> List[Dict[str, Any]]:
         pass
+
+# Export the class
+__all__ = ['BaseScraper']

@@ -1,0 +1,59 @@
+{
+    "scrapers": [
+        {
+            "name": "IGN",
+            "url": "https://www.ign.com/articles/the-best-100-video-games-of-all-time",
+            "parser_config": {
+                "container": {
+                    "tag": "h2",
+                    "attributes": {
+                        "class": "title2",
+                        "data-cy": "title2"
+                    }
+                },
+                "title": {
+                    "tag": "strong",
+                    "pattern": "(\\d+)\\. (.+)",
+                    "rank_group": 1,
+                    "title_group": 2
+                }
+            }
+        },
+        {
+            "name": "RockPaperShotgun",
+            "url": "https://www.rockpapershotgun.com/the-rps-100-2024",
+            "parser_config": {
+                "container": {
+                    "tag": "span",
+                    "attributes": {
+                        "class": "top-video-game-pill"
+                    }
+                },
+                "title": {
+                    "tag": "span",
+                    "attributes": {
+                        "class": "top-video-game-name"
+                    },
+                    "find_next": true
+                },
+                "rank_from_container": true
+            }
+        },
+        {
+            "name": "PCGamer",
+            "url": "https://www.pcgamer.com/games/the-top-100-pc-games-2024/",
+            "parser_config": {
+                "container": {
+                    "tag": "h2",
+                    "id_pattern": "\\d+-.*"
+                },
+                "title": {
+                    "pattern": "(\\d+)\\. (.+)",
+                    "rank_group": 1,
+                    "title_group": 2,
+                    "from_container": true
+                }
+            }
+        }
+    ]
+}

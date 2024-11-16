@@ -20,8 +20,8 @@
       "Google Play"
     ],
     "steam_id": 49520,
-    "user_score": 0.959880525902598,
-    "total_reviews": 110819,
+    "user_score": 0.9598743988378283,
+    "total_reviews": 110827,
     "price": "CDN$ 21.99",
     "header_image": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
     "metacritic": 89,
@@ -45,8 +45,8 @@
       "GOG"
     ],
     "steam_id": 435150,
-    "user_score": 0.9547413510787409,
-    "total_reviews": 76339,
+    "user_score": 0.954745500746601,
+    "total_reviews": 76346,
     "price": "CDN$ 54.99",
     "header_image": "https://media.rawg.io/media/games/424/424facd40f4eb1f2794fe4b4bb28a277.jpg",
     "metacritic": 95,
@@ -70,8 +70,8 @@
       "Epic Games"
     ],
     "steam_id": 39140,
-    "user_score": 0.9168102557033565,
-    "total_reviews": 14509,
+    "user_score": 0.916821721452691,
+    "total_reviews": 14511,
     "price": "CDN$ 16.99",
     "header_image": "https://media.rawg.io/media/games/d89/d89bd0cf4fcdc10820892980cbba0f49.jpg",
     "metacritic": 87,
@@ -97,8 +97,8 @@
       "Xbox 360 Store"
     ],
     "steam_id": 242050,
-    "user_score": 0.8653547585778606,
-    "total_reviews": 25764,
+    "user_score": 0.8653704350525866,
+    "total_reviews": 25767,
     "price": "CDN$ 49.99",
     "header_image": "https://media.rawg.io/media/games/849/849414b978db37d4563ff9e4b0d3a787.jpg",
     "metacritic": 85,
@@ -154,7 +154,7 @@
     "title": "Fallout II",
     "rankings": {
       "IGN": 94,
-      "RPS": 77
+      "RockPaperShotgun": 77
     },
     "platforms": {
       "windows": true,
@@ -301,7 +301,7 @@
       "windows": true,
       "macos": false,
       "linux": false,
-      "steamdeck": "unknown",
+      "steamdeck": "platinum",
       "switch": true
     },
     "stores": [
@@ -313,10 +313,10 @@
       "Nintendo Store",
       "Epic Games"
     ],
-    "steam_id": 2596760,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
+    "steam_id": 304430,
+    "user_score": 0.9612874951305025,
+    "total_reviews": 20536,
+    "price": "CDN$ 25.99",
     "header_image": "https://media.rawg.io/media/games/d5a/d5a24f9f71315427fa6e966fdd98dfa6.jpg",
     "metacritic": 87,
     "release_date": "2016-06-28"
@@ -325,8 +325,8 @@
     "title": "Titanfall 2",
     "rankings": {
       "IGN": 87,
-      "PCGamer": 68,
-      "RPS": 36
+      "RockPaperShotgun": 36,
+      "PCGamer": 68
     },
     "platforms": {
       "windows": true,
@@ -341,9 +341,9 @@
       "Xbox Store"
     ],
     "steam_id": 1237970,
-    "user_score": 0.9529463890119628,
-    "total_reviews": 78995,
-    "price": "$29.99 USD",
+    "user_score": 0.952930008859638,
+    "total_reviews": 79010,
+    "price": "CDN$ 39.99",
     "header_image": "https://media.rawg.io/media/games/569/56978b5a77f13aa2ec5d09ec81d01cad.jpg",
     "metacritic": 87,
     "release_date": "2016-10-28"
@@ -388,8 +388,8 @@
       "Xbox Store"
     ],
     "steam_id": 582010,
-    "user_score": 0.9209335395908799,
-    "total_reviews": 104077,
+    "user_score": 0.9209267477378825,
+    "total_reviews": 104106,
     "price": "CDN$ 13.19",
     "header_image": "https://media.rawg.io/media/games/21c/21cc15d233117c6809ec86870559e105.jpg",
     "metacritic": 89,
@@ -413,8 +413,8 @@
       "Xbox Store"
     ],
     "steam_id": 304240,
-    "user_score": 0.9078932801948412,
-    "total_reviews": 9033,
+    "user_score": 0.9079136690647482,
+    "total_reviews": 9035,
     "price": "CDN$ 19.99",
     "header_image": "https://media.rawg.io/media/games/053/053fc543bf488349610f1ae2d0c1b51b.jpg",
     "metacritic": 91,
@@ -437,8 +437,8 @@
       "GOG"
     ],
     "steam_id": 238210,
-    "user_score": 0.9507592190889371,
-    "total_reviews": 4610,
+    "user_score": 0.9507912421417732,
+    "total_reviews": 4613,
     "price": "CDN$ 10.99",
     "header_image": "https://media.rawg.io/media/games/65f/65f661f1487395055ba05e0a95fc0330.jpg",
     "metacritic": 92,
@@ -463,8 +463,8 @@
       "Nintendo Store"
     ],
     "steam_id": 976310,
-    "user_score": 0.8686807999313364,
-    "total_reviews": 23302,
+    "user_score": 0.8686977043552886,
+    "total_reviews": 23305,
     "price": "CDN$ 69.99",
     "header_image": "https://media.rawg.io/media/games/eb5/eb514db62d397c64288160d5bd8fd67a.jpg",
     "metacritic": 82,
@@ -474,8 +474,8 @@
     "title": "Persona V Royal",
     "rankings": {
       "IGN": 81,
-      "PCGamer": 5,
-      "RPS": 27
+      "RockPaperShotgun": 27,
+      "PCGamer": 5
     },
     "platforms": {
       "windows": true,
@@ -490,8 +490,8 @@
       "Nintendo Store"
     ],
     "steam_id": 1687950,
-    "user_score": 0.9699144232483509,
-    "total_reviews": 22436,
+    "user_score": 0.9699331848552338,
+    "total_reviews": 22450,
     "price": "CDN$ 79.99",
     "header_image": "https://media.rawg.io/media/games/a9c/a9c789951de65da545d51f664b4f2ce0.jpg",
     "metacritic": 94,
@@ -501,7 +501,7 @@
     "title": "DARK SOULS™: REMASTERED",
     "rankings": {
       "IGN": 80,
-      "RPS": 6
+      "RockPaperShotgun": 6
     },
     "platforms": {
       "windows": true,
@@ -517,9 +517,9 @@
       "Nintendo Store"
     ],
     "steam_id": 570940,
-    "user_score": 0.909738529326403,
-    "total_reviews": 37901,
-    "price": "₩ 43,800",
+    "user_score": 0.9096784404758764,
+    "total_reviews": 37909,
+    "price": "HK$ 259.00",
     "header_image": "https://media.rawg.io/media/games/29c/29c6c21cc0c78cff6f45d23631cc82f4.jpg",
     "metacritic": 84,
     "release_date": "2018-05-23"
@@ -624,7 +624,7 @@
     "title": "Spelunky II",
     "rankings": {
       "IGN": 75,
-      "RPS": 22
+      "RockPaperShotgun": 22
     },
     "platforms": {
       "windows": true,
@@ -638,8 +638,8 @@
       "PlayStation Store"
     ],
     "steam_id": 418530,
-    "user_score": 0.9353059956508233,
-    "total_reviews": 12876,
+    "user_score": 0.9353009708737864,
+    "total_reviews": 12875,
     "price": "CDN$ 22.79",
     "header_image": "https://media.rawg.io/media/games/686/68625f8bef120a2a6074c394baf27f77.jpg",
     "metacritic": 90,
@@ -667,8 +667,8 @@
       "itch.io"
     ],
     "steam_id": 653530,
-    "user_score": 0.9656327460306826,
-    "total_reviews": 14927,
+    "user_score": 0.9656373501239199,
+    "total_reviews": 14929,
     "price": "CDN$ 25.99",
     "header_image": "https://media.rawg.io/media/games/052/052f9afc7aaeea3e2c5d46eafa92c64e.jpg",
     "metacritic": 88,
@@ -678,7 +678,7 @@
     "title": "Dota II",
     "rankings": {
       "IGN": 73,
-      "RPS": 24
+      "RockPaperShotgun": 24
     },
     "platforms": {
       "windows": true,
@@ -762,8 +762,8 @@
       "Xbox 360 Store"
     ],
     "steam_id": 47890,
-    "user_score": 0.8746642793196061,
-    "total_reviews": 18989,
+    "user_score": 0.8746708794102159,
+    "total_reviews": 18990,
     "price": "CDN$ 26.99",
     "header_image": "https://media.rawg.io/media/games/369/36914d895c20e35f273286145c267764.jpg",
     "metacritic": 86,
@@ -835,8 +835,8 @@
       "PlayStation Store"
     ],
     "steam_id": 2124490,
-    "user_score": 0.9565714285714285,
-    "total_reviews": 11375,
+    "user_score": 0.9564797753794858,
+    "total_reviews": 11397,
     "price": "CDN$ 93.49",
     "header_image": "https://media.rawg.io/media/games/09b/09b41c1a2c5761c5b1772a4ae238bb0e.jpg",
     "metacritic": null,
@@ -864,8 +864,8 @@
       "Epic Games"
     ],
     "steam_id": 1547000,
-    "user_score": 0.7258225324027916,
-    "total_reviews": 2006,
+    "user_score": 0.7257341961174714,
+    "total_reviews": 2009,
     "price": "CDN$ 79.99",
     "header_image": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg",
     "metacritic": 93,
@@ -893,9 +893,9 @@
       "Epic Games"
     ],
     "steam_id": 268500,
-    "user_score": 0.8545545047287207,
-    "total_reviews": 40180,
-    "price": "$2.99 USD",
+    "user_score": 0.8545409305797462,
+    "total_reviews": 40190,
+    "price": "CDN$ 3.99",
     "header_image": "https://media.rawg.io/media/games/9bf/9bfac18ff678f41a4674250fa0e04a52.jpg",
     "metacritic": 88,
     "release_date": "2016-02-04"
@@ -920,8 +920,8 @@
       "Epic Games"
     ],
     "steam_id": 870780,
-    "user_score": 0.8981491055733637,
-    "total_reviews": 19342,
+    "user_score": 0.8981447987184125,
+    "total_reviews": 19351,
     "price": "CDN$ 54.99",
     "header_image": "https://media.rawg.io/media/games/a74/a7462cb98ad1ed06f646afd0a5a1454d.jpg",
     "metacritic": 82,
@@ -948,8 +948,8 @@
       "Xbox 360 Store"
     ],
     "steam_id": 7940,
-    "user_score": 0.9199713085357106,
-    "total_reviews": 9759,
+    "user_score": 0.9199877061776457,
+    "total_reviews": 9761,
     "price": "CDN$ 26.79",
     "header_image": "https://media.rawg.io/media/games/9fb/9fbaea2168caea1f806546dfdaaeb1da.jpg",
     "metacritic": 92,
@@ -975,8 +975,8 @@
       "Epic Games"
     ],
     "steam_id": 391220,
-    "user_score": 0.9232319391634981,
-    "total_reviews": 26300,
+    "user_score": 0.923278713454739,
+    "total_reviews": 26303,
     "price": "CDN$ 38.99",
     "header_image": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg",
     "metacritic": 86,
@@ -1012,8 +1012,8 @@
     "title": "Dishonored II",
     "rankings": {
       "IGN": 60,
-      "PCGamer": 76,
-      "RPS": 38
+      "RockPaperShotgun": 38,
+      "PCGamer": 76
     },
     "platforms": {
       "windows": true,
@@ -1029,8 +1029,8 @@
       "GOG"
     ],
     "steam_id": 403640,
-    "user_score": 0.8795426242499716,
-    "total_reviews": 17666,
+    "user_score": 0.8795494424633498,
+    "total_reviews": 17667,
     "price": "CDN$ 39.99",
     "header_image": "https://media.rawg.io/media/games/f6b/f6bed028b02369d4cab548f4f9337e81.jpg",
     "metacritic": 86,
@@ -1084,8 +1084,8 @@
       "Epic Games"
     ],
     "steam_id": 638230,
-    "user_score": 0.9262154432793136,
-    "total_reviews": 10490,
+    "user_score": 0.9262084088092287,
+    "total_reviews": 10489,
     "price": "CDN$ 19.99",
     "header_image": "https://media.rawg.io/media/games/baf/baf9905270314e07e6850cffdb51df41.jpg",
     "metacritic": 92,
@@ -1118,7 +1118,7 @@
     "title": "Overwatch",
     "rankings": {
       "IGN": 56,
-      "RPS": 50
+      "RockPaperShotgun": 50
     },
     "platforms": {
       "windows": true,
@@ -1144,7 +1144,7 @@
     "title": "Apex Legends",
     "rankings": {
       "IGN": 55,
-      "RPS": 13
+      "RockPaperShotgun": 13
     },
     "platforms": {
       "windows": true,
@@ -1171,8 +1171,8 @@
     "title": "Hollow Knight",
     "rankings": {
       "IGN": 54,
-      "PCGamer": 22,
-      "RPS": 32
+      "RockPaperShotgun": 32,
+      "PCGamer": 22
     },
     "platforms": {
       "windows": true,
@@ -1189,8 +1189,8 @@
       "Nintendo Store"
     ],
     "steam_id": 367520,
-    "user_score": 0.9719340450057635,
-    "total_reviews": 119718,
+    "user_score": 0.971956138665954,
+    "total_reviews": 119741,
     "price": "CDN$ 19.49",
     "header_image": "https://media.rawg.io/media/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg",
     "metacritic": 88,
@@ -1244,8 +1244,8 @@
     "title": "Left IV Dead II",
     "rankings": {
       "IGN": 51,
-      "PCGamer": 93,
-      "RPS": 80
+      "RockPaperShotgun": 80,
+      "PCGamer": 93
     },
     "platforms": {
       "windows": true,
@@ -1259,9 +1259,9 @@
       "Xbox 360 Store"
     ],
     "steam_id": 550,
-    "user_score": 0.974932810637137,
-    "total_reviews": 197948,
-    "price": "NZ$ 2.95",
+    "user_score": 0.9749277879895772,
+    "total_reviews": 198028,
+    "price": "1,95€",
     "header_image": "https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg",
     "metacritic": 89,
     "release_date": "2009-11-17"
@@ -1376,8 +1376,8 @@
       "Google Play"
     ],
     "steam_id": 32370,
-    "user_score": 0.9113651910485684,
-    "total_reviews": 20466,
+    "user_score": 0.9113781816405295,
+    "total_reviews": 20469,
     "price": "CDN$ 12.99",
     "header_image": "https://media.rawg.io/media/games/6e0/6e0c19bb111bd4fa20cf0eb72a049519.jpg",
     "metacritic": 88,
@@ -1387,8 +1387,8 @@
     "title": "Fallout New Vegas",
     "rankings": {
       "IGN": 45,
-      "PCGamer": 33,
-      "RPS": 9
+      "RockPaperShotgun": 9,
+      "PCGamer": 33
     },
     "platforms": {
       "windows": true,
@@ -1432,7 +1432,7 @@
     "steam_id": 1173820,
     "user_score": 0.9297520661157025,
     "total_reviews": 2178,
-    "price": "HK$ 129.00",
+    "price": "CDN$ 23.99",
     "header_image": "https://media.rawg.io/media/games/98c/98c87b286cd2a2ba942167df384a9bd3.jpg",
     "metacritic": 92,
     "release_date": "1994-04-02"
@@ -1485,7 +1485,7 @@
     "title": "The Elder Scrolls V Skyrim",
     "rankings": {
       "IGN": 41,
-      "RPS": 100
+      "RockPaperShotgun": 100
     },
     "platforms": {
       "windows": true,
@@ -1501,8 +1501,8 @@
       "Xbox 360 Store"
     ],
     "steam_id": 72850,
-    "user_score": 0.925285940871073,
-    "total_reviews": 101507,
+    "user_score": 0.9252837326607818,
+    "total_reviews": 101504,
     "price": "CDN$ 21.99",
     "header_image": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
     "metacritic": 94,
@@ -1525,8 +1525,8 @@
       "PlayStation Store"
     ],
     "steam_id": 2050650,
-    "user_score": 0.9694259075204695,
-    "total_reviews": 42258,
+    "user_score": 0.9694145476049675,
+    "total_reviews": 42275,
     "price": "CDN$ 52.99",
     "header_image": "https://media.rawg.io/media/games/51a/51a404b9918a0b19fc704a3ca248c69f.jpg",
     "metacritic": null,
@@ -1597,8 +1597,8 @@
       "Xbox 360 Store"
     ],
     "steam_id": 2668510,
-    "user_score": 0.9255952380952381,
-    "total_reviews": 2352,
+    "user_score": 0.9261603375527426,
+    "total_reviews": 2370,
     "price": "CDN$ 69.99",
     "header_image": "https://media.rawg.io/media/games/686/686909717c3aa01518bc42ae2bf4259e.jpg",
     "metacritic": 95,
@@ -1678,8 +1678,8 @@
     "title": "Minecraft",
     "rankings": {
       "IGN": 33,
-      "PCGamer": 4,
-      "RPS": 1
+      "RockPaperShotgun": 1,
+      "PCGamer": 4
     },
     "platforms": {
       "windows": true,
@@ -1742,9 +1742,9 @@
       "Steam"
     ],
     "steam_id": 70,
-    "user_score": 0.9646260172575962,
-    "total_reviews": 48906,
-    "price": "CDN$ 1.14",
+    "user_score": 0.9646032167746419,
+    "total_reviews": 48931,
+    "price": "0,81€",
     "header_image": "https://media.rawg.io/media/games/6c5/6c55e22185876626881b76c11922b073.jpg",
     "metacritic": 96,
     "release_date": "1998-11-08"
@@ -1774,8 +1774,8 @@
     "title": "Doom",
     "rankings": {
       "IGN": 29,
-      "PCGamer": 10,
-      "RPS": 85
+      "RockPaperShotgun": 85,
+      "PCGamer": 10
     },
     "platforms": {
       "windows": true,
@@ -1791,8 +1791,8 @@
       "Nintendo Store"
     ],
     "steam_id": 379720,
-    "user_score": 0.955699080017116,
-    "total_reviews": 74784,
+    "user_score": 0.9557154126943802,
+    "total_reviews": 74789,
     "price": "CDN$ 24.99",
     "header_image": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg",
     "metacritic": 85,
@@ -1849,7 +1849,7 @@
     "title": "Half-Life Alyx",
     "rankings": {
       "IGN": 26,
-      "RPS": 67
+      "RockPaperShotgun": 67
     },
     "platforms": {
       "windows": true,
@@ -1862,8 +1862,8 @@
       "Steam"
     ],
     "steam_id": 546560,
-    "user_score": 0.9826060255761867,
-    "total_reviews": 55364,
+    "user_score": 0.9826113649085426,
+    "total_reviews": 55381,
     "price": "CDN$ 26.51",
     "header_image": "https://media.rawg.io/media/games/855/8552c056d729f34c951c30f3cfef9da8.jpg",
     "metacritic": 93,
@@ -1873,7 +1873,7 @@
     "title": "God of War",
     "rankings": {
       "IGN": 25,
-      "RPS": 33
+      "RockPaperShotgun": 33
     },
     "platforms": {
       "windows": true,
@@ -1887,8 +1887,8 @@
       "PlayStation Store"
     ],
     "steam_id": 1593500,
-    "user_score": 0.9679548168991275,
-    "total_reviews": 49399,
+    "user_score": 0.9679391167064729,
+    "total_reviews": 49406,
     "price": "CDN$ 64.99",
     "header_image": "https://media.rawg.io/media/games/1aa/1aa4ca34a8a6bb57a2e065c8332dc230.jpg",
     "metacritic": 94,
@@ -1898,7 +1898,7 @@
     "title": "Chrono Trigger",
     "rankings": {
       "IGN": 24,
-      "RPS": 37
+      "RockPaperShotgun": 37
     },
     "platforms": {
       "windows": true,
@@ -1915,8 +1915,8 @@
       "Google Play"
     ],
     "steam_id": 613830,
-    "user_score": 0.8787644787644787,
-    "total_reviews": 5180,
+    "user_score": 0.8788112697800077,
+    "total_reviews": 5182,
     "price": "CDN$ 19.99",
     "header_image": "https://media.rawg.io/media/games/ae4/ae404f4e0f504131199703c09111bb78.jpg",
     "metacritic": 82,
@@ -1940,8 +1940,8 @@
       "Google Play"
     ],
     "steam_id": 400,
-    "user_score": 0.9863469481413493,
-    "total_reviews": 69728,
+    "user_score": 0.9863646139508209,
+    "total_reviews": 69745,
     "price": "CDN$ 12.99",
     "header_image": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg",
     "metacritic": 90,
@@ -1999,7 +1999,7 @@
     "title": "Undertale",
     "rankings": {
       "IGN": 20,
-      "RPS": 93
+      "RockPaperShotgun": 93
     },
     "platforms": {
       "windows": true,
@@ -2016,8 +2016,8 @@
       "Nintendo Store"
     ],
     "steam_id": 391540,
-    "user_score": 0.9649814508487642,
-    "total_reviews": 124534,
+    "user_score": 0.9649718602728068,
+    "total_reviews": 124557,
     "price": "CDN$ 10.99",
     "header_image": "https://media.rawg.io/media/games/ffe/ffed87105b14f5beff72ff44a7793fd5.jpg",
     "metacritic": 92,
@@ -2050,7 +2050,7 @@
     "title": "BioShock Remastered",
     "rankings": {
       "IGN": 18,
-      "RPS": 87
+      "RockPaperShotgun": 87
     },
     "platforms": {
       "windows": true,
@@ -2079,7 +2079,7 @@
     "title": "The Last of Us Part I",
     "rankings": {
       "IGN": 17,
-      "RPS": 69
+      "RockPaperShotgun": 69
     },
     "platforms": {
       "windows": true,
@@ -2094,8 +2094,8 @@
       "Epic Games"
     ],
     "steam_id": 1888930,
-    "user_score": 0.7558545662754079,
-    "total_reviews": 17465,
+    "user_score": 0.755893797207599,
+    "total_reviews": 17476,
     "price": "CDN$ 79.99",
     "header_image": "https://media.rawg.io/media/games/71d/71df9e759b2246f9769126c98ac997fc.jpg",
     "metacritic": null,
@@ -2105,8 +2105,8 @@
     "title": "The Witcher 3 Wild Hunt",
     "rankings": {
       "IGN": 16,
-      "PCGamer": 6,
-      "RPS": 4
+      "RockPaperShotgun": 4,
+      "PCGamer": 6
     },
     "platforms": {
       "windows": true,
@@ -2123,9 +2123,9 @@
       "Nintendo Store"
     ],
     "steam_id": 292030,
-    "user_score": 0.9685487015885396,
-    "total_reviews": 212837,
-    "price": "₩ 34,800",
+    "user_score": 0.96854299968994,
+    "total_reviews": 212862,
+    "price": "Rp 359 999",
     "header_image": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg",
     "metacritic": 92,
     "release_date": "2015-05-18"
@@ -2199,8 +2199,8 @@
       "Epic Games"
     ],
     "steam_id": 1145360,
-    "user_score": 0.9859607979844396,
-    "total_reviews": 126218,
+    "user_score": 0.9859615765498119,
+    "total_reviews": 126225,
     "price": "CDN$ 32.50",
     "header_image": "https://media.rawg.io/media/games/1f4/1f47a270b8f241e4676b14d39ec620f7.jpg",
     "metacritic": 93,
@@ -2210,8 +2210,8 @@
     "title": "Grand Theft Auto V",
     "rankings": {
       "IGN": 12,
-      "PCGamer": 45,
-      "RPS": 72
+      "RockPaperShotgun": 72,
+      "PCGamer": 45
     },
     "platforms": {
       "windows": true,
@@ -2228,8 +2228,8 @@
       "Epic Games"
     ],
     "steam_id": 271590,
-    "user_score": 0.831998054626388,
-    "total_reviews": 538714,
+    "user_score": 0.8320208902094774,
+    "total_reviews": 538817,
     "price": "N/A",
     "header_image": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
     "metacritic": 92,
@@ -2262,8 +2262,8 @@
     "title": "Disco Elysium",
     "rankings": {
       "IGN": 10,
-      "PCGamer": 2,
-      "RPS": 16
+      "RockPaperShotgun": 16,
+      "PCGamer": 2
     },
     "platforms": {
       "windows": true,
@@ -2281,9 +2281,9 @@
       "Nintendo Store"
     ],
     "steam_id": 632470,
-    "user_score": 0.9309597390333935,
-    "total_reviews": 46596,
-    "price": "CDN$ 11.37",
+    "user_score": 0.9309116656296265,
+    "total_reviews": 46607,
+    "price": "9,99€",
     "header_image": "https://media.rawg.io/media/games/0af/0afe9e8ace196123d8c7cf22172cec63.jpg",
     "metacritic": 90,
     "release_date": "2021-03-30"
@@ -2292,8 +2292,8 @@
     "title": "Half-Life II",
     "rankings": {
       "IGN": 9,
-      "PCGamer": 7,
-      "RPS": 49
+      "RockPaperShotgun": 49,
+      "PCGamer": 7
     },
     "platforms": {
       "windows": true,
@@ -2307,8 +2307,8 @@
       "Google Play"
     ],
     "steam_id": 220,
-    "user_score": 0.9722988217598395,
-    "total_reviews": 71802,
+    "user_score": 0.9723453925103256,
+    "total_reviews": 72393,
     "price": "Free",
     "header_image": "https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg",
     "metacritic": 96,
@@ -2318,8 +2318,8 @@
     "title": "Red Dead Redemption II",
     "rankings": {
       "IGN": 8,
-      "PCGamer": 15,
-      "RPS": 79
+      "RockPaperShotgun": 79,
+      "PCGamer": 15
     },
     "platforms": {
       "windows": true,
@@ -2335,8 +2335,8 @@
       "Epic Games"
     ],
     "steam_id": 1174180,
-    "user_score": 0.9098592216902878,
-    "total_reviews": 210970,
+    "user_score": 0.9098679908645508,
+    "total_reviews": 211046,
     "price": "CDN$ 79.99",
     "header_image": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
     "metacritic": 96,
@@ -2441,7 +2441,7 @@
     "title": "Portal II",
     "rankings": {
       "IGN": 3,
-      "RPS": 74
+      "RockPaperShotgun": 74
     },
     "platforms": {
       "windows": true,
@@ -2457,9 +2457,9 @@
       "Xbox 360 Store"
     ],
     "steam_id": 620,
-    "user_score": 0.9884800254233922,
-    "total_reviews": 151042,
-    "price": "CDN$ 12.99",
+    "user_score": 0.9884808643323867,
+    "total_reviews": 151053,
+    "price": "9,75€",
     "header_image": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg",
     "metacritic": 95,
     "release_date": "2011-04-18"
@@ -2511,6 +2511,1866 @@
     "release_date": "2017-03-03"
   },
   {
+    "title": "The Stanley Parable",
+    "rankings": {
+      "RockPaperShotgun": 99
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "Epic Games"
+    ],
+    "steam_id": 221910,
+    "user_score": 0.9235878000360945,
+    "total_reviews": 27705,
+    "price": "CDN$ 19.49",
+    "header_image": "https://media.rawg.io/media/screenshots/8f0/8f0b94922ad5e59968852649697b2643.jpg",
+    "metacritic": 88,
+    "release_date": "2013-10-17"
+  },
+  {
+    "title": "Blood",
+    "rankings": {
+      "RockPaperShotgun": 98
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "GOG"
+    ],
+    "steam_id": 1116750,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": "https://media.rawg.io/media/screenshots/60b/60b74fccd30274db00ef51b97b41862c.jpg",
+    "metacritic": 82,
+    "release_date": "1997-03-07"
+  },
+  {
+    "title": "Stardew Valley",
+    "rankings": {
+      "RockPaperShotgun": 97,
+      "PCGamer": 9
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum",
+      "switch": true
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "App Store",
+      "GOG",
+      "Nintendo Store",
+      "Google Play"
+    ],
+    "steam_id": 413150,
+    "user_score": 0.988852989693279,
+    "total_reviews": 322508,
+    "price": "CDN$ 16.99",
+    "header_image": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg",
+    "metacritic": 89,
+    "release_date": "2016-02-25"
+  },
+  {
+    "title": "QWOP",
+    "rankings": {
+      "RockPaperShotgun": 96
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown",
+      "switch": false
+    },
+    "stores": [
+      "Google Play"
+    ],
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": "https://media.rawg.io/media/screenshots/3ed/3eda3818a95d308047b454a10105d9da.jpg",
+    "metacritic": null,
+    "release_date": null
+  },
+  {
+    "title": "Quake",
+    "rankings": {
+      "RockPaperShotgun": 95
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": true
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "Nintendo Store",
+      "Epic Games"
+    ],
+    "steam_id": 2310,
+    "user_score": 0.9650729060698542,
+    "total_reviews": 8847,
+    "price": "CDN$ 13.49",
+    "header_image": "https://media.rawg.io/media/games/3a8/3a82d7f5c90ab082fe475e28d58bee8b.jpg",
+    "metacritic": 94,
+    "release_date": "1996-06-22"
+  },
+  {
+    "title": "Prison Architect",
+    "rankings": {
+      "RockPaperShotgun": 94
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold",
+      "switch": true
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "GOG",
+      "Nintendo Store",
+      "Epic Games"
+    ],
+    "steam_id": 233450,
+    "user_score": 0.8919582565991406,
+    "total_reviews": 32580,
+    "price": "CDN$ 39.99",
+    "header_image": "https://media.rawg.io/media/games/6bc/6bc79f5bc023b1e6938f6eaf9926f073.jpg",
+    "metacritic": 83,
+    "release_date": "2015-10-05"
+  },
+  {
+    "title": "DOOM Eternal",
+    "rankings": {
+      "RockPaperShotgun": 92,
+      "PCGamer": 48
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": true
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "Nintendo Store"
+    ],
+    "steam_id": 782330,
+    "user_score": 0.9125060634914931,
+    "total_reviews": 111322,
+    "price": "CDN$ 53.49",
+    "header_image": "https://media.rawg.io/media/games/3ea/3ea3c9bbd940b6cb7f2139e42d3d443f.jpg",
+    "metacritic": 86,
+    "release_date": "2020-03-20"
+  },
+  {
+    "title": "Dead Cells",
+    "rankings": {
+      "RockPaperShotgun": 91,
+      "PCGamer": 91
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum",
+      "switch": true
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "App Store",
+      "GOG",
+      "Nintendo Store",
+      "itch.io",
+      "Epic Games"
+    ],
+    "steam_id": 588650,
+    "user_score": 0.9651509361864731,
+    "total_reviews": 39255,
+    "price": "CDN$ 29.99",
+    "header_image": "https://media.rawg.io/media/games/f90/f90ee1a4239247a822771c40488e68c5.jpg",
+    "metacritic": 88,
+    "release_date": "2018-08-07"
+  },
+  {
+    "title": "Against The Storm",
+    "rankings": {
+      "RockPaperShotgun": 90
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "GOG",
+      "Epic Games"
+    ],
+    "steam_id": 1336490,
+    "user_score": 0.9543493389004871,
+    "total_reviews": 14370,
+    "price": "CDN$ 19.99",
+    "header_image": "https://media.rawg.io/media/screenshots/c7d/c7df14c2f6efd2bb035aa89f7c7ca30a.jpg",
+    "metacritic": null,
+    "release_date": "2023-12-08"
+  },
+  {
+    "title": "Resident Evil II Remake",
+    "rankings": {
+      "RockPaperShotgun": 89
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown",
+      "switch": true
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store"
+    ],
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": "https://media.rawg.io/media/games/053/053fc543bf488349610f1ae2d0c1b51b.jpg",
+    "metacritic": 91,
+    "release_date": "2019-01-25"
+  },
+  {
+    "title": "Cities Skylines",
+    "rankings": {
+      "RockPaperShotgun": 88
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold",
+      "switch": true
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "Nintendo Store",
+      "Epic Games"
+    ],
+    "steam_id": 255710,
+    "user_score": 0.9314629301783324,
+    "total_reviews": 92636,
+    "price": "CDN$ 39.99",
+    "header_image": "https://media.rawg.io/media/games/25c/25c4776ab5723d5d735d8bf617ca12d9.jpg",
+    "metacritic": 85,
+    "release_date": "2015-03-10"
+  },
+  {
+    "title": "Hi-Fi Rush",
+    "rankings": {
+      "RockPaperShotgun": 86
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum",
+      "switch": false
+    },
+    "stores": [
+      "Steam"
+    ],
+    "steam_id": 1817230,
+    "user_score": 0.9794878581353801,
+    "total_reviews": 15113,
+    "price": "CDN$ 38.99",
+    "header_image": "https://media.rawg.io/media/games/62f/62f71917e64e913f2a893e7373319c60.jpg",
+    "metacritic": null,
+    "release_date": "2023-01-25"
+  },
+  {
+    "title": "Counter-Strike II",
+    "rankings": {
+      "RockPaperShotgun": 84,
+      "PCGamer": 35
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": true,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam"
+    ],
+    "steam_id": 730,
+    "user_score": 0.8662838813607955,
+    "total_reviews": 1265113,
+    "price": "N/A",
+    "header_image": "https://media.rawg.io/media/games/ec4/ec4b02bdb3eb5c6212992c19bc05697e.jpg",
+    "metacritic": null,
+    "release_date": "2023-09-27"
+  },
+  {
+    "title": "Total War Warhammer III",
+    "rankings": {
+      "RockPaperShotgun": 83
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "Epic Games"
+    ],
+    "steam_id": 1142710,
+    "user_score": 0.7232734670662613,
+    "total_reviews": 45713,
+    "price": "CDN$ 79.99",
+    "header_image": "https://media.rawg.io/media/games/0fc/0fcb485572f6074c611521984a033a5c.jpg",
+    "metacritic": 85,
+    "release_date": "2022-02-17"
+  },
+  {
+    "title": "Legacy of Kain Soul Reaver",
+    "rankings": {
+      "RockPaperShotgun": 82
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "GOG"
+    ],
+    "steam_id": 224940,
+    "user_score": 0.6335540838852097,
+    "total_reviews": 453,
+    "price": "CDN$ 8.99",
+    "header_image": "https://media.rawg.io/media/games/84d/84da5a0c948592becea7a022e151a8b0.jpg",
+    "metacritic": 91,
+    "release_date": "1999-08-16"
+  },
+  {
+    "title": "Tetris Effect",
+    "rankings": {
+      "RockPaperShotgun": 81
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown",
+      "switch": false
+    },
+    "stores": [
+      "PlayStation Store",
+      "Epic Games"
+    ],
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": "https://media.rawg.io/media/games/59d/59d568770eecc7b3f18fcedd314b68d3.jpg",
+    "metacritic": 90,
+    "release_date": "2018-11-09"
+  },
+  {
+    "title": "Plants vs. Zombies",
+    "rankings": {
+      "RockPaperShotgun": 78
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown",
+      "switch": false
+    },
+    "stores": [
+      "Xbox Store",
+      "App Store",
+      "Nintendo Store",
+      "Xbox 360 Store",
+      "Google Play"
+    ],
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": "https://media.rawg.io/media/screenshots/590/590aa45fbab8d43b57f93dd60027af7f.jpg",
+    "metacritic": 86,
+    "release_date": "2009-05-05"
+  },
+  {
+    "title": "Tekken VII",
+    "rankings": {
+      "RockPaperShotgun": 76
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store"
+    ],
+    "steam_id": 389730,
+    "user_score": 0.9094204125876495,
+    "total_reviews": 29521,
+    "price": "CDN$ 53.49",
+    "header_image": "https://media.rawg.io/media/games/62b/62b035add7205737540d66e082b85930.jpg",
+    "metacritic": 82,
+    "release_date": "2015-03-18"
+  },
+  {
+    "title": "Roadwarden",
+    "rankings": {
+      "RockPaperShotgun": 75
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "GOG"
+    ],
+    "steam_id": 1155970,
+    "user_score": 0.953464322647363,
+    "total_reviews": 2901,
+    "price": "CDN$ 12.49",
+    "header_image": "https://media.rawg.io/media/screenshots/216/216b292b866abcd42afde82f759c3ac3.jpg",
+    "metacritic": null,
+    "release_date": "2022-09-08"
+  },
+  {
+    "title": "Far Cry IV",
+    "rankings": {
+      "RockPaperShotgun": 73
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "Xbox 360 Store"
+    ],
+    "steam_id": 298110,
+    "user_score": 0.8079417340117729,
+    "total_reviews": 20046,
+    "price": "CDN$ 7.99",
+    "header_image": "https://media.rawg.io/media/games/b39/b396dac1f3e0f538841aa0355dd066d3.jpg",
+    "metacritic": 80,
+    "release_date": "2014-11-18"
+  },
+  {
+    "title": "What Remains of Edith Finch",
+    "rankings": {
+      "RockPaperShotgun": 71
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum",
+      "switch": true
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "App Store",
+      "GOG",
+      "Nintendo Store",
+      "Epic Games"
+    ],
+    "steam_id": 501300,
+    "user_score": 0.9415894411682112,
+    "total_reviews": 14244,
+    "price": "18,49€",
+    "header_image": "https://media.rawg.io/media/games/34e/34e100b1f648de99f32d477065f04653.jpg",
+    "metacritic": 89,
+    "release_date": "2017-04-23"
+  },
+  {
+    "title": "The Secret of Monkey Island: Special Edition",
+    "rankings": {
+      "RockPaperShotgun": 70
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "App Store",
+      "Xbox 360 Store"
+    ],
+    "steam_id": 32360,
+    "user_score": 0.9594594594594594,
+    "total_reviews": 2812,
+    "price": "CDN$ 12.99",
+    "header_image": "https://media.rawg.io/media/screenshots/656/65654f69256420c0126eb506c1a72d7f.jpg",
+    "metacritic": 86,
+    "release_date": "2009-07-15"
+  },
+  {
+    "title": "Sid Meier's Pirates! Live the Life",
+    "rankings": {
+      "RockPaperShotgun": 68
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "Xbox Store",
+      "App Store",
+      "GOG",
+      "Nintendo Store",
+      "Xbox 360 Store"
+    ],
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": "https://media.rawg.io/media/games/7ca/7ca90d463ea0c0252e7d01afe897ffa8.jpg",
+    "metacritic": 88,
+    "release_date": "2004-11-22"
+  },
+  {
+    "title": "Heaven's Vault",
+    "rankings": {
+      "RockPaperShotgun": 66
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "GOG"
+    ],
+    "steam_id": 774201,
+    "user_score": 0.8739436619718309,
+    "total_reviews": 1420,
+    "price": "CDN$ 28.99",
+    "header_image": "https://media.rawg.io/media/games/df6/df60abe956af265beb549507464df2f7.jpg",
+    "metacritic": 75,
+    "release_date": "2019-04-15"
+  },
+  {
+    "title": "Gears of War: E-Day",
+    "rankings": {
+      "RockPaperShotgun": 65
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown",
+      "switch": false
+    },
+    "stores": [
+      "Steam"
+    ],
+    "steam_id": 3010850,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": "https://media.rawg.io/media/screenshots/2dd/2ddacaf4a439076f390beaca74707bcb.jpg",
+    "metacritic": null,
+    "release_date": null
+  },
+  {
+    "title": "Forza Horizon IV",
+    "rankings": {
+      "RockPaperShotgun": 64
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "silver",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "Xbox Store"
+    ],
+    "steam_id": 1293830,
+    "user_score": 0.8882428803991628,
+    "total_reviews": 47299,
+    "price": "CDN$ 79.99",
+    "header_image": "https://media.rawg.io/media/games/786/7863e587bac630de82fca50d799236a9.jpg",
+    "metacritic": 90,
+    "release_date": "2018-10-02"
+  },
+  {
+    "title": "Stray",
+    "rankings": {
+      "RockPaperShotgun": 63
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "platinum",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "App Store"
+    ],
+    "steam_id": 1332010,
+    "user_score": 0.9743597248646275,
+    "total_reviews": 68330,
+    "price": "CDN$ 39.99",
+    "header_image": "https://media.rawg.io/media/games/cd3/cd3c9c7d3e95cb1608fd6250f1b90b7a.jpg",
+    "metacritic": 82,
+    "release_date": "2022-07-19"
+  },
+  {
+    "title": "Dragon Age II",
+    "rankings": {
+      "RockPaperShotgun": 62
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "Xbox 360 Store"
+    ],
+    "steam_id": 1238040,
+    "user_score": 0.8041758937045239,
+    "total_reviews": 3161,
+    "price": "CDN$ 39.99",
+    "header_image": "https://media.rawg.io/media/games/974/974d08635981db7677630327ce1fe4bb.jpg",
+    "metacritic": 81,
+    "release_date": "2011-03-08"
+  },
+  {
+    "title": "Deus Ex: Mankind Divided",
+    "rankings": {
+      "RockPaperShotgun": 61,
+      "PCGamer": 44
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "GOG"
+    ],
+    "steam_id": 337000,
+    "user_score": 0.7461210240496509,
+    "total_reviews": 15468,
+    "price": "CDN$ 38.99",
+    "header_image": "https://media.rawg.io/media/games/00d/00d374f12a3ab5f96c500a2cfa901e15.jpg",
+    "metacritic": 83,
+    "release_date": "2016-08-22"
+  },
+  {
+    "title": "Before Your Eyes",
+    "rankings": {
+      "RockPaperShotgun": 60
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "GOG",
+      "itch.io",
+      "Epic Games"
+    ],
+    "steam_id": 1082430,
+    "user_score": 0.9814491064491064,
+    "total_reviews": 10296,
+    "price": "CDN$ 12.99",
+    "header_image": "https://media.rawg.io/media/games/05a/05addb2c6604db3f6d667ec7f3b637ea.jpg",
+    "metacritic": null,
+    "release_date": "2021-04-07"
+  },
+  {
+    "title": "Terraria",
+    "rankings": {
+      "RockPaperShotgun": 59
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold",
+      "switch": true
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "App Store",
+      "GOG",
+      "Nintendo Store",
+      "Google Play"
+    ],
+    "steam_id": 105600,
+    "user_score": 0.9775417101147028,
+    "total_reviews": 537040,
+    "price": "$5.79 USD",
+    "header_image": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
+    "metacritic": 81,
+    "release_date": "2011-05-16"
+  },
+  {
+    "title": "SOMA",
+    "rankings": {
+      "RockPaperShotgun": 58
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "GOG",
+      "Epic Games"
+    ],
+    "steam_id": 282140,
+    "user_score": 0.9579518133919893,
+    "total_reviews": 19549,
+    "price": "CDN$ 38.99",
+    "header_image": "https://media.rawg.io/media/games/149/149bbed9d90dc09328ba79bbacfda3c8.jpg",
+    "metacritic": 84,
+    "release_date": "2015-09-21"
+  },
+  {
+    "title": "Satisfactory",
+    "rankings": {
+      "RockPaperShotgun": 57
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "Epic Games"
+    ],
+    "steam_id": 526870,
+    "user_score": 0.9730142877524816,
+    "total_reviews": 98126,
+    "price": "Rp 299 999",
+    "header_image": "https://media.rawg.io/media/games/9b0/9b03581c1ba7df63e221eb0828f8bb52.jpg",
+    "metacritic": null,
+    "release_date": "2024-09-11"
+  },
+  {
+    "title": "Destiny II",
+    "rankings": {
+      "RockPaperShotgun": 56,
+      "PCGamer": 85
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "borked",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "Epic Games"
+    ],
+    "steam_id": 1085660,
+    "user_score": 0.8169206214959008,
+    "total_reviews": 73307,
+    "price": "N/A",
+    "header_image": "https://media.rawg.io/media/games/34b/34b1f1850a1c06fd971bc6ab3ac0ce0e.jpg",
+    "metacritic": 82,
+    "release_date": "2017-09-06"
+  },
+  {
+    "title": "The Sims IV",
+    "rankings": {
+      "RockPaperShotgun": 55
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store"
+    ],
+    "steam_id": 1222670,
+    "user_score": 0.887769517589569,
+    "total_reviews": 43179,
+    "price": "N/A",
+    "header_image": "https://media.rawg.io/media/games/e44/e445335e611b4ccf03af71fffcbd30a4.jpg",
+    "metacritic": 67,
+    "release_date": "2014-09-02"
+  },
+  {
+    "title": "Metal Gear Solid V The Phantom Pain",
+    "rankings": {
+      "RockPaperShotgun": 54
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "Xbox 360 Store"
+    ],
+    "steam_id": 287700,
+    "user_score": 0.91624147376336,
+    "total_reviews": 37238,
+    "price": "CDN$ 29.99",
+    "header_image": "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg",
+    "metacritic": 91,
+    "release_date": "2015-09-01"
+  },
+  {
+    "title": "Stellaris",
+    "rankings": {
+      "RockPaperShotgun": 53,
+      "PCGamer": 36
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "GOG"
+    ],
+    "steam_id": 281990,
+    "user_score": 0.8839864653360562,
+    "total_reviews": 67087,
+    "price": "CDN$ 52.99",
+    "header_image": "https://media.rawg.io/media/games/92b/92bbf8a451e2742ab812a580546e593a.jpg",
+    "metacritic": 78,
+    "release_date": "2016-05-08"
+  },
+  {
+    "title": "OlliOlli World",
+    "rankings": {
+      "RockPaperShotgun": 52
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": true
+    },
+    "stores": [
+      "Steam",
+      "Nintendo Store"
+    ],
+    "steam_id": 1190170,
+    "user_score": 0.9357142857142857,
+    "total_reviews": 560,
+    "price": "CDN$ 25.99",
+    "header_image": "https://media.rawg.io/media/games/6c4/6c44f016aa1293cf9fb60cb1812dc687.jpg",
+    "metacritic": null,
+    "release_date": "2022-02-07"
+  },
+  {
+    "title": "Totally Accurate Battle Simulator",
+    "rankings": {
+      "RockPaperShotgun": 51
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": true
+    },
+    "stores": [
+      "Steam",
+      "Xbox Store",
+      "Epic Games"
+    ],
+    "steam_id": 508440,
+    "user_score": 0.9811898873316846,
+    "total_reviews": 72780,
+    "price": "399₴",
+    "header_image": "https://media.rawg.io/media/screenshots/c76/c7664fff1b8665c1be4c665950d85878.jpg",
+    "metacritic": null,
+    "release_date": "2021-04-01"
+  },
+  {
+    "title": "Hades II",
+    "rankings": {
+      "RockPaperShotgun": 48
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "platinum",
+      "switch": false
+    },
+    "stores": [
+      "Steam"
+    ],
+    "steam_id": 1145350,
+    "user_score": 0.9689407540394973,
+    "total_reviews": 27850,
+    "price": "CDN$ 38.99",
+    "header_image": "",
+    "metacritic": null,
+    "release_date": null
+  },
+  {
+    "title": "Dwarf Fortress",
+    "rankings": {
+      "RockPaperShotgun": 47,
+      "PCGamer": 16
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": true,
+      "steamdeck": "platinum",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "itch.io"
+    ],
+    "steam_id": 975370,
+    "user_score": 0.9524567240464825,
+    "total_reviews": 20739,
+    "price": "CDN$ 38.99",
+    "header_image": "https://media.rawg.io/media/screenshots/b20/b20a30ae9d910d948a24ca234eb4553d.jpg",
+    "metacritic": 93,
+    "release_date": "2006-08-08"
+  },
+  {
+    "title": "Tactical Breach Wizards",
+    "rankings": {
+      "RockPaperShotgun": 46
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum",
+      "switch": false
+    },
+    "stores": [
+      "Steam"
+    ],
+    "steam_id": 1043810,
+    "user_score": 0.9841739130434782,
+    "total_reviews": 5750,
+    "price": "CDN$ 25.99",
+    "header_image": "https://media.rawg.io/media/screenshots/0ce/0ce263ed58e30ecf3085c61dd865b4a6.jpg",
+    "metacritic": null,
+    "release_date": null
+  },
+  {
+    "title": "Rocket League",
+    "rankings": {
+      "RockPaperShotgun": 45
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum",
+      "switch": true
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "Nintendo Store",
+      "Epic Games"
+    ],
+    "steam_id": 252950,
+    "user_score": 0.8723873420552387,
+    "total_reviews": 223575,
+    "price": "N/A",
+    "header_image": "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+    "metacritic": 86,
+    "release_date": "2015-07-07"
+  },
+  {
+    "title": "American Truck Simulator",
+    "rankings": {
+      "RockPaperShotgun": 44
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum",
+      "switch": false
+    },
+    "stores": [
+      "Steam"
+    ],
+    "steam_id": 270880,
+    "user_score": 0.9732378193585428,
+    "total_reviews": 76638,
+    "price": "CDN$ 25.99",
+    "header_image": "https://media.rawg.io/media/screenshots/135/135a00cf33b0c860fcb366747e95b89b.jpg",
+    "metacritic": 76,
+    "release_date": "2016-02-02"
+  },
+  {
+    "title": "Homeworld Cataclysm",
+    "rankings": {
+      "RockPaperShotgun": 43
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown",
+      "switch": false
+    },
+    "stores": [],
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": "",
+    "metacritic": null,
+    "release_date": null
+  },
+  {
+    "title": "RimWorld",
+    "rankings": {
+      "RockPaperShotgun": 42,
+      "PCGamer": 17
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "GOG"
+    ],
+    "steam_id": 294100,
+    "user_score": 0.9805173905171893,
+    "total_reviews": 99422,
+    "price": "Rp 219 999",
+    "header_image": "https://media.rawg.io/media/screenshots/4d8/4d85fbe90066fdbef295a618640c4a82.jpg",
+    "metacritic": 87,
+    "release_date": "2016-07-15"
+  },
+  {
+    "title": "Supreme Commander Forged Alliance",
+    "rankings": {
+      "RockPaperShotgun": 41
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam"
+    ],
+    "steam_id": 9420,
+    "user_score": 0.9647169811320755,
+    "total_reviews": 5300,
+    "price": "CDN$ 13.99",
+    "header_image": "https://media.rawg.io/media/screenshots/bb4/bb41da0fc0e3839f426ba476a9d644ef.jpg",
+    "metacritic": 81,
+    "release_date": "2007-11-06"
+  },
+  {
+    "title": "Hunt: Showdown 1896",
+    "rankings": {
+      "RockPaperShotgun": 40,
+      "PCGamer": 27
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store"
+    ],
+    "steam_id": 594650,
+    "user_score": 0.7670524472214333,
+    "total_reviews": 84504,
+    "price": "CDN$ 39.99",
+    "header_image": "https://media.rawg.io/media/games/929/929a78693f607a3332ecb89fe7ffaf06.jpg",
+    "metacritic": 79,
+    "release_date": "2018-02-22"
+  },
+  {
+    "title": "XCOM Enemy Unknown",
+    "rankings": {
+      "RockPaperShotgun": 39
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": true,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox 360 Store",
+      "Google Play"
+    ],
+    "steam_id": 200510,
+    "user_score": 0.9422582304526749,
+    "total_reviews": 23328,
+    "price": "CDN$ 6.59",
+    "header_image": "https://media.rawg.io/media/games/238/2383a172b4d50a7b44e07980eb7141ea.jpg",
+    "metacritic": 89,
+    "release_date": "2012-10-09"
+  },
+  {
+    "title": "Nidhogg",
+    "rankings": {
+      "RockPaperShotgun": 35
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store"
+    ],
+    "steam_id": 94400,
+    "user_score": 0.908256880733945,
+    "total_reviews": 3924,
+    "price": "CDN$ 10.99",
+    "header_image": "https://media.rawg.io/media/screenshots/b5f/b5f4e96a5db76ae039b88eefc1370a1b.jpg",
+    "metacritic": 81,
+    "release_date": "2014-01-13"
+  },
+  {
+    "title": "Legend of Mana",
+    "rankings": {
+      "RockPaperShotgun": 34
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "bronze",
+      "switch": true
+    },
+    "stores": [
+      "Steam",
+      "App Store",
+      "Nintendo Store"
+    ],
+    "steam_id": 1175830,
+    "user_score": 0.7815442561205274,
+    "total_reviews": 531,
+    "price": "CDN$ 39.99",
+    "header_image": "https://media.rawg.io/media/screenshots/ad9/ad9ffcc4613206996ace65f150d006f5.jpg",
+    "metacritic": 71,
+    "release_date": "2021-06-24"
+  },
+  {
+    "title": "Cyberpunk 2077",
+    "rankings": {
+      "RockPaperShotgun": 31,
+      "PCGamer": 72
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "GOG",
+      "Epic Games"
+    ],
+    "steam_id": 1091500,
+    "user_score": 0.8652408719132783,
+    "total_reviews": 306636,
+    "price": "$59.99",
+    "header_image": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
+    "metacritic": 73,
+    "release_date": "2020-12-10"
+  },
+  {
+    "title": "Crusader Kings III",
+    "rankings": {
+      "RockPaperShotgun": 30,
+      "PCGamer": 25
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam"
+    ],
+    "steam_id": 1158310,
+    "user_score": 0.915583938926815,
+    "total_reviews": 40869,
+    "price": "$49.99",
+    "header_image": "https://media.rawg.io/media/games/77e/77e8a4a7b377a081aabd0dbf688417e1.jpg",
+    "metacritic": 86,
+    "release_date": "2020-09-01"
+  },
+  {
+    "title": "A Short Hike",
+    "rankings": {
+      "RockPaperShotgun": 29
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum",
+      "switch": true
+    },
+    "stores": [
+      "Steam",
+      "GOG",
+      "Nintendo Store",
+      "itch.io",
+      "Epic Games"
+    ],
+    "steam_id": 1055540,
+    "user_score": 0.9920135769192373,
+    "total_reviews": 10017,
+    "price": "CDN$ 8.99",
+    "header_image": "https://media.rawg.io/media/games/c38/c38deeb8f331a78c89e64ad71a1db361.jpg",
+    "metacritic": 84,
+    "release_date": "2019-07-29"
+  },
+  {
+    "title": "Warcraft III Reign of Chaos",
+    "rankings": {
+      "RockPaperShotgun": 28
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown",
+      "switch": false
+    },
+    "stores": [],
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": "",
+    "metacritic": null,
+    "release_date": null
+  },
+  {
+    "title": "NieR Automata",
+    "rankings": {
+      "RockPaperShotgun": 26,
+      "PCGamer": 62
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum",
+      "switch": true
+    },
+    "stores": [
+      "Steam",
+      "Xbox Store"
+    ],
+    "steam_id": 524220,
+    "user_score": 0.8984244283324038,
+    "total_reviews": 43032,
+    "price": "CDN$ 53.50",
+    "header_image": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg",
+    "metacritic": 86,
+    "release_date": "2017-03-17"
+  },
+  {
+    "title": "Factorio",
+    "rankings": {
+      "RockPaperShotgun": 25
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum",
+      "switch": true
+    },
+    "stores": [
+      "Steam",
+      "GOG",
+      "Nintendo Store"
+    ],
+    "steam_id": 427520,
+    "user_score": 0.9821793358312375,
+    "total_reviews": 97415,
+    "price": "CDN$ 45.00",
+    "header_image": "https://media.rawg.io/media/games/7e4/7e4e22b76da131e9690d5757555093c2.jpg",
+    "metacritic": 83,
+    "release_date": "2020-08-14"
+  },
+  {
+    "title": "X Beautiful Postcards",
+    "rankings": {
+      "RockPaperShotgun": 23
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown",
+      "switch": false
+    },
+    "stores": [
+      "itch.io"
+    ],
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": "https://media.rawg.io/media/screenshots/2f0/2f03c2daf7080d90fcd0be531e42e211.jpg",
+    "metacritic": null,
+    "release_date": "2019-05-27"
+  },
+  {
+    "title": "Prey",
+    "rankings": {
+      "RockPaperShotgun": 21,
+      "PCGamer": 42
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "GOG",
+      "Epic Games"
+    ],
+    "steam_id": 3970,
+    "user_score": 0.9333333333333333,
+    "total_reviews": 15,
+    "price": "N/A",
+    "header_image": "https://media.rawg.io/media/games/e6d/e6de699bd788497f4b52e2f41f9698f2.jpg",
+    "metacritic": 80,
+    "release_date": "2017-05-05"
+  },
+  {
+    "title": "Outer Wilds",
+    "rankings": {
+      "RockPaperShotgun": 20,
+      "PCGamer": 90
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": true
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "Nintendo Store",
+      "Epic Games"
+    ],
+    "steam_id": 753640,
+    "user_score": 0.9522351340033501,
+    "total_reviews": 38208,
+    "price": "CDN$ 32.99",
+    "header_image": "https://media.rawg.io/media/games/9f4/9f418898f5415668ca47b5f4ab1ecfeb.jpg",
+    "metacritic": 84,
+    "release_date": "2019-05-29"
+  },
+  {
+    "title": "Opus Magnum",
+    "rankings": {
+      "RockPaperShotgun": 19
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "GOG",
+      "itch.io"
+    ],
+    "steam_id": 558990,
+    "user_score": 0.9694656488549618,
+    "total_reviews": 2751,
+    "price": "CDN$ 25.99",
+    "header_image": "https://media.rawg.io/media/games/dda/dda32189c8a4a0231fa9bd8012f72df1.jpg",
+    "metacritic": null,
+    "release_date": "2017-10-19"
+  },
+  {
+    "title": "Inscryption",
+    "rankings": {
+      "RockPaperShotgun": 18
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": true,
+      "steamdeck": "platinum",
+      "switch": true
+    },
+    "stores": [
+      "Steam",
+      "GOG",
+      "Nintendo Store"
+    ],
+    "steam_id": 1092790,
+    "user_score": 0.9695682304377956,
+    "total_reviews": 66378,
+    "price": "CDN$ 22.79",
+    "header_image": "https://media.rawg.io/media/games/73e/73efc5c0ac6f354271dae610276f617c.jpg",
+    "metacritic": 86,
+    "release_date": "2021-10-19"
+  },
+  {
+    "title": "Resident Evil 4 (Remake)",
+    "rankings": {
+      "RockPaperShotgun": 17
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "unknown",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store"
+    ],
+    "steam_id": null,
+    "user_score": null,
+    "total_reviews": 0,
+    "price": "N/A",
+    "header_image": "https://media.rawg.io/media/games/51a/51a404b9918a0b19fc704a3ca248c69f.jpg",
+    "metacritic": null,
+    "release_date": "2023-03-24"
+  },
+  {
+    "title": "Halo The Master Chief Collection",
+    "rankings": {
+      "RockPaperShotgun": 15,
+      "PCGamer": 30
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "Xbox Store"
+    ],
+    "steam_id": 976730,
+    "user_score": 0.9239850076603195,
+    "total_reviews": 146208,
+    "price": "CDN$ 49.99",
+    "header_image": "https://media.rawg.io/media/games/c24/c24f4434882ae9c2c8d9d38de82cb7a5.jpg",
+    "metacritic": 85,
+    "release_date": "2014-11-11"
+  },
+  {
+    "title": "Final Fantasy IX",
+    "rankings": {
+      "RockPaperShotgun": 14
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": true
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "App Store",
+      "Nintendo Store",
+      "Google Play"
+    ],
+    "steam_id": 377840,
+    "user_score": 0.940682606315021,
+    "total_reviews": 5479,
+    "price": "CDN$ 23.99",
+    "header_image": "https://media.rawg.io/media/games/826/82626e2d7ee7d96656fb9838c2ef7302.jpg",
+    "metacritic": 84,
+    "release_date": "2000-07-07"
+  },
+  {
+    "title": "Sekiro Shadows Die Twice",
+    "rankings": {
+      "RockPaperShotgun": 12,
+      "PCGamer": 23
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store"
+    ],
+    "steam_id": 814380,
+    "user_score": 0.9375212131908712,
+    "total_reviews": 73657,
+    "price": "$59.99",
+    "header_image": "https://media.rawg.io/media/games/67f/67f62d1f062a6164f57575e0604ee9f6.jpg",
+    "metacritic": 90,
+    "release_date": "2019-03-22"
+  },
+  {
+    "title": "Hitman World of Assassination",
+    "rankings": {
+      "RockPaperShotgun": 11,
+      "PCGamer": 50
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "Epic Games"
+    ],
+    "steam_id": 1659040,
+    "user_score": 0.861987723975448,
+    "total_reviews": 16129,
+    "price": "CDN$ 38.99",
+    "header_image": "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg",
+    "metacritic": 83,
+    "release_date": "2016-03-11"
+  },
+  {
+    "title": "Team Fortress II",
+    "rankings": {
+      "RockPaperShotgun": 10,
+      "PCGamer": 61
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": true,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam"
+    ],
+    "steam_id": 440,
+    "user_score": 0.6629293692785756,
+    "total_reviews": 23814,
+    "price": "N/A",
+    "header_image": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
+    "metacritic": 92,
+    "release_date": "2007-10-10"
+  },
+  {
+    "title": "Yakuza 0",
+    "rankings": {
+      "RockPaperShotgun": 8,
+      "PCGamer": 32
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "platinum",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "GOG"
+    ],
+    "steam_id": 638970,
+    "user_score": 0.9697334429309535,
+    "total_reviews": 34064,
+    "price": "CDN$ 29.99",
+    "header_image": "https://media.rawg.io/media/games/ca1/ca16da30f86d8f4d36261de45fb35430.jpg",
+    "metacritic": 85,
+    "release_date": "2015-03-12"
+  },
+  {
+    "title": "Mass Effect Legendary Edition",
+    "rankings": {
+      "RockPaperShotgun": 7,
+      "PCGamer": 18
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store"
+    ],
+    "steam_id": 1328670,
+    "user_score": 0.9136176323676324,
+    "total_reviews": 32032,
+    "price": "CDN$ 79.99",
+    "header_image": "https://media.rawg.io/media/games/64e/64e2a77f37ddc48d102127234af99886.jpg",
+    "metacritic": 88,
+    "release_date": "2021-05-14"
+  },
+  {
+    "title": "Subnautica",
+    "rankings": {
+      "RockPaperShotgun": 5
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": true
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store",
+      "Nintendo Store",
+      "Epic Games"
+    ],
+    "steam_id": 264710,
+    "user_score": 0.9678660057926809,
+    "total_reviews": 149499,
+    "price": "CDN$ 39.99",
+    "header_image": "https://media.rawg.io/media/games/739/73990e3ec9f43a9e8ecafe207fa4f368.jpg",
+    "metacritic": 83,
+    "release_date": "2018-01-23"
+  },
+  {
+    "title": "Elden Ring",
+    "rankings": {
+      "RockPaperShotgun": 3,
+      "PCGamer": 3
+    },
+    "platforms": {
+      "windows": true,
+      "macos": false,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "Xbox Store"
+    ],
+    "steam_id": 1245620,
+    "user_score": 0.9413339000795019,
+    "total_reviews": 381123,
+    "price": "CDN$ 79.99",
+    "header_image": "https://media.rawg.io/media/games/b29/b294fdd866dcdb643e7bab370a552855.jpg",
+    "metacritic": 95,
+    "release_date": "2022-02-25"
+  },
+  {
+    "title": "Baldur's Gate III",
+    "rankings": {
+      "RockPaperShotgun": 2,
+      "PCGamer": 1
+    },
+    "platforms": {
+      "windows": true,
+      "macos": true,
+      "linux": false,
+      "steamdeck": "gold",
+      "switch": false
+    },
+    "stores": [
+      "Steam",
+      "PlayStation Store",
+      "GOG"
+    ],
+    "steam_id": 1086940,
+    "user_score": 0.9679972470750172,
+    "total_reviews": 369062,
+    "price": "1999 руб.",
+    "header_image": "https://media.rawg.io/media/games/699/69907ecf13f172e9e144069769c3be73.jpg",
+    "metacritic": 97,
+    "release_date": "2023-08-03"
+  },
+  {
     "title": "Valheim",
     "rankings": {
       "PCGamer": 100
@@ -2526,9 +4386,9 @@
       "Steam"
     ],
     "steam_id": 892970,
-    "user_score": 0.9503140478986877,
-    "total_reviews": 234996,
-    "price": "₩ 20,500",
+    "user_score": 0.9503055111141369,
+    "total_reviews": 235016,
+    "price": "CDN$ 22.79",
     "header_image": "https://media.rawg.io/media/games/adb/adb59be81367b19c2544457424bcf086.jpg",
     "metacritic": null,
     "release_date": "2021-02-02"
@@ -2597,9 +4457,9 @@
       "Steam"
     ],
     "steam_id": 1868140,
-    "user_score": 0.9725522752036527,
-    "total_reviews": 38546,
-    "price": "₩ 24,000",
+    "user_score": 0.9725060953467863,
+    "total_reviews": 38554,
+    "price": "CDN$ 25.99",
     "header_image": "https://media.rawg.io/media/games/1ee/1eec43616e3ff00a674124d746926b23.jpg",
     "metacritic": null,
     "release_date": "2023-06-28"
@@ -2621,8 +4481,8 @@
       "GOG"
     ],
     "steam_id": 2600,
-    "user_score": 0.9480877328336823,
-    "total_reviews": 9073,
+    "user_score": 0.9479889807162535,
+    "total_reviews": 9075,
     "price": "CDN$ 21.99",
     "header_image": "https://media.rawg.io/media/games/6f0/6f0a69db053bce957d8328a7253fbb29.jpg",
     "metacritic": 80,
@@ -2650,8 +4510,8 @@
       "Google Play"
     ],
     "steam_id": 32370,
-    "user_score": 0.9113695216690282,
-    "total_reviews": 20467,
+    "user_score": 0.9113781816405295,
+    "total_reviews": 20469,
     "price": "CDN$ 12.99",
     "header_image": "https://media.rawg.io/media/games/6e0/6e0c19bb111bd4fa20cf0eb72a049519.jpg",
     "metacritic": 88,
@@ -2701,71 +4561,12 @@
       "Epic Games"
     ],
     "steam_id": 2215430,
-    "user_score": 0.9312915166573703,
-    "total_reviews": 19721,
-    "price": "$59.99",
+    "user_score": 0.9313402584241196,
+    "total_reviews": 19735,
+    "price": "CDN$ 79.99",
     "header_image": "https://media.rawg.io/media/games/193/193c9fe23ca026914fdf41d551ff3df9.jpg",
     "metacritic": null,
     "release_date": "2021-08-20"
-  },
-  {
-    "title": "Dead Cells",
-    "rankings": {
-      "PCGamer": 91,
-      "RPS": 91
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": true,
-      "steamdeck": "platinum",
-      "switch": true
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "App Store",
-      "GOG",
-      "Nintendo Store",
-      "itch.io",
-      "Epic Games"
-    ],
-    "steam_id": 588650,
-    "user_score": 0.9651772977379254,
-    "total_reviews": 39256,
-    "price": "CDN$ 29.99",
-    "header_image": "https://media.rawg.io/media/games/f90/f90ee1a4239247a822771c40488e68c5.jpg",
-    "metacritic": 88,
-    "release_date": "2018-08-07"
-  },
-  {
-    "title": "Outer Wilds",
-    "rankings": {
-      "PCGamer": 90,
-      "RPS": 20
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": true
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "Nintendo Store",
-      "Epic Games"
-    ],
-    "steam_id": 753640,
-    "user_score": 0.9522201277620693,
-    "total_reviews": 38196,
-    "price": "CDN$ 32.99",
-    "header_image": "https://media.rawg.io/media/games/9f4/9f418898f5415668ca47b5f4ab1ecfeb.jpg",
-    "metacritic": 84,
-    "release_date": "2019-05-29"
   },
   {
     "title": "DEATH STRANDING DIRECTOR'S CUT",
@@ -2786,8 +4587,8 @@
       "Epic Games"
     ],
     "steam_id": 1850570,
-    "user_score": 0.9189679070263355,
-    "total_reviews": 9379,
+    "user_score": 0.9190110826939472,
+    "total_reviews": 9384,
     "price": "CDN$ 54.99",
     "header_image": "https://media.rawg.io/media/games/b6f/b6fa0cde8a1204c7d6edc2ec3c753df9.jpg",
     "metacritic": null,
@@ -2833,8 +4634,8 @@
       "GOG"
     ],
     "steam_id": 1677770,
-    "user_score": 0.98620409819436,
-    "total_reviews": 4929,
+    "user_score": 0.9860182370820668,
+    "total_reviews": 4935,
     "price": "CDN$ 12.29",
     "header_image": "https://media.rawg.io/media/games/a0b/a0bccdd3b0bf8f6a18757f46e74c214a.jpg",
     "metacritic": null,
@@ -2857,39 +4658,12 @@
       "GOG"
     ],
     "steam_id": 1229490,
-    "user_score": 0.9804465568696805,
-    "total_reviews": 90470,
+    "user_score": 0.9804239993813454,
+    "total_reviews": 90519,
     "price": "CDN$ 32.50",
     "header_image": "https://media.rawg.io/media/games/096/096856c7b8b790cdf35c327652e4055e.jpg",
     "metacritic": null,
     "release_date": "2020-09-02"
-  },
-  {
-    "title": "Destiny II",
-    "rankings": {
-      "PCGamer": 85,
-      "RPS": 56
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "borked",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "Epic Games"
-    ],
-    "steam_id": 1085660,
-    "user_score": 0.8169342627579904,
-    "total_reviews": 73307,
-    "price": "N/A",
-    "header_image": "https://media.rawg.io/media/games/34b/34b1f1850a1c06fd971bc6ab3ac0ce0e.jpg",
-    "metacritic": 82,
-    "release_date": "2017-09-06"
   },
   {
     "title": "Sid Meier's Civilization V",
@@ -2908,8 +4682,8 @@
       "App Store"
     ],
     "steam_id": 8930,
-    "user_score": 0.9599030890369473,
-    "total_reviews": 74295,
+    "user_score": 0.9599041684051846,
+    "total_reviews": 74297,
     "price": "CDN$ 32.99",
     "header_image": "https://media.rawg.io/media/games/55e/55ee6432ac2bf224610fa17e4c652107.jpg",
     "metacritic": 90,
@@ -2934,8 +4708,8 @@
       "Google Play"
     ],
     "steam_id": 219150,
-    "user_score": 0.9689444507297206,
-    "total_reviews": 35356,
+    "user_score": 0.9688914027149321,
+    "total_reviews": 35360,
     "price": "CDN$ 12.99",
     "header_image": "https://media.rawg.io/media/games/9fa/9fa63622543e5d4f6d99aa9d73b043de.jpg",
     "metacritic": 85,
@@ -2984,8 +4758,8 @@
       "GOG"
     ],
     "steam_id": 333640,
-    "user_score": 0.9531455262005547,
-    "total_reviews": 6851,
+    "user_score": 0.9531796966161027,
+    "total_reviews": 6856,
     "price": "CDN$ 38.99",
     "header_image": "https://media.rawg.io/media/screenshots/e6e/e6e4a23d51a5fe13c8bb155371516436.jpg",
     "metacritic": null,
@@ -3033,8 +4807,8 @@
       "PlayStation Store"
     ],
     "steam_id": 1888160,
-    "user_score": 0.9359407972711242,
-    "total_reviews": 34593,
+    "user_score": 0.9359482036014684,
+    "total_reviews": 34597,
     "price": "CDN$ 79.99",
     "header_image": "https://media.rawg.io/media/games/c97/c97aba78a97038867d4b32a81fe48567.jpg",
     "metacritic": null,
@@ -3056,8 +4830,8 @@
       "Steam"
     ],
     "steam_id": 548430,
-    "user_score": 0.979459050752129,
-    "total_reviews": 150772,
+    "user_score": 0.9794563696527211,
+    "total_reviews": 150801,
     "price": "CDN$ 34.99",
     "header_image": "https://media.rawg.io/media/games/c92/c9207a31f0eeb9904a840fc26eae6afb.jpg",
     "metacritic": 84,
@@ -3082,8 +4856,8 @@
       "Epic Games"
     ],
     "steam_id": 1824220,
-    "user_score": 0.8125791473195441,
-    "total_reviews": 16583,
+    "user_score": 0.812733630772941,
+    "total_reviews": 16586,
     "price": "CDN$ 43.99",
     "header_image": "https://media.rawg.io/media/screenshots/d3e/d3ed3ab5f11f8f6294dd561c16dccdf8.jpg",
     "metacritic": 78,
@@ -3135,40 +4909,12 @@
       "itch.io"
     ],
     "steam_id": 239030,
-    "user_score": 0.9728972224557864,
-    "total_reviews": 35679,
+    "user_score": 0.9728699551569506,
+    "total_reviews": 35680,
     "price": "CDN$ 12.99",
     "header_image": "https://media.rawg.io/media/games/6d3/6d33014a4ed48a19c30a77ead5a0f62e.jpg",
     "metacritic": 85,
     "release_date": "2013-08-08"
-  },
-  {
-    "title": "Cyberpunk 2077",
-    "rankings": {
-      "PCGamer": 72,
-      "RPS": 31
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "GOG",
-      "Epic Games"
-    ],
-    "steam_id": 1091500,
-    "user_score": 0.8652095490024039,
-    "total_reviews": 306587,
-    "price": "CDN$ 79.99",
-    "header_image": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
-    "metacritic": 73,
-    "release_date": "2020-12-10"
   },
   {
     "title": "Alien Isolation",
@@ -3219,8 +4965,8 @@
       "Epic Games"
     ],
     "steam_id": 1574580,
-    "user_score": 0.957841252403186,
-    "total_reviews": 7282,
+    "user_score": 0.9578643974746088,
+    "total_reviews": 7286,
     "price": "CDN$ 20.79",
     "header_image": "https://media.rawg.io/media/games/add/add2aecd96e74df7e27082328039957e.jpg",
     "metacritic": null,
@@ -3242,8 +4988,8 @@
       "Steam"
     ],
     "steam_id": 1262350,
-    "user_score": 0.9700941094457999,
-    "total_reviews": 14345,
+    "user_score": 0.9701107782345154,
+    "total_reviews": 14353,
     "price": "CDN$ 26.99",
     "header_image": "https://media.rawg.io/media/games/480/480295ba922318bb052d169174ec88aa.jpg",
     "metacritic": 82,
@@ -3268,9 +5014,9 @@
       "Epic Games"
     ],
     "steam_id": 220200,
-    "user_score": 0.9556125241236282,
-    "total_reviews": 69434,
-    "price": "A$ 45.99",
+    "user_score": 0.9556176377408485,
+    "total_reviews": 69442,
+    "price": "CDN$ 43.99",
     "header_image": "https://media.rawg.io/media/games/bda/bdab2603c0dc67268d0610449bc7df16.jpg",
     "metacritic": 88,
     "release_date": "2015-04-26"
@@ -3321,55 +5067,6 @@
     "header_image": "https://media.rawg.io/media/games/51a/51a404b9918a0b19fc704a3ca248c69f.jpg",
     "metacritic": null,
     "release_date": "2023-03-24"
-  },
-  {
-    "title": "Nier Automata",
-    "rankings": {
-      "PCGamer": 62,
-      "RPS": 26
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "platinum",
-      "switch": true
-    },
-    "stores": [
-      "Steam",
-      "Xbox Store"
-    ],
-    "steam_id": 524220,
-    "user_score": 0.8984220678115777,
-    "total_reviews": 43031,
-    "price": "CDN$ 53.50",
-    "header_image": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg",
-    "metacritic": 86,
-    "release_date": "2017-03-17"
-  },
-  {
-    "title": "Team Fortress II",
-    "rankings": {
-      "PCGamer": 61,
-      "RPS": 10
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": true,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam"
-    ],
-    "steam_id": 440,
-    "user_score": 0.6623409348620386,
-    "total_reviews": 23811,
-    "price": "N/A",
-    "header_image": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
-    "metacritic": 92,
-    "release_date": "2007-10-10"
   },
   {
     "title": "System Shock",
@@ -3440,8 +5137,8 @@
       "Xbox 360 Store"
     ],
     "steam_id": 22320,
-    "user_score": 0.9556831376596568,
-    "total_reviews": 15502,
+    "user_score": 0.9556945698439314,
+    "total_reviews": 15506,
     "price": "CDN$ 19.99",
     "header_image": "https://media.rawg.io/media/games/ccf/ccf26f6e3d553a04f0033a8107a521b8.jpg",
     "metacritic": 89,
@@ -3466,8 +5163,8 @@
       "Epic Games"
     ],
     "steam_id": 359550,
-    "user_score": 0.8503559335971997,
-    "total_reviews": 559374,
+    "user_score": 0.8503379350657011,
+    "total_reviews": 559427,
     "price": "CDN$ 24.99",
     "header_image": "https://media.rawg.io/media/games/b34/b3419c2706f8f8dbe40d08e23642ad06.jpg",
     "metacritic": 75,
@@ -3494,9 +5191,9 @@
       "Nintendo Store"
     ],
     "steam_id": 250900,
-    "user_score": 0.9733420811823409,
-    "total_reviews": 115838,
-    "price": "R$ 27,99",
+    "user_score": 0.973335864556547,
+    "total_reviews": 115886,
+    "price": "CDN$ 16.99",
     "header_image": "https://media.rawg.io/media/games/926/926928beb8a9f9b31cf202965aa4cbbc.jpg",
     "metacritic": 86,
     "release_date": "2014-11-03"
@@ -3519,8 +5216,8 @@
       "Xbox Store"
     ],
     "steam_id": 552500,
-    "user_score": 0.8976459320496017,
-    "total_reviews": 39676,
+    "user_score": 0.8976691445130401,
+    "total_reviews": 39685,
     "price": "CDN$ 1.94",
     "header_image": "https://media.rawg.io/media/games/5be/5bec14622f6faf804a592176577c1347.jpg",
     "metacritic": 82,
@@ -3570,39 +5267,12 @@
       "Xbox 360 Store"
     ],
     "steam_id": 239350,
-    "user_score": 0.9203834510595358,
-    "total_reviews": 9910,
+    "user_score": 0.9203914842094643,
+    "total_reviews": 9911,
     "price": "CDN$ 16.99",
     "header_image": "https://media.rawg.io/media/games/fad/fadc4be043ed07904012d47cd02671e4.jpg",
     "metacritic": 90,
     "release_date": "2012-07-04"
-  },
-  {
-    "title": "Hitman World of Assassination",
-    "rankings": {
-      "PCGamer": 50,
-      "RPS": 11
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "Epic Games"
-    ],
-    "steam_id": 1659040,
-    "user_score": 0.8619919329816941,
-    "total_reviews": 16115,
-    "price": "CDN$ 38.99",
-    "header_image": "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg",
-    "metacritic": 83,
-    "release_date": "2016-03-11"
   },
   {
     "title": "Citizen Sleeper",
@@ -3623,39 +5293,12 @@
       "Epic Games"
     ],
     "steam_id": 1578650,
-    "user_score": 0.942942254812099,
-    "total_reviews": 4364,
+    "user_score": 0.9429553264604811,
+    "total_reviews": 4365,
     "price": "CDN$ 25.99",
     "header_image": "https://media.rawg.io/media/games/391/391954934d459b8fe78d87a8a68c71c6.jpg",
     "metacritic": null,
     "release_date": "2022-05-05"
-  },
-  {
-    "title": "Doom Eternal",
-    "rankings": {
-      "PCGamer": 48,
-      "RPS": 92
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": true
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "Nintendo Store"
-    ],
-    "steam_id": 782330,
-    "user_score": 0.912515384822704,
-    "total_reviews": 111311,
-    "price": "CDN$ 53.49",
-    "header_image": "https://media.rawg.io/media/games/3ea/3ea3c9bbd940b6cb7f2139e42d3d443f.jpg",
-    "metacritic": 86,
-    "release_date": "2020-03-20"
   },
   {
     "title": "Frostpunk",
@@ -3676,8 +5319,8 @@
       "GOG"
     ],
     "steam_id": 323190,
-    "user_score": 0.9263411658776032,
-    "total_reviews": 34429,
+    "user_score": 0.926362554081129,
+    "total_reviews": 34439,
     "price": "CDN$ 38.99",
     "header_image": "https://media.rawg.io/media/games/a88/a886c37bf112d009e318b106db9d420a.jpg",
     "metacritic": 85,
@@ -3710,33 +5353,6 @@
     "release_date": "2018-02-26"
   },
   {
-    "title": "Deus Ex: Mankind Divided",
-    "rankings": {
-      "PCGamer": 44,
-      "RPS": 61
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": true,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "GOG"
-    ],
-    "steam_id": 337000,
-    "user_score": 0.7460563744504785,
-    "total_reviews": 15468,
-    "price": "CDN$ 38.99",
-    "header_image": "https://media.rawg.io/media/games/00d/00d374f12a3ab5f96c500a2cfa901e15.jpg",
-    "metacritic": 83,
-    "release_date": "2016-08-22"
-  },
-  {
     "title": "Animal Well",
     "rankings": {
       "PCGamer": 43
@@ -3752,40 +5368,12 @@
       "Steam"
     ],
     "steam_id": 813230,
-    "user_score": 0.9542354235423542,
-    "total_reviews": 9090,
+    "user_score": 0.9542404575954241,
+    "total_reviews": 9091,
     "price": "CDN$ 31.99",
     "header_image": "https://media.rawg.io/media/games/f0a/f0ae5322f985cda91e871adcfcb91f6f.jpg",
     "metacritic": null,
     "release_date": "2024-05-09"
-  },
-  {
-    "title": "Prey",
-    "rankings": {
-      "PCGamer": 42,
-      "RPS": 21
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "platinum",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "GOG",
-      "Epic Games"
-    ],
-    "steam_id": 3970,
-    "user_score": 0.9333333333333333,
-    "total_reviews": 15,
-    "price": "N/A",
-    "header_image": "https://media.rawg.io/media/games/e6d/e6de699bd788497f4b52e2f41f9698f2.jpg",
-    "metacritic": 80,
-    "release_date": "2017-05-05"
   },
   {
     "title": "Vampire Survivors",
@@ -3806,8 +5394,8 @@
       "itch.io"
     ],
     "steam_id": 1794680,
-    "user_score": 0.9863067156930762,
-    "total_reviews": 115312,
+    "user_score": 0.9863095650967608,
+    "total_reviews": 115336,
     "price": "CDN$ 5.99",
     "header_image": "https://media.rawg.io/media/games/501/501e7019925a3c692bf1c8062f07abe6.jpg",
     "metacritic": null,
@@ -3832,61 +5420,12 @@
       "Xbox 360 Store"
     ],
     "steam_id": 72850,
-    "user_score": 0.925285940871073,
-    "total_reviews": 101507,
+    "user_score": 0.9252837326607818,
+    "total_reviews": 101504,
     "price": "CDN$ 21.99",
     "header_image": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
     "metacritic": 94,
     "release_date": "2011-11-11"
-  },
-  {
-    "title": "Stellaris",
-    "rankings": {
-      "PCGamer": 36,
-      "RPS": 53
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": true,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "GOG"
-    ],
-    "steam_id": 281990,
-    "user_score": 0.883969829770742,
-    "total_reviews": 67086,
-    "price": "CDN$ 52.99",
-    "header_image": "https://media.rawg.io/media/games/92b/92bbf8a451e2742ab812a580546e593a.jpg",
-    "metacritic": 78,
-    "release_date": "2016-05-08"
-  },
-  {
-    "title": "Counter-Strike II",
-    "rankings": {
-      "PCGamer": 35,
-      "RPS": 84
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": true,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam"
-    ],
-    "steam_id": 730,
-    "user_score": 0.8662852192005414,
-    "total_reviews": 1265006,
-    "price": "N/A",
-    "header_image": "https://media.rawg.io/media/games/ec4/ec4b02bdb3eb5c6212992c19bc05697e.jpg",
-    "metacritic": null,
-    "release_date": "2023-09-27"
   },
   {
     "title": "Final Fantasy 14",
@@ -3910,33 +5449,6 @@
     "release_date": null
   },
   {
-    "title": "Yakuza 0",
-    "rankings": {
-      "PCGamer": 32,
-      "RPS": 8
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "platinum",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "GOG"
-    ],
-    "steam_id": 638970,
-    "user_score": 0.9697601362261824,
-    "total_reviews": 34061,
-    "price": "$19.99",
-    "header_image": "https://media.rawg.io/media/games/ca1/ca16da30f86d8f4d36261de45fb35430.jpg",
-    "metacritic": 85,
-    "release_date": "2015-03-12"
-  },
-  {
     "title": "StarCraft II",
     "rankings": {
       "PCGamer": 31
@@ -3956,31 +5468,6 @@
     "header_image": "",
     "metacritic": null,
     "release_date": null
-  },
-  {
-    "title": "Halo The Master Chief Collection",
-    "rankings": {
-      "PCGamer": 30,
-      "RPS": 15
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "Xbox Store"
-    ],
-    "steam_id": 976730,
-    "user_score": 0.9239803281828193,
-    "total_reviews": 146199,
-    "price": "CDN$ 49.99",
-    "header_image": "https://media.rawg.io/media/games/c24/c24f4434882ae9c2c8d9d38de82cb7a5.jpg",
-    "metacritic": 85,
-    "release_date": "2014-11-11"
   },
   {
     "title": "Planescape Torment",
@@ -4030,32 +5517,6 @@
     "release_date": "1999-10-29"
   },
   {
-    "title": "Hunt: Showdown 1896",
-    "rankings": {
-      "PCGamer": 27,
-      "RPS": 40
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store"
-    ],
-    "steam_id": 594650,
-    "user_score": 0.7671258817402831,
-    "total_reviews": 84492,
-    "price": "CDN$ 39.99",
-    "header_image": "https://media.rawg.io/media/games/929/929a78693f607a3332ecb89fe7ffaf06.jpg",
-    "metacritic": 79,
-    "release_date": "2018-02-22"
-  },
-  {
     "title": "Pizza Tower",
     "rankings": {
       "PCGamer": 26
@@ -4071,62 +5532,12 @@
       "Steam"
     ],
     "steam_id": 2231450,
-    "user_score": 0.985563589540412,
-    "total_reviews": 40384,
+    "user_score": 0.9855650193126672,
+    "total_reviews": 40388,
     "price": "CDN$ 21.99",
     "header_image": "https://media.rawg.io/media/games/2d0/2d02bcfc07f4b5ed8623599ff999ee91.jpg",
     "metacritic": null,
     "release_date": "2023-01-26"
-  },
-  {
-    "title": "Crusader Kings III",
-    "rankings": {
-      "PCGamer": 25,
-      "RPS": 30
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": true,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam"
-    ],
-    "steam_id": 1158310,
-    "user_score": 0.9155225999070064,
-    "total_reviews": 40863,
-    "price": "CDN$ 66.99",
-    "header_image": "https://media.rawg.io/media/games/77e/77e8a4a7b377a081aabd0dbf688417e1.jpg",
-    "metacritic": 86,
-    "release_date": "2020-09-01"
-  },
-  {
-    "title": "Sekiro Shadows Die Twice",
-    "rankings": {
-      "PCGamer": 23,
-      "RPS": 12
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "platinum",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store"
-    ],
-    "steam_id": 814380,
-    "user_score": 0.9375144265366807,
-    "total_reviews": 73649,
-    "price": "CDN$ 79.99",
-    "header_image": "https://media.rawg.io/media/games/67f/67f62d1f062a6164f57575e0604ee9f6.jpg",
-    "metacritic": 90,
-    "release_date": "2019-03-22"
   },
   {
     "title": "Alan Wake II",
@@ -4174,88 +5585,12 @@
       "Google Play"
     ],
     "steam_id": 646570,
-    "user_score": 0.9784359062658861,
-    "total_reviews": 60981,
-    "price": "$24.99 USD",
+    "user_score": 0.9784226922446303,
+    "total_reviews": 60990,
+    "price": "CDN$ 31.99",
     "header_image": "https://media.rawg.io/media/games/f52/f5206d55f918edf8ee07803101106fa6.jpg",
     "metacritic": 86,
     "release_date": "2019-01-22"
-  },
-  {
-    "title": "Mass Effect Legendary Edition",
-    "rankings": {
-      "PCGamer": 18,
-      "RPS": 7
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store"
-    ],
-    "steam_id": 1328670,
-    "user_score": 0.9136735586232744,
-    "total_reviews": 32018,
-    "price": "CDN$ 79.99",
-    "header_image": "https://media.rawg.io/media/games/64e/64e2a77f37ddc48d102127234af99886.jpg",
-    "metacritic": 88,
-    "release_date": "2021-05-14"
-  },
-  {
-    "title": "Rimworld",
-    "rankings": {
-      "PCGamer": 17,
-      "RPS": 42
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": true,
-      "steamdeck": "platinum",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "GOG"
-    ],
-    "steam_id": 294100,
-    "user_score": 0.9805136665895395,
-    "total_reviews": 99403,
-    "price": "CDN$ 39.99",
-    "header_image": "https://media.rawg.io/media/screenshots/4d8/4d85fbe90066fdbef295a618640c4a82.jpg",
-    "metacritic": 87,
-    "release_date": "2016-07-15"
-  },
-  {
-    "title": "Dwarf Fortress",
-    "rankings": {
-      "PCGamer": 16,
-      "RPS": 47
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": true,
-      "steamdeck": "platinum",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "itch.io"
-    ],
-    "steam_id": 975370,
-    "user_score": 0.9524521386892993,
-    "total_reviews": 20737,
-    "price": "CDN$ 38.99",
-    "header_image": "https://media.rawg.io/media/screenshots/b20/b20a30ae9d910d948a24ca234eb4553d.jpg",
-    "metacritic": 93,
-    "release_date": "2006-08-08"
   },
   {
     "title": "Helldivers II",
@@ -4273,8 +5608,8 @@
       "Steam"
     ],
     "steam_id": 553850,
-    "user_score": 0.7963340083071733,
-    "total_reviews": 520514,
+    "user_score": 0.7963271029832684,
+    "total_reviews": 520570,
     "price": "CDN$ 49.99",
     "header_image": "https://media.rawg.io/media/screenshots/d58/d58b2e611e69b02757ffc4fccda8ee74.jpg",
     "metacritic": null,
@@ -4297,8 +5632,8 @@
       "Epic Games"
     ],
     "steam_id": 1142710,
-    "user_score": 0.7232031506399738,
-    "total_reviews": 45705,
+    "user_score": 0.7232734670662613,
+    "total_reviews": 45713,
     "price": "CDN$ 79.99",
     "header_image": "https://media.rawg.io/media/games/0fc/0fcb485572f6074c611521984a033a5c.jpg",
     "metacritic": 85,
@@ -4329,36 +5664,6 @@
     "release_date": "1998-09-03"
   },
   {
-    "title": "Stardew Valley",
-    "rankings": {
-      "PCGamer": 9,
-      "RPS": 97
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": true,
-      "steamdeck": "platinum",
-      "switch": true
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "App Store",
-      "GOG",
-      "Nintendo Store",
-      "Google Play"
-    ],
-    "steam_id": 413150,
-    "user_score": 0.9888532216794603,
-    "total_reviews": 322425,
-    "price": "CDN$ 16.99",
-    "header_image": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg",
-    "metacritic": 89,
-    "release_date": "2016-02-25"
-  },
-  {
     "title": "Balatro",
     "rankings": {
       "PCGamer": 8
@@ -4374,1316 +5679,11 @@
       "Steam"
     ],
     "steam_id": 2379780,
-    "user_score": 0.9801665355363232,
-    "total_reviews": 30504,
+    "user_score": 0.9801461193198572,
+    "total_reviews": 30523,
     "price": "CDN$ 18.99",
     "header_image": "https://media.rawg.io/media/games/821/821a40bd0cc0ac7dfb3fe97a7878dc1f.jpg",
     "metacritic": null,
     "release_date": "2024-02-20"
-  },
-  {
-    "title": "Elden Ring",
-    "rankings": {
-      "PCGamer": 3,
-      "RPS": 3
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store"
-    ],
-    "steam_id": 1245620,
-    "user_score": 0.9413271196758822,
-    "total_reviews": 381096,
-    "price": "₩ 64,800",
-    "header_image": "https://media.rawg.io/media/games/b29/b294fdd866dcdb643e7bab370a552855.jpg",
-    "metacritic": 95,
-    "release_date": "2022-02-25"
-  },
-  {
-    "title": "Baldur's Gate III",
-    "rankings": {
-      "PCGamer": 1,
-      "RPS": 2
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "GOG"
-    ],
-    "steam_id": 1086940,
-    "user_score": 0.9679956420520298,
-    "total_reviews": 368981,
-    "price": "CDN$ 79.99",
-    "header_image": "https://media.rawg.io/media/games/699/69907ecf13f172e9e144069769c3be73.jpg",
-    "metacritic": 97,
-    "release_date": "2023-08-03"
-  },
-  {
-    "title": "The Stanley Parable",
-    "rankings": {
-      "RPS": 99
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": true,
-      "steamdeck": "platinum",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "Epic Games"
-    ],
-    "steam_id": 221910,
-    "user_score": 0.9235850418712099,
-    "total_reviews": 27704,
-    "price": "CDN$ 19.49",
-    "header_image": "https://media.rawg.io/media/screenshots/8f0/8f0b94922ad5e59968852649697b2643.jpg",
-    "metacritic": 88,
-    "release_date": "2013-10-17"
-  },
-  {
-    "title": "Blood",
-    "rankings": {
-      "RPS": 98
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "unknown",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "GOG"
-    ],
-    "steam_id": 1116750,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": "https://media.rawg.io/media/screenshots/60b/60b74fccd30274db00ef51b97b41862c.jpg",
-    "metacritic": 82,
-    "release_date": "1997-03-07"
-  },
-  {
-    "title": "QWOP",
-    "rankings": {
-      "RPS": 96
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "unknown",
-      "switch": false
-    },
-    "stores": [
-      "Google Play"
-    ],
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": "https://media.rawg.io/media/screenshots/3ed/3eda3818a95d308047b454a10105d9da.jpg",
-    "metacritic": null,
-    "release_date": null
-  },
-  {
-    "title": "Quake",
-    "rankings": {
-      "RPS": 95
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": true
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "Nintendo Store",
-      "Epic Games"
-    ],
-    "steam_id": 2310,
-    "user_score": 0.9650689577210039,
-    "total_reviews": 8846,
-    "price": "CDN$ 13.49",
-    "header_image": "https://media.rawg.io/media/games/3a8/3a82d7f5c90ab082fe475e28d58bee8b.jpg",
-    "metacritic": 94,
-    "release_date": "1996-06-22"
-  },
-  {
-    "title": "Prison Architect",
-    "rankings": {
-      "RPS": 94
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": true,
-      "steamdeck": "gold",
-      "switch": true
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "GOG",
-      "Nintendo Store",
-      "Epic Games"
-    ],
-    "steam_id": 233450,
-    "user_score": 0.8919756876227898,
-    "total_reviews": 32576,
-    "price": "CDN$ 39.99",
-    "header_image": "https://media.rawg.io/media/games/6bc/6bc79f5bc023b1e6938f6eaf9926f073.jpg",
-    "metacritic": 83,
-    "release_date": "2015-10-05"
-  },
-  {
-    "title": "Against The Storm",
-    "rankings": {
-      "RPS": 90
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "platinum",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "GOG",
-      "Epic Games"
-    ],
-    "steam_id": 1336490,
-    "user_score": 0.9544663371162013,
-    "total_reviews": 14363,
-    "price": "CDN$ 19.99",
-    "header_image": "https://media.rawg.io/media/screenshots/c7d/c7df14c2f6efd2bb035aa89f7c7ca30a.jpg",
-    "metacritic": null,
-    "release_date": "2023-12-08"
-  },
-  {
-    "title": "Resident Evil II Remake",
-    "rankings": {
-      "RPS": 89
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "unknown",
-      "switch": true
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store"
-    ],
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": "https://media.rawg.io/media/games/053/053fc543bf488349610f1ae2d0c1b51b.jpg",
-    "metacritic": 91,
-    "release_date": "2019-01-25"
-  },
-  {
-    "title": "Cities Skylines",
-    "rankings": {
-      "RPS": 88
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": true,
-      "steamdeck": "gold",
-      "switch": true
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "Nintendo Store",
-      "Epic Games"
-    ],
-    "steam_id": 255710,
-    "user_score": 0.9314469550572715,
-    "total_reviews": 92629,
-    "price": "CDN$ 39.99",
-    "header_image": "https://media.rawg.io/media/games/25c/25c4776ab5723d5d735d8bf617ca12d9.jpg",
-    "metacritic": 85,
-    "release_date": "2015-03-10"
-  },
-  {
-    "title": "Hi-Fi Rush",
-    "rankings": {
-      "RPS": 86
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "platinum",
-      "switch": false
-    },
-    "stores": [
-      "Steam"
-    ],
-    "steam_id": 1817230,
-    "user_score": 0.9794878581353801,
-    "total_reviews": 15113,
-    "price": "CDN$ 38.99",
-    "header_image": "https://media.rawg.io/media/games/62f/62f71917e64e913f2a893e7373319c60.jpg",
-    "metacritic": null,
-    "release_date": "2023-01-25"
-  },
-  {
-    "title": "Total War Warhammer III",
-    "rankings": {
-      "RPS": 83
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": true,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "Epic Games"
-    ],
-    "steam_id": 1142710,
-    "user_score": 0.7232031506399738,
-    "total_reviews": 45705,
-    "price": "CDN$ 79.99",
-    "header_image": "https://media.rawg.io/media/games/0fc/0fcb485572f6074c611521984a033a5c.jpg",
-    "metacritic": 85,
-    "release_date": "2022-02-17"
-  },
-  {
-    "title": "Legacy of Kain Soul Reaver",
-    "rankings": {
-      "RPS": 82
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "GOG"
-    ],
-    "steam_id": 224940,
-    "user_score": 0.6335540838852097,
-    "total_reviews": 453,
-    "price": "CDN$ 8.99",
-    "header_image": "https://media.rawg.io/media/games/84d/84da5a0c948592becea7a022e151a8b0.jpg",
-    "metacritic": 91,
-    "release_date": "1999-08-16"
-  },
-  {
-    "title": "Tetris Effect",
-    "rankings": {
-      "RPS": 81
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "unknown",
-      "switch": false
-    },
-    "stores": [
-      "PlayStation Store",
-      "Epic Games"
-    ],
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": "https://media.rawg.io/media/games/59d/59d568770eecc7b3f18fcedd314b68d3.jpg",
-    "metacritic": 90,
-    "release_date": "2018-11-09"
-  },
-  {
-    "title": "Plants vs. Zombies",
-    "rankings": {
-      "RPS": 78
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "unknown",
-      "switch": false
-    },
-    "stores": [
-      "Xbox Store",
-      "App Store",
-      "Nintendo Store",
-      "Xbox 360 Store",
-      "Google Play"
-    ],
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": "https://media.rawg.io/media/screenshots/590/590aa45fbab8d43b57f93dd60027af7f.jpg",
-    "metacritic": 86,
-    "release_date": "2009-05-05"
-  },
-  {
-    "title": "Tekken VII",
-    "rankings": {
-      "RPS": 76
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store"
-    ],
-    "steam_id": 389730,
-    "user_score": 0.9094204125876495,
-    "total_reviews": 29521,
-    "price": "CDN$ 53.49",
-    "header_image": "https://media.rawg.io/media/games/62b/62b035add7205737540d66e082b85930.jpg",
-    "metacritic": 82,
-    "release_date": "2015-03-18"
-  },
-  {
-    "title": "Roadwarden",
-    "rankings": {
-      "RPS": 75
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": true,
-      "steamdeck": "platinum",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "GOG"
-    ],
-    "steam_id": 1155970,
-    "user_score": 0.9534482758620689,
-    "total_reviews": 2900,
-    "price": "CDN$ 12.49",
-    "header_image": "https://media.rawg.io/media/screenshots/216/216b292b866abcd42afde82f759c3ac3.jpg",
-    "metacritic": null,
-    "release_date": "2022-09-08"
-  },
-  {
-    "title": "Far Cry IV",
-    "rankings": {
-      "RPS": 73
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "Xbox 360 Store"
-    ],
-    "steam_id": 298110,
-    "user_score": 0.8080243525126004,
-    "total_reviews": 20039,
-    "price": "CDN$ 7.99",
-    "header_image": "https://media.rawg.io/media/games/b39/b396dac1f3e0f538841aa0355dd066d3.jpg",
-    "metacritic": 80,
-    "release_date": "2014-11-18"
-  },
-  {
-    "title": "What Remains of Edith Finch",
-    "rankings": {
-      "RPS": 71
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "platinum",
-      "switch": true
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "App Store",
-      "GOG",
-      "Nintendo Store",
-      "Epic Games"
-    ],
-    "steam_id": 501300,
-    "user_score": 0.9415853401670996,
-    "total_reviews": 14243,
-    "price": "CDN$ 25.99",
-    "header_image": "https://media.rawg.io/media/games/34e/34e100b1f648de99f32d477065f04653.jpg",
-    "metacritic": 89,
-    "release_date": "2017-04-23"
-  },
-  {
-    "title": "The Secret of Monkey Island: Special Edition",
-    "rankings": {
-      "RPS": 70
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "App Store",
-      "Xbox 360 Store"
-    ],
-    "steam_id": 32360,
-    "user_score": 0.9594594594594594,
-    "total_reviews": 2812,
-    "price": "CDN$ 12.99",
-    "header_image": "https://media.rawg.io/media/screenshots/656/65654f69256420c0126eb506c1a72d7f.jpg",
-    "metacritic": 86,
-    "release_date": "2009-07-15"
-  },
-  {
-    "title": "Sid Meier's Pirates! Live the Life",
-    "rankings": {
-      "RPS": 68
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "unknown",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "Xbox Store",
-      "App Store",
-      "GOG",
-      "Nintendo Store",
-      "Xbox 360 Store"
-    ],
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": "https://media.rawg.io/media/games/7ca/7ca90d463ea0c0252e7d01afe897ffa8.jpg",
-    "metacritic": 88,
-    "release_date": "2004-11-22"
-  },
-  {
-    "title": "Heaven's Vault",
-    "rankings": {
-      "RPS": 66
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "platinum",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "GOG"
-    ],
-    "steam_id": 774201,
-    "user_score": 0.8745595489781536,
-    "total_reviews": 1419,
-    "price": "CDN$ 28.99",
-    "header_image": "https://media.rawg.io/media/games/df6/df60abe956af265beb549507464df2f7.jpg",
-    "metacritic": 75,
-    "release_date": "2019-04-15"
-  },
-  {
-    "title": "Gears of War: E-Day",
-    "rankings": {
-      "RPS": 65
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "unknown",
-      "switch": false
-    },
-    "stores": [
-      "Steam"
-    ],
-    "steam_id": 3010850,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": "https://media.rawg.io/media/screenshots/2dd/2ddacaf4a439076f390beaca74707bcb.jpg",
-    "metacritic": null,
-    "release_date": null
-  },
-  {
-    "title": "Forza Horizon IV",
-    "rankings": {
-      "RPS": 64
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "silver",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "Xbox Store"
-    ],
-    "steam_id": 1293830,
-    "user_score": 0.8881979695431472,
-    "total_reviews": 47280,
-    "price": "CDN$ 79.99",
-    "header_image": "https://media.rawg.io/media/games/786/7863e587bac630de82fca50d799236a9.jpg",
-    "metacritic": 90,
-    "release_date": "2018-10-02"
-  },
-  {
-    "title": "Stray",
-    "rankings": {
-      "RPS": 63
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": false,
-      "steamdeck": "platinum",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "App Store"
-    ],
-    "steam_id": 1332010,
-    "user_score": 0.9743578485181119,
-    "total_reviews": 68325,
-    "price": "CDN$ 39.99",
-    "header_image": "https://media.rawg.io/media/games/cd3/cd3c9c7d3e95cb1608fd6250f1b90b7a.jpg",
-    "metacritic": 82,
-    "release_date": "2022-07-19"
-  },
-  {
-    "title": "Dragon Age II",
-    "rankings": {
-      "RPS": 62
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "unknown",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "Xbox 360 Store"
-    ],
-    "steam_id": 99809,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": "https://media.rawg.io/media/games/974/974d08635981db7677630327ce1fe4bb.jpg",
-    "metacritic": 81,
-    "release_date": "2011-03-08"
-  },
-  {
-    "title": "Before Your Eyes",
-    "rankings": {
-      "RPS": 60
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "GOG",
-      "itch.io",
-      "Epic Games"
-    ],
-    "steam_id": 1082430,
-    "user_score": 0.9814364855671105,
-    "total_reviews": 10289,
-    "price": "CDN$ 12.99",
-    "header_image": "https://media.rawg.io/media/games/05a/05addb2c6604db3f6d667ec7f3b637ea.jpg",
-    "metacritic": null,
-    "release_date": "2021-04-07"
-  },
-  {
-    "title": "Terraria",
-    "rankings": {
-      "RPS": 59
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": true,
-      "steamdeck": "gold",
-      "switch": true
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "App Store",
-      "GOG",
-      "Nintendo Store",
-      "Google Play"
-    ],
-    "steam_id": 105600,
-    "user_score": 0.9775452474994926,
-    "total_reviews": 536991,
-    "price": "₩ 11,000",
-    "header_image": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
-    "metacritic": 81,
-    "release_date": "2011-05-16"
-  },
-  {
-    "title": "SOMA",
-    "rankings": {
-      "RPS": 58
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": true,
-      "steamdeck": "platinum",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "GOG",
-      "Epic Games"
-    ],
-    "steam_id": 282140,
-    "user_score": 0.957943207981581,
-    "total_reviews": 19545,
-    "price": "CDN$ 38.99",
-    "header_image": "https://media.rawg.io/media/games/149/149bbed9d90dc09328ba79bbacfda3c8.jpg",
-    "metacritic": 84,
-    "release_date": "2015-09-21"
-  },
-  {
-    "title": "Satisfactory",
-    "rankings": {
-      "RPS": 57
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "platinum",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "Epic Games"
-    ],
-    "steam_id": 526870,
-    "user_score": 0.973014028219558,
-    "total_reviews": 98088,
-    "price": "CDN$ 51.99",
-    "header_image": "https://media.rawg.io/media/games/9b0/9b03581c1ba7df63e221eb0828f8bb52.jpg",
-    "metacritic": null,
-    "release_date": "2024-09-11"
-  },
-  {
-    "title": "The Sims IV",
-    "rankings": {
-      "RPS": 55
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store"
-    ],
-    "steam_id": 1222670,
-    "user_score": 0.8877796822161486,
-    "total_reviews": 43174,
-    "price": "N/A",
-    "header_image": "https://media.rawg.io/media/games/e44/e445335e611b4ccf03af71fffcbd30a4.jpg",
-    "metacritic": 67,
-    "release_date": "2014-09-02"
-  },
-  {
-    "title": "Metal Gear Solid V The Phantom Pain",
-    "rankings": {
-      "RPS": 54
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "platinum",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "Xbox 360 Store"
-    ],
-    "steam_id": 287700,
-    "user_score": 0.9162392244273169,
-    "total_reviews": 37237,
-    "price": "CDN$ 29.99",
-    "header_image": "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg",
-    "metacritic": 91,
-    "release_date": "2015-09-01"
-  },
-  {
-    "title": "OlliOlli World",
-    "rankings": {
-      "RPS": 52
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": true
-    },
-    "stores": [
-      "Steam",
-      "Nintendo Store"
-    ],
-    "steam_id": 1190170,
-    "user_score": 0.9357142857142857,
-    "total_reviews": 560,
-    "price": "CDN$ 25.99",
-    "header_image": "https://media.rawg.io/media/games/6c4/6c44f016aa1293cf9fb60cb1812dc687.jpg",
-    "metacritic": null,
-    "release_date": "2022-02-07"
-  },
-  {
-    "title": "Totally Accurate Battle Simulator",
-    "rankings": {
-      "RPS": 51
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": true
-    },
-    "stores": [
-      "Steam",
-      "Xbox Store",
-      "Epic Games"
-    ],
-    "steam_id": 508440,
-    "user_score": 0.9812277543391922,
-    "total_reviews": 72767,
-    "price": "A$ 29.99",
-    "header_image": "https://media.rawg.io/media/screenshots/c76/c7664fff1b8665c1be4c665950d85878.jpg",
-    "metacritic": null,
-    "release_date": "2021-04-01"
-  },
-  {
-    "title": "Hades II",
-    "rankings": {
-      "RPS": 48
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": false,
-      "steamdeck": "platinum",
-      "switch": false
-    },
-    "stores": [
-      "Steam"
-    ],
-    "steam_id": 1145350,
-    "user_score": 0.9689206668582926,
-    "total_reviews": 27832,
-    "price": "₩ 32,000",
-    "header_image": "",
-    "metacritic": null,
-    "release_date": null
-  },
-  {
-    "title": "Tactical Breach Wizards",
-    "rankings": {
-      "RPS": 46
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "platinum",
-      "switch": false
-    },
-    "stores": [
-      "Steam"
-    ],
-    "steam_id": 1043810,
-    "user_score": 0.9841684064022269,
-    "total_reviews": 5748,
-    "price": "CDN$ 25.99",
-    "header_image": "https://media.rawg.io/media/screenshots/0ce/0ce263ed58e30ecf3085c61dd865b4a6.jpg",
-    "metacritic": null,
-    "release_date": null
-  },
-  {
-    "title": "Rocket League",
-    "rankings": {
-      "RPS": 45
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "platinum",
-      "switch": true
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "Nintendo Store",
-      "Epic Games"
-    ],
-    "steam_id": 252950,
-    "user_score": 0.8723912440623686,
-    "total_reviews": 223574,
-    "price": "N/A",
-    "header_image": "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
-    "metacritic": 86,
-    "release_date": "2015-07-07"
-  },
-  {
-    "title": "American Truck Simulator",
-    "rankings": {
-      "RPS": 44
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": true,
-      "steamdeck": "platinum",
-      "switch": false
-    },
-    "stores": [
-      "Steam"
-    ],
-    "steam_id": 270880,
-    "user_score": 0.973257635082224,
-    "total_reviews": 76620,
-    "price": "CDN$ 25.99",
-    "header_image": "https://media.rawg.io/media/screenshots/135/135a00cf33b0c860fcb366747e95b89b.jpg",
-    "metacritic": 76,
-    "release_date": "2016-02-02"
-  },
-  {
-    "title": "Homeworld Cataclysm",
-    "rankings": {
-      "RPS": 43
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "unknown",
-      "switch": false
-    },
-    "stores": [],
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": "",
-    "metacritic": null,
-    "release_date": null
-  },
-  {
-    "title": "Supreme Commander Forged Alliance",
-    "rankings": {
-      "RPS": 41
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam"
-    ],
-    "steam_id": 9420,
-    "user_score": 0.9647169811320755,
-    "total_reviews": 5300,
-    "price": "CDN$ 13.99",
-    "header_image": "https://media.rawg.io/media/screenshots/bb4/bb41da0fc0e3839f426ba476a9d644ef.jpg",
-    "metacritic": 81,
-    "release_date": "2007-11-06"
-  },
-  {
-    "title": "XCOM Enemy Unknown",
-    "rankings": {
-      "RPS": 39
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": true,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox 360 Store",
-      "Google Play"
-    ],
-    "steam_id": 200510,
-    "user_score": 0.9422532796021607,
-    "total_reviews": 23326,
-    "price": "CDN$ 6.59",
-    "header_image": "https://media.rawg.io/media/games/238/2383a172b4d50a7b44e07980eb7141ea.jpg",
-    "metacritic": 89,
-    "release_date": "2012-10-09"
-  },
-  {
-    "title": "Nidhogg",
-    "rankings": {
-      "RPS": 35
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store"
-    ],
-    "steam_id": 94400,
-    "user_score": 0.908256880733945,
-    "total_reviews": 3924,
-    "price": "CDN$ 10.99",
-    "header_image": "https://media.rawg.io/media/screenshots/b5f/b5f4e96a5db76ae039b88eefc1370a1b.jpg",
-    "metacritic": 81,
-    "release_date": "2014-01-13"
-  },
-  {
-    "title": "Legend of Mana",
-    "rankings": {
-      "RPS": 34
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "bronze",
-      "switch": true
-    },
-    "stores": [
-      "Steam",
-      "App Store",
-      "Nintendo Store"
-    ],
-    "steam_id": 1175830,
-    "user_score": 0.7815442561205274,
-    "total_reviews": 531,
-    "price": "CDN$ 39.99",
-    "header_image": "https://media.rawg.io/media/screenshots/ad9/ad9ffcc4613206996ace65f150d006f5.jpg",
-    "metacritic": 71,
-    "release_date": "2021-06-24"
-  },
-  {
-    "title": "A Short Hike",
-    "rankings": {
-      "RPS": 29
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": true,
-      "steamdeck": "platinum",
-      "switch": true
-    },
-    "stores": [
-      "Steam",
-      "GOG",
-      "Nintendo Store",
-      "itch.io",
-      "Epic Games"
-    ],
-    "steam_id": 1055540,
-    "user_score": 0.9920127795527156,
-    "total_reviews": 10016,
-    "price": "$7.99",
-    "header_image": "https://media.rawg.io/media/games/c38/c38deeb8f331a78c89e64ad71a1db361.jpg",
-    "metacritic": 84,
-    "release_date": "2019-07-29"
-  },
-  {
-    "title": "Warcraft III Reign of Chaos",
-    "rankings": {
-      "RPS": 28
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "unknown",
-      "switch": false
-    },
-    "stores": [],
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": "",
-    "metacritic": null,
-    "release_date": null
-  },
-  {
-    "title": "Factorio",
-    "rankings": {
-      "RPS": 25
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": true,
-      "steamdeck": "platinum",
-      "switch": true
-    },
-    "stores": [
-      "Steam",
-      "GOG",
-      "Nintendo Store"
-    ],
-    "steam_id": 427520,
-    "user_score": 0.9821633943974369,
-    "total_reviews": 97384,
-    "price": "CDN$ 45.00",
-    "header_image": "https://media.rawg.io/media/games/7e4/7e4e22b76da131e9690d5757555093c2.jpg",
-    "metacritic": 83,
-    "release_date": "2020-08-14"
-  },
-  {
-    "title": "X Beautiful Postcards",
-    "rankings": {
-      "RPS": 23
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "unknown",
-      "switch": false
-    },
-    "stores": [
-      "itch.io"
-    ],
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": "https://media.rawg.io/media/screenshots/2f0/2f03c2daf7080d90fcd0be531e42e211.jpg",
-    "metacritic": null,
-    "release_date": "2019-05-27"
-  },
-  {
-    "title": "Opus Magnum",
-    "rankings": {
-      "RPS": 19
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": true,
-      "steamdeck": "platinum",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "GOG",
-      "itch.io"
-    ],
-    "steam_id": 558990,
-    "user_score": 0.9694767441860465,
-    "total_reviews": 2752,
-    "price": "CDN$ 25.99",
-    "header_image": "https://media.rawg.io/media/games/dda/dda32189c8a4a0231fa9bd8012f72df1.jpg",
-    "metacritic": null,
-    "release_date": "2017-10-19"
-  },
-  {
-    "title": "Inscryption",
-    "rankings": {
-      "RPS": 18
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": true,
-      "steamdeck": "platinum",
-      "switch": true
-    },
-    "stores": [
-      "Steam",
-      "GOG",
-      "Nintendo Store"
-    ],
-    "steam_id": 1092790,
-    "user_score": 0.9695741282136291,
-    "total_reviews": 66358,
-    "price": "CDN$ 22.79",
-    "header_image": "https://media.rawg.io/media/games/73e/73efc5c0ac6f354271dae610276f617c.jpg",
-    "metacritic": 86,
-    "release_date": "2021-10-19"
-  },
-  {
-    "title": "Resident Evil 4 (Remake)",
-    "rankings": {
-      "RPS": 17
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "unknown",
-      "switch": false
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store"
-    ],
-    "steam_id": null,
-    "user_score": null,
-    "total_reviews": 0,
-    "price": "N/A",
-    "header_image": "https://media.rawg.io/media/games/51a/51a404b9918a0b19fc704a3ca248c69f.jpg",
-    "metacritic": null,
-    "release_date": "2023-03-24"
-  },
-  {
-    "title": "Final Fantasy IX",
-    "rankings": {
-      "RPS": 14
-    },
-    "platforms": {
-      "windows": true,
-      "macos": false,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": true
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "App Store",
-      "Nintendo Store",
-      "Google Play"
-    ],
-    "steam_id": 377840,
-    "user_score": 0.9406717780211756,
-    "total_reviews": 5478,
-    "price": "CDN$ 23.99",
-    "header_image": "https://media.rawg.io/media/games/826/82626e2d7ee7d96656fb9838c2ef7302.jpg",
-    "metacritic": 84,
-    "release_date": "2000-07-07"
-  },
-  {
-    "title": "Subnautica",
-    "rankings": {
-      "RPS": 5
-    },
-    "platforms": {
-      "windows": true,
-      "macos": true,
-      "linux": false,
-      "steamdeck": "gold",
-      "switch": true
-    },
-    "stores": [
-      "Steam",
-      "PlayStation Store",
-      "Xbox Store",
-      "Nintendo Store",
-      "Epic Games"
-    ],
-    "steam_id": 264710,
-    "user_score": 0.9678450998233689,
-    "total_reviews": 149464,
-    "price": "₩ 32,000",
-    "header_image": "https://media.rawg.io/media/games/739/73990e3ec9f43a9e8ecafe207fa4f368.jpg",
-    "metacritic": 83,
-    "release_date": "2018-01-23"
   }
 ]

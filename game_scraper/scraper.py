@@ -6,19 +6,20 @@ from typing import Dict, List, Optional, Any
 from difflib import SequenceMatcher
 import requests
 
+from .config import config
 from .special_cases import load_special_cases
 from .utils import (
     clean_title_for_matching,
     is_roman_numeral,
     numeral_to_number,
 )
-from .scrapers import BaseScraper, get_all_scrapers
-from .config import ConfigHandler
+from .scrapers import get_all_scrapers
 
 class GameScraper:
     def __init__(self):
-        self.config = ConfigHandler()
-        self.rawg_api_key = self.config.get_api_key('RAWG')
+        # Initialize config handler
+        config.setup_config()
+        self.rawg_api_key = config.get_api_key('RAWG')
         if not self.rawg_api_key:
             raise ValueError("RAWG API key not found in environment variables or config file")
 
@@ -40,8 +41,8 @@ class GameScraper:
         # Collect all games which couldn't be found
         self.unmatched_games: List[str] = []
 
-        # Load all scrapers
-        self.scrapers: List[BaseScraper] = [scraper() for scraper in get_all_scrapers()]
+        # Load all scrapers - they're already instantiated
+        self.scrapers: List[BaseScraper] = get_all_scrapers()
 
     def normalize_title(self, title: str) -> str:
         """Normalize game title to improve matching"""
@@ -108,10 +109,12 @@ class GameScraper:
 
             response = requests.get(url, params=params)
             if response.status_code != 200:
+                print(f"RAWG API error: Status {response.status_code}")
                 return None
 
             data = response.json()
             if not data['results']:
+                print(f"No RAWG data found for: {game_title}")
                 return None
 
             game = data['results'][0]
@@ -132,7 +135,7 @@ class GameScraper:
 
             # Cache the results
             with open(cache_file, 'w', encoding='utf-8') as f:
-                json.dump(rawg_info, f)
+                json.dump(rawg_info, f, indent=2)
 
             time.sleep(1)  # Rate limiting
             return rawg_info
@@ -356,6 +359,7 @@ class GameScraper:
                     if 'Steam' not in game_data['stores']:
                         game_data['stores'].append('Steam')
 
+                print(f"{rawg_info}")
                 if rawg_info:
                     # Update platforms with Switch availability
                     if 'Nintendo Switch' in rawg_info.get('platforms', []):
